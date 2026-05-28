@@ -119,7 +119,11 @@ fig = px.bar(
 )
 fig.update_traces(texttemplate="%{x:.1f}", textposition="outside")
 fig.update_layout(
-    **plotly_base(height=max(300, top_n * 36)),
+    height=max(300, top_n * 36),
+    paper_bgcolor="#f7f7f5",
+    plot_bgcolor="#ffffff",
+    font=dict(family="Inter, sans-serif", size=12, color="#666666"),
+    margin=dict(l=0, r=60, t=10, b=10),
     xaxis=dict(showgrid=True, gridcolor="#eeeeec", title=""),
     yaxis=dict(title="", categoryorder="total ascending" if not ascending else "total descending"),
     showlegend=False,
