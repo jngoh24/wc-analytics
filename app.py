@@ -33,16 +33,35 @@ avg_xg       = round(lb["xg_per_game"].mean(), 2) if "xg_per_game" in lb.columns
 avg_hsr      = round(lb["rel_hsr_runs_per_game"].mean(), 1) if "rel_hsr_runs_per_game" in lb.columns else 0
 avg_hsr_dist = round(lb["rel_hsr_dist_m_per_game"].mean(), 0) if "rel_hsr_dist_m_per_game" in lb.columns else 0
 
-hero(
-    title="FIFA World Cup 2022 · Team Leaderboard",
-    subtitle="GradientSports tracking + StatsBomb event data · 64 matches · 32 teams",
-    kpis=[
-        {"label": "Total Goals",    "value": total_goals,          "sub": f"{total_goals/64:.2f} per game"},
-        {"label": "Avg xG / Game",  "value": avg_xg,               "sub": "StatsBomb model"},
-        {"label": "Avg Rel. HSR/G", "value": avg_hsr,              "sub": "≥80% vMax · ≥1 sec"},
-        {"label": "Avg HSR Dist/G", "value": f"{int(avg_hsr_dist)} m", "sub": "GradientSports tracking"},
-    ]
-)
+# Dark hero strip using native Streamlit
+st.markdown(f"""
+<div style="background:#111;padding:20px 0 24px;margin-bottom:1.5rem;border-bottom:0.5px solid #2a2a2a;">
+    <p style="font-size:20px;font-weight:600;color:#fff;margin:0 0 4px;">FIFA World Cup 2022 · Team Leaderboard</p>
+    <p style="font-size:12px;color:#888;margin:0 0 16px;">GradientSports tracking + StatsBomb event data · 64 matches · 32 teams</p>
+    <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;">
+        <div style="background:#1a1a1a;border-radius:8px;padding:12px 14px;border:0.5px solid #2a2a2a;">
+            <p style="font-size:10px;color:#555;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Total Goals</p>
+            <p style="font-size:22px;font-weight:600;color:#fff;margin:0;">{total_goals}</p>
+            <p style="font-size:11px;color:#4ade9a;margin-top:2px;">{total_goals/64:.2f} per game</p>
+        </div>
+        <div style="background:#1a1a1a;border-radius:8px;padding:12px 14px;border:0.5px solid #2a2a2a;">
+            <p style="font-size:10px;color:#555;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Avg xG / Game</p>
+            <p style="font-size:22px;font-weight:600;color:#fff;margin:0;">{avg_xg}</p>
+            <p style="font-size:11px;color:#4ade9a;margin-top:2px;">StatsBomb model</p>
+        </div>
+        <div style="background:#1a1a1a;border-radius:8px;padding:12px 14px;border:0.5px solid #2a2a2a;">
+            <p style="font-size:10px;color:#555;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Avg Rel. HSR/G</p>
+            <p style="font-size:22px;font-weight:600;color:#fff;margin:0;">{avg_hsr}</p>
+            <p style="font-size:11px;color:#4ade9a;margin-top:2px;">≥80% vMax · ≥1 sec</p>
+        </div>
+        <div style="background:#1a1a1a;border-radius:8px;padding:12px 14px;border:0.5px solid #2a2a2a;">
+            <p style="font-size:10px;color:#555;margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px;">Avg HSR Dist/G</p>
+            <p style="font-size:22px;font-weight:600;color:#fff;margin:0;">{int(avg_hsr_dist)} m</p>
+            <p style="font-size:11px;color:#4ade9a;margin-top:2px;">GradientSports tracking</p>
+        </div>
+    </div>
+</div>
+""", unsafe_allow_html=True)
 
 # ── Stat selector ────────────────────────────────────────────────────────────
 STAT_OPTIONS = {
