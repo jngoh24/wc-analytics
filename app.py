@@ -15,7 +15,7 @@ st.set_page_config(
     page_title="wc-analytics · Leaderboard",
     page_icon="⚽",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="expanded",  # ← ensures sidebar always opens on load
 )
 
 inject_css()
