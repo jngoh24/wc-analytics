@@ -1,0 +1,49 @@
+team_name,sb_team_id,has_predicted_data,games_in_sample,data_quality,competitions_used
+United States,1839,yes,3.0,limited,Copa2024
+Canada,1833,yes,6.0,good,Copa2024
+Mexico,794,yes,3.0,limited,Copa2024
+England,768,yes,7.0,good,EURO2024
+France,771,yes,6.0,good,EURO2024
+Germany,770,yes,5.0,good,EURO2024
+Spain,772,yes,7.0,good,EURO2024
+Portugal,780,yes,5.0,good,EURO2024
+Netherlands,941,yes,6.0,good,EURO2024
+Belgium,782,yes,4.0,limited,EURO2024
+Switzerland,773,yes,5.0,good,EURO2024
+Croatia,785,yes,3.0,limited,EURO2024
+Scotland,942,yes,3.0,limited,EURO2024
+Austria,915,yes,4.0,limited,EURO2024
+Czechia,912,yes,3.0,limited,EURO2024
+Turkiye,909,yes,5.0,good,EURO2024
+Argentina,779,yes,6.0,good,Copa2024
+Brazil,781,yes,4.0,limited,Copa2024
+Colombia,769,yes,6.0,good,Copa2024
+Paraguay,3567,yes,3.0,limited,Copa2024
+Uruguay,783,yes,6.0,good,Copa2024
+Morocco,788,yes,4.0,limited,AFCON2023
+Senegal,787,yes,4.0,limited,AFCON2023
+Ghana,4885,yes,3.0,limited,AFCON2023
+Tunisia,777,yes,3.0,limited,AFCON2023
+Algeria,4898,yes,3.0,limited,AFCON2023
+Egypt,774,yes,4.0,limited,AFCON2023
+Ivory Coast,3374,yes,7.0,good,AFCON2023
+South Africa,4976,yes,7.0,good,AFCON2023
+Cape Verde,4924,yes,5.0,good,AFCON2023
+DR Congo,4881,yes,7.0,good,AFCON2023
+Panama,798,yes,4.0,limited,Copa2024
+Japan,None,no,0.0,none,no data
+South Korea,None,no,0.0,none,no data
+Australia,None,no,0.0,none,no data
+Iran,None,no,0.0,none,no data
+Saudi Arabia,None,no,0.0,none,no data
+Qatar,None,no,0.0,none,no data
+Jordan,None,no,0.0,none,no data
+Uzbekistan,None,no,0.0,none,no data
+Norway,None,no,0.0,none,no data
+Bosnia and Herzegovina,None,no,0.0,none,no data
+Sweden,None,no,0.0,none,no data
+Iraq,None,no,0.0,none,no data
+Ecuador,None,no,0.0,none,no data
+Haiti,None,no,0.0,none,no data
+Curacao,None,no,0.0,none,no data
+New Zealand,None,no,0.0,none,no data

@@ -1,0 +1,65 @@
+match_id,competition_name,match_date,home_team,away_team,home_team_id,away_team_id,home_score,away_score,match_stage,match_week
+3857276,WC22,2022-12-01,Canada,Morocco,1833,788,1,2,Group Stage,3
+3857271,WC22,2022-11-21,England,Iran,768,797,6,2,Group Stage,1
+3857296,WC22,2022-12-01,Croatia,Belgium,785,782,0,0,Group Stage,3
+3857274,WC22,2022-11-25,Netherlands,Ecuador,941,3565,1,1,Group Stage,2
+3857255,WC22,2022-12-01,Japan,Spain,778,772,2,1,Group Stage,3
+3857272,WC22,2022-11-25,England,United States,768,1839,0,0,Group Stage,2
+3857278,WC22,2022-11-29,Iran,United States,797,1839,0,1,Group Stage,3
+3857277,WC22,2022-11-23,Morocco,Croatia,788,785,0,0,Group Stage,1
+3857273,WC22,2022-11-25,Wales,Iran,907,797,0,2,Group Stage,2
+3857275,WC22,2022-11-30,Tunisia,France,777,771,1,0,Group Stage,3
+3857261,WC22,2022-11-29,Wales,England,907,768,0,3,Group Stage,3
+3857290,WC22,2022-11-24,Switzerland,Cameroon,773,2722,1,0,Group Stage,1
+3857298,WC22,2022-11-24,Portugal,Ghana,780,4885,3,2,Group Stage,1
+3857285,WC22,2022-11-21,Senegal,Netherlands,787,941,0,2,Group Stage,1
+3857282,WC22,2022-11-21,United States,Wales,1839,907,1,1,Group Stage,1
+3857297,WC22,2022-11-26,Poland,Saudi Arabia,789,799,2,0,Group Stage,2
+3857294,WC22,2022-11-29,Netherlands,Qatar,941,3566,2,0,Group Stage,3
+3857266,WC22,2022-11-26,France,Denmark,771,776,2,1,Group Stage,2
+3857284,WC22,2022-11-23,Germany,Japan,770,778,1,2,Group Stage,1
+3857254,WC22,2022-11-22,Denmark,Tunisia,776,777,0,0,Group Stage,1
+3857265,WC22,2022-11-22,Mexico,Poland,794,789,0,0,Group Stage,1
+3857301,WC22,2022-11-25,Qatar,Senegal,3566,787,1,3,Group Stage,2
+3857268,WC22,2022-11-23,Belgium,Canada,782,1833,1,0,Group Stage,1
+3857269,WC22,2022-11-28,Brazil,Switzerland,781,773,1,0,Group Stage,2
+3869321,WC22,2022-12-09,Netherlands,Argentina,941,779,2,2,Quarter-finals,5
+3857292,WC22,2022-12-01,Costa Rica,Germany,795,770,2,4,Group Stage,3
+3857295,WC22,2022-11-27,Japan,Costa Rica,778,795,0,1,Group Stage,2
+3869685,WC22,2022-12-18,Argentina,France,779,771,3,3,Final,7
+3869684,WC22,2022-12-17,Croatia,Morocco,785,788,2,1,3rd Place Final,7
+3857256,WC22,2022-12-02,Serbia,Switzerland,786,773,2,3,Group Stage,3
+3869151,WC22,2022-12-03,Argentina,Australia,779,792,2,1,Round of 16,4
+3857257,WC22,2022-11-30,Australia,Denmark,792,776,1,0,Group Stage,3
+3857258,WC22,2022-11-24,Brazil,Serbia,781,786,2,0,Group Stage,1
+3857288,WC22,2022-11-26,Tunisia,Australia,777,792,0,1,Group Stage,2
+3857267,WC22,2022-11-29,Ecuador,Senegal,3565,787,1,2,Group Stage,3
+3857287,WC22,2022-11-24,Uruguay,South Korea,783,791,0,0,Group Stage,1
+3869486,WC22,2022-12-10,Morocco,Portugal,788,780,1,0,Quarter-finals,5
+3857260,WC22,2022-11-30,Saudi Arabia,Mexico,799,794,1,2,Group Stage,3
+3857264,WC22,2022-11-30,Poland,Argentina,789,779,0,2,Group Stage,3
+3857289,WC22,2022-11-26,Argentina,Mexico,779,794,2,0,Group Stage,2
+3869254,WC22,2022-12-06,Portugal,Switzerland,780,773,6,1,Round of 16,4
+3869118,WC22,2022-12-04,England,Senegal,768,787,3,0,Round of 16,4
+3869519,WC22,2022-12-13,Argentina,Croatia,779,785,3,0,Semi-finals,6
+3869354,WC22,2022-12-10,England,France,768,771,1,2,Quarter-finals,5
+3869552,WC22,2022-12-14,France,Morocco,771,788,2,0,Semi-finals,6
+3869420,WC22,2022-12-09,Croatia,Brazil,785,781,1,1,Quarter-finals,5
+3869220,WC22,2022-12-06,Morocco,Spain,788,772,0,0,Round of 16,4
+3869219,WC22,2022-12-05,Japan,Croatia,778,785,1,1,Round of 16,4
+3869253,WC22,2022-12-05,Brazil,South Korea,781,791,4,1,Round of 16,4
+3869152,WC22,2022-12-04,France,Poland,771,789,3,1,Round of 16,4
+3869117,WC22,2022-12-03,Netherlands,United States,941,1839,3,1,Round of 16,4
+3857270,WC22,2022-11-28,Portugal,Uruguay,780,783,2,0,Group Stage,2
+3857263,WC22,2022-11-27,Spain,Germany,772,770,1,1,Group Stage,2
+3857259,WC22,2022-11-28,Cameroon,Serbia,2722,786,3,3,Group Stage,2
+3857283,WC22,2022-11-27,Belgium,Morocco,782,788,0,2,Group Stage,2
+3857286,WC22,2022-11-20,Qatar,Ecuador,3566,3565,0,2,Group Stage,1
+3857300,WC22,2022-11-22,Argentina,Saudi Arabia,779,799,1,2,Group Stage,1
+3857299,WC22,2022-11-28,South Korea,Ghana,791,4885,2,3,Group Stage,2
+3857293,WC22,2022-12-02,Ghana,Uruguay,4885,783,0,2,Group Stage,3
+3857291,WC22,2022-11-23,Spain,Costa Rica,772,795,7,0,Group Stage,1
+3857281,WC22,2022-11-27,Croatia,Canada,785,1833,4,1,Group Stage,2
+3857280,WC22,2022-12-02,Cameroon,Brazil,2722,781,1,0,Group Stage,3
+3857279,WC22,2022-11-22,France,Australia,771,792,4,1,Group Stage,1
+3857262,WC22,2022-12-02,South Korea,Portugal,791,780,2,1,Group Stage,3

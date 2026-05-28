@@ -1,0 +1,1412 @@
+player_id,player,team_id,team,position,pred_goals_per_game,pred_xg_per_game,pred_shots_per_game,pred_passes_per_game,pred_pass_completion_pct,pred_pressures_per_game,pred_crosses_per_game,pred_dribbles_per_game,pred_interceptions_per_game,games_in_sample,competitions_used,data_quality
+3382.0,Luke Shaw,768,England,Left Back,0.0,0.0,0.0,21.0,90.5,10.0,0.0,2.0,1.0,3,EURO2024,limited
+3494.0,Davinson Sánchez Mina,769,Colombia,Right Center Back,0.17,0.21,1.2,50.0,78.9,5.7,0.0,0.5,0.7,7,Copa2024,good
+5487.0,Antoine Griezmann,771,France,Center Attacking Midfield,0.0,0.34,2.0,30.5,78.2,12.3,2.5,0.3,0.0,7,EURO2024,good
+50436.0,Fabian Rieder,773,Switzerland,Left Wing,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6,EURO2024,good
+7005.0,João Pedro Cavaco Cancelo,780,Portugal,Right Back,0.0,0.02,0.3,60.3,86.1,8.3,2.7,5.3,1.3,5,EURO2024,good
+8518.0,Marcel Sabitzer,915,Austria,Left Wing,0.33,0.19,2.7,22.7,64.1,7.3,2.0,1.7,0.3,7,EURO2024,good
+9640.0,Jarrod Bowen,768,England,Right Midfield,0.0,0.0,0.0,3.0,66.7,1.0,0.0,0.0,0.0,4,EURO2024,limited
+10955.0,Harry Kane,768,England,Right Center Forward,1.0,0.5,1.0,3.0,66.7,2.0,0.0,0.0,0.0,7,EURO2024,good
+12169.0,João Maria Lobo Alves Palhinha Gonçalves,780,Portugal,Right Center Back,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,5,EURO2024,good
+18797.0,Ryan Porteous,942,Scotland,Right Center Back,0.0,0.0,0.0,26.0,76.9,3.0,1.0,0.0,1.0,1,EURO2024,poor
+19597.0,Marcos Javier Acuña,779,Argentina,Left Wing Back,0.0,0.0,0.0,3.0,66.7,1.0,0.0,0.0,0.0,4,Copa2024,limited
+30693.0,Majeed Ashimeru,4885,Ghana,Right Defensive Midfield,0.0,0.0,0.0,17.5,80.1,12.0,0.0,0.5,2.0,3,AFCON2023,limited
+105932.0,Josimar José Évora Dias,4924,Cape Verde Islands,Goalkeeper,0.0,0.0,0.0,39.2,69.3,0.0,0.0,0.2,0.0,5,AFCON2023,good
+3130.0,Gaël Kakuta,4881,Congo DR,Left Wing,0.0,0.0,0.0,4.0,50.0,3.0,0.0,1.0,0.0,5,AFCON2023,good
+6574.0,Douglas Luiz Soares de Paulo,781,Brazil,Left Defensive Midfield,0.0,0.0,0.0,13.5,84.9,2.0,0.0,0.0,0.0,4,Copa2024,limited
+8349.0,Deroy Duarte,4924,Cape Verde Islands,Right Defensive Midfield,0.0,0.14,3.0,41.0,87.8,12.0,1.0,0.0,1.0,3,AFCON2023,limited
+30401.0,Ruben Vargas,773,Switzerland,Left Center Forward,0.0,0.03,1.0,24.0,58.3,12.0,2.0,1.0,1.0,6,EURO2024,good
+3042.0,Mikel Merino Zazón,772,Spain,Left Wing,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+3313.0,Giovani Lo Celso,779,Argentina,Right Center Midfield,0.0,0.0,0.0,20.0,90.0,3.0,0.0,0.0,0.0,7,Copa2024,good
+3359.0,Jean Michaël Seri,3374,Côte d'Ivoire,Center Defensive Midfield,0.0,0.01,0.7,45.3,92.7,11.0,0.0,1.0,0.7,4,AFCON2023,limited
+5204.0,Bruno Miguel Borges Fernandes,780,Portugal,Left Defensive Midfield,0.5,0.4,1.5,53.0,70.6,7.5,2.5,1.5,0.0,6,EURO2024,good
+8817.0,Jhon Andrés Córdoba Copete,769,Colombia,Center Forward,0.0,0.15,2.0,14.0,71.4,13.0,0.0,0.0,0.0,6,Copa2024,good
+12555.0,Okay Yokuşlu,909,Turkey,Left Defensive Midfield,0.0,0.04,1.0,9.0,100.0,2.0,0.0,0.0,1.0,5,EURO2024,good
+4412.0,Samuel Moutoussamy,4881,Congo DR,Center Attacking Midfield,0.0,0.0,0.0,3.0,83.4,2.0,0.0,0.5,0.0,7,AFCON2023,good
+5634.0,Erick Javier Davis Grajales,798,Panama,Left Back,0.0,0.0,0.0,11.0,100.0,2.0,1.0,1.0,0.0,5,Copa2024,good
+9478.0,Kenneth McLean,942,Scotland,Right Defensive Midfield,0.0,0.01,0.5,6.0,86.4,0.5,0.0,0.0,0.0,4,EURO2024,limited
+23774.0,Selim Amallah,788,Morocco,Left Center Midfield,0.0,0.02,0.3,15.3,77.1,14.0,0.0,0.7,0.7,3,AFCON2023,limited
+32868.0,Bryan Alberto Silva Teixeira Jr.,4924,Cape Verde Islands,Center Forward,1.0,0.27,2.0,4.0,50.0,14.0,0.0,1.0,0.0,2,AFCON2023,poor
+37148.0,Josip Šutalo,785,Croatia,Right Center Back,0.0,0.09,0.3,66.3,94.9,11.0,0.0,1.0,4.0,3,EURO2024,limited
+133305.0,Samet Akaydin,909,Turkey,Center Back,1.0,0.25,1.0,38.0,89.5,9.0,0.0,0.0,0.0,4,EURO2024,limited
+134209.0,Barış Alper Yılmaz,909,Turkey,Right Wing,0.0,0.05,0.7,18.3,74.7,8.0,2.0,2.0,0.0,7,EURO2024,good
+7753.0,Jamiro Gregory Monteiro Alvarenga,4924,Cape Verde Islands,Left Center Midfield,0.33,0.2,1.0,36.7,78.5,17.0,1.3,0.7,0.7,6,AFCON2023,good
+21226.0,Tomáš Chorý,912,Czech Republic,Right Center Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,EURO2024,limited
+30519.0,Mohamed Salisu,4885,Ghana,Left Center Back,0.0,0.0,0.0,38.3,79.2,7.3,0.0,0.7,1.3,3,AFCON2023,limited
+39624.0,Francisco Fernandes Conceição,780,Portugal,Right Wing,0.0,0.0,0.0,17.0,70.6,3.0,2.0,4.0,1.0,6,EURO2024,good
+43555.0,Erick Daniel Sánchez Ocegueda,794,Mexico,Right Defensive Midfield,0.0,0.01,0.5,6.5,94.5,3.5,0.0,0.0,0.0,2,Copa2024,poor
+47186.0,Hernesto Ezequiel Caballero Benítez,3567,Paraguay,Left Center Midfield,0.0,0.0,0.0,21.0,57.1,16.0,0.0,1.0,1.0,3,Copa2024,limited
+50968.0,Erickson Patrick Correia Andrade,4924,Cape Verde Islands,Left Midfield,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4,AFCON2023,limited
+113279.0,Freddy Elías Góndola Smith,798,Panama,Left Midfield,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,5,Copa2024,good
+3090.0,Nicolás Hernán Otamendi,779,Argentina,Center Back,0.0,0.36,1.0,1.5,50.0,0.5,0.0,0.0,0.5,5,Copa2024,good
+5259.0,José María Giménez de Vargas,783,Uruguay,Right Center Back,0.0,0.25,0.8,25.8,79.3,6.8,0.3,0.3,1.8,7,Copa2024,good
+12149.0,Nayef Aguerd,788,Morocco,Right Center Back,0.0,0.02,0.3,67.3,91.8,4.5,0.0,0.0,0.5,4,AFCON2023,limited
+15311.0,Ahmed Hassan Mahgoub,774,Egypt,Right Center Forward,0.0,0.0,0.0,1.0,100.0,2.0,0.0,0.0,0.0,1,AFCON2023,poor
+22084.0,Bukayo Saka,768,England,Left Wing Back,1.0,0.78,1.0,5.0,60.0,2.0,0.0,0.0,0.0,7,EURO2024,good
+38718.0,Enzo Fernandez,779,Argentina,Center Defensive Midfield,0.0,0.0,0.0,14.0,85.7,7.0,0.0,0.0,1.0,7,Copa2024,good
+48720.0,João Victor Gomes da Silva,781,Brazil,Right Defensive Midfield,0.0,0.0,0.0,22.0,86.1,13.0,0.0,0.0,0.0,6,Copa2024,good
+6193.0,Andrés Mateus Uribe Villa,769,Colombia,Center Defensive Midfield,0.0,0.01,0.3,22.0,89.6,7.0,0.3,0.7,0.3,7,Copa2024,good
+16469.0,Tomáš Holeš,912,Czech Republic,Right Center Back,0.0,0.01,0.3,38.3,73.3,12.7,1.7,0.0,1.3,3,EURO2024,limited
+21633.0,Joey Veerman,941,Netherlands,Left Center Midfield,0.0,0.0,0.0,22.0,50.0,12.0,0.0,0.0,0.0,6,EURO2024,good
+133003.0,Mihlali Samson Mayambela,4976,South Africa,Right Center Forward,0.0,0.0,0.0,7.0,57.1,4.0,1.0,0.0,0.0,7,AFCON2023,good
+224603.0,Tanitoluwa Oluwaseyi,1833,Canada,Center Forward,0.0,0.37,1.8,7.3,77.1,4.0,0.3,0.0,0.0,5,Copa2024,good
+3767.0,Ellyes Joris Skhiri,777,Tunisia,Center Defensive Midfield,0.0,0.0,0.0,10.5,72.3,3.5,0.0,0.0,0.0,5,AFCON2023,good
+22600.0,Lucas Tolentino Coelho de Lima,781,Brazil,Left Midfield,1.0,1.78,4.0,35.0,80.0,18.0,0.0,1.0,0.0,5,Copa2024,good
+26368.0,César Jasib Montes Castro,794,Mexico,Right Center Back,0.0,0.05,1.0,51.3,80.5,3.7,0.0,0.0,1.3,3,Copa2024,limited
+28266.0,Rafael Santos Borré Amaury,769,Colombia,Right Center Forward,0.0,0.0,0.0,5.0,44.6,10.3,0.0,0.0,0.0,6,Copa2024,good
+67737.0,Ahmed Mohamed Abo El Fotouh Mohamed,774,Egypt,Left Back,0.0,0.05,1.5,32.5,78.3,8.5,0.5,0.5,0.0,2,AFCON2023,poor
+3306.0,Nathan Aké,941,Netherlands,Left Back,0.0,0.02,0.3,45.2,89.5,6.7,0.7,0.2,1.8,6,EURO2024,good
+3669.0,Virgil van Dijk,941,Netherlands,Left Center Back,0.0,0.06,0.8,64.2,91.2,6.5,0.0,0.0,0.5,6,EURO2024,good
+17592.0,William Saliba,771,France,Left Center Back,0.0,0.02,0.3,60.8,95.4,8.5,0.2,0.3,1.0,6,EURO2024,good
+18395.0,Vinícius José Paixão de Oliveira Júnior,781,Brazil,Left Center Forward,2.0,0.72,3.0,26.0,69.2,10.0,4.0,16.0,0.0,4,Copa2024,limited
+21633.0,Joey Veerman,941,Netherlands,Center Attacking Midfield,0.0,0.0,0.0,40.0,82.5,7.0,1.0,0.0,1.0,6,EURO2024,good
+26151.0,Ricardo Daniel Pepi,1839,United States,Center Forward,0.0,0.72,2.3,9.3,92.4,11.3,0.0,0.7,0.3,4,Copa2024,limited
+31067.0,Billy Gilmour,942,Scotland,Center Defensive Midfield,0.0,0.0,0.0,8.0,87.5,8.0,0.0,0.0,0.0,3,EURO2024,limited
+44455.0,Sávio Moreira de Oliveira,781,Brazil,Right Midfield,0.33,0.24,1.0,11.3,97.4,4.7,0.0,3.7,0.0,6,Copa2024,good
+3076.0,Ayoze Pérez Gutiérrez,772,Spain,Left Wing,0.0,0.32,3.0,3.0,100.0,2.0,0.0,2.0,0.0,1,EURO2024,poor
+3313.0,Giovani Lo Celso,779,Argentina,Left Defensive Midfield,0.0,0.0,0.0,6.0,37.5,2.5,0.0,0.0,0.0,7,Copa2024,good
+6196.0,Yerry Fernando Mina González,769,Colombia,Right Center Back,0.0,0.0,0.0,46.0,84.8,5.0,0.0,0.0,0.0,2,Copa2024,poor
+12293.0,Kaan Ayhan,909,Turkey,Left Defensive Midfield,0.0,0.12,1.5,33.0,88.2,6.0,0.0,0.0,1.0,7,EURO2024,good
+12751.0,Tyler Adams,1839,United States,Right Center Back,0.0,0.0,0.0,4.0,75.0,1.0,0.0,0.0,0.0,5,Copa2024,good
+29560.0,Julián Álvarez,779,Argentina,Center Forward,0.0,0.0,0.0,5.0,80.0,5.0,0.0,0.0,0.0,6,Copa2024,good
+5260.0,Rodrigo Bentancur Colmán,783,Uruguay,Right Center Midfield,1.0,0.08,1.0,14.0,57.1,11.0,0.0,1.0,1.0,7,Copa2024,good
+9927.0,Rúben Diogo Da Silva Neves,780,Portugal,Right Defensive Midfield,0.0,0.01,0.5,23.5,96.5,2.0,0.0,0.0,0.0,4,EURO2024,limited
+11187.0,Stephen Antunes Eustáquio,1833,Canada,Left Defensive Midfield,0.0,0.24,0.8,55.2,81.6,19.2,0.6,1.0,1.0,6,Copa2024,good
+22097.0,Randal Kolo Muani,771,France,Right Wing,0.0,0.0,0.0,3.0,25.0,4.5,0.5,0.0,0.0,7,EURO2024,good
+22168.0,Joshua Sargent,1839,United States,Left Center Forward,0.0,0.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,2,Copa2024,poor
+26386.0,Luis Francisco Romo Barrón,794,Mexico,Left Defensive Midfield,0.0,0.01,1.0,8.0,75.0,4.0,0.0,1.0,1.0,5,Copa2024,good
+3026.0,Adrien Rabiot,771,France,Left Center Midfield,0.0,0.02,0.7,43.7,89.4,9.7,0.3,0.3,0.0,5,EURO2024,good
+3089.0,Kevin De Bruyne,782,Belgium,Right Midfield,0.0,0.0,0.0,3.0,66.7,1.0,0.0,0.0,0.0,7,EURO2024,good
+3193.0,Bernardo Mota Veiga de Carvalho e Silva,780,Portugal,Left Wing,1.0,0.78,1.0,5.0,100.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+5637.0,Edgar Yoel Bárcenas Herrera,798,Panama,Right Wing,0.0,0.0,0.0,2.0,100.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+6919.0,Guilherme Antonio Arana Lopes,781,Brazil,Left Back,0.0,0.03,0.5,71.5,81.9,8.5,3.0,0.5,1.5,2,Copa2024,poor
+6989.0,Timothy Castagne,782,Belgium,Left Back,0.0,0.0,0.0,5.0,40.0,1.0,0.0,0.0,0.0,6,EURO2024,good
+7294.0,Yoane Wissa,4881,Congo DR,Left Wing,0.0,0.2,1.5,10.3,72.7,8.0,0.0,2.3,0.3,7,AFCON2023,good
+316046.0,Lamine Yamal Nasraoui Ebana,772,Spain,Right Wing,0.14,0.23,2.6,29.1,77.4,16.0,1.1,3.9,0.4,7,EURO2024,good
+3533.0,Xherdan Shaqiri,773,Switzerland,Center Forward,1.0,0.78,2.0,4.0,50.0,0.0,0.0,0.0,0.0,2,EURO2024,poor
+8518.0,Marcel Sabitzer,915,Austria,Left Attacking Midfield,0.0,0.0,0.0,17.0,58.8,1.0,1.0,0.0,0.0,7,EURO2024,good
+9000.0,Eberechi Eze,768,England,Left Wing,0.0,0.0,0.0,6.0,50.0,5.5,0.0,0.5,0.0,6,EURO2024,good
+18395.0,Vinícius José Paixão de Oliveira Júnior,781,Brazil,Left Wing,0.0,0.01,0.5,19.5,73.9,11.0,2.5,3.5,0.0,4,Copa2024,limited
+31751.0,Pathé Ismaël Ciss,787,Senegal,Center Defensive Midfield,0.0,0.0,0.0,25.0,96.0,10.0,0.0,0.0,0.0,1,AFCON2023,poor
+32712.0,Jeremie Frimpong,941,Netherlands,Right Wing,0.0,0.09,1.0,12.0,41.7,7.0,0.0,0.0,0.5,4,EURO2024,limited
+35441.0,David Doudera,912,Czech Republic,Left Back,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2,EURO2024,poor
+66886.0,Mostafa Mohamed Ahmed Abdallah,774,Egypt,Right Center Forward,0.5,0.28,2.0,4.5,87.5,1.5,0.0,0.5,0.0,7,AFCON2023,good
+3226.0,Bassem Srarfi,777,Tunisia,Right Wing,0.0,0.0,0.0,6.0,83.3,1.0,0.0,0.0,0.0,2,AFCON2023,poor
+3664.0,Trent Alexander-Arnold,768,England,Right Back,0.0,0.02,1.0,8.0,75.0,0.0,0.0,0.0,0.0,4,EURO2024,limited
+7039.0,Hakan Çalhanoğlu,909,Turkey,Left Defensive Midfield,0.0,0.03,1.0,37.7,89.8,6.0,0.7,0.3,1.0,7,EURO2024,good
+25142.0,Bruno Guimarães Rodriguez Moura,781,Brazil,Right Center Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7,Copa2024,good
+36539.0,Wilfried Stephane Singo,3374,Côte d'Ivoire,Right Center Back,0.0,0.03,0.8,18.0,81.0,2.8,0.8,0.3,0.5,7,AFCON2023,good
+67728.0,Mahmoud Hamada,774,Egypt,Left Defensive Midfield,1.0,0.78,1.0,9.0,77.8,6.0,0.0,0.0,2.0,2,AFCON2023,poor
+70835.0,Mohamed Hamdy Sharaf,774,Egypt,Left Back,0.0,0.0,0.0,47.5,79.7,7.0,4.0,0.8,1.5,4,AFCON2023,limited
+9929.0,Diogo José Teixeira da Silva,780,Portugal,Left Center Forward,0.0,0.0,0.0,12.0,50.0,12.0,1.0,2.0,0.0,4,EURO2024,limited
+15890.0,Noussair Mazraoui,788,Morocco,Left Back,0.0,0.0,0.0,34.0,79.4,5.0,4.0,0.0,0.0,1,AFCON2023,poor
+16120.0,Richie Laryea,1833,Canada,Right Wing Back,0.0,0.0,0.0,6.0,50.0,4.0,1.0,0.0,0.0,7,Copa2024,good
+30976.0,Jhon Jáder Durán Palacio,769,Colombia,Right Center Forward,0.0,0.0,0.0,7.0,57.1,0.0,0.0,0.0,0.0,1,Copa2024,poor
+35492.0,Maximiliano Javier Araújo Vilches,783,Uruguay,Left Wing,0.0,0.03,0.3,6.3,80.0,10.7,0.3,0.7,0.3,7,Copa2024,good
+50497.0,Nicolas Jackson,787,Senegal,Left Center Forward,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,5,AFCON2023,good
+68574.0,Nicholas Williams Arthuer,772,Spain,Left Wing,0.33,0.16,2.0,36.5,79.8,17.7,3.7,5.3,0.2,6,EURO2024,good
+91089.0,José Fajardo Nelson,798,Panama,Left Center Forward,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,6,Copa2024,good
+392153.0,Lamine Camara,787,Senegal,Right Center Midfield,1.0,0.11,1.0,63.0,88.9,13.0,2.0,0.0,0.0,4,AFCON2023,limited
+3089.0,Kevin De Bruyne,782,Belgium,Center Attacking Midfield,0.33,0.25,3.0,51.7,72.5,14.7,1.0,2.3,0.0,7,EURO2024,good
+5206.0,Rúben Santos Gato Alves Dias,780,Portugal,Left Center Back,0.0,0.0,0.0,6.5,92.9,2.0,0.0,0.0,0.0,6,EURO2024,good
+6773.0,Federico Santiago Valverde Dipetta,783,Uruguay,Left Back,0.0,0.04,1.0,37.0,91.9,2.0,0.0,0.0,0.0,7,Copa2024,good
+8784.0,Romano Schmid,915,Austria,Left Midfield,0.0,0.0,0.0,7.0,85.7,5.0,1.0,0.0,0.0,4,EURO2024,limited
+21582.0,Tijjani Reijnders,941,Netherlands,Right Center Midfield,0.0,0.09,1.0,7.5,92.9,2.0,0.0,0.0,0.0,7,EURO2024,good
+36659.0,Manuel Ugarte Ribeiro,783,Uruguay,Center Defensive Midfield,0.0,0.01,0.3,20.3,91.5,14.0,0.3,0.3,0.0,7,Copa2024,good
+39545.0,Alexander Prass,915,Austria,Left Back,0.0,0.0,0.0,23.0,79.5,7.0,1.5,0.8,0.5,4,EURO2024,limited
+44305.0,César Rodolfo Blackman Camarena,798,Panama,Right Wing Back,0.0,0.0,0.0,11.0,63.6,3.0,2.0,0.0,0.0,5,Copa2024,good
+65726.0,Themba Zwane,4976,South Africa,Center Attacking Midfield,0.5,0.14,0.8,35.3,85.2,15.8,0.3,2.3,0.5,7,AFCON2023,good
+118368.0,Amir Richardson,788,Morocco,Left Center Midfield,0.0,0.08,1.0,8.0,75.0,3.0,0.0,0.0,1.0,1,AFCON2023,poor
+202037.0,Thapelo Maseko,4976,South Africa,Left Wing,0.33,0.06,0.3,9.0,61.6,3.7,0.3,1.7,0.0,5,AFCON2023,good
+4416.0,Max-Alain Gradel,3374,Côte d'Ivoire,Left Midfield,0.0,0.0,0.0,21.5,73.1,10.0,2.0,1.0,0.0,6,AFCON2023,good
+4939.0,Joris Kayembe Ditu,4881,Congo DR,Left Midfield,0.0,0.0,0.0,5.0,100.0,3.0,0.0,0.0,0.0,2,AFCON2023,poor
+23785.0,Théo Bongonda Mbul''Ofeko Batombo,4881,Congo DR,Right Midfield,0.0,0.0,0.0,5.0,80.0,3.0,0.0,1.0,0.0,2,AFCON2023,poor
+24977.0,Christoph Baumgartner,915,Austria,Left Wing,0.0,0.2,1.0,7.0,85.7,5.0,1.0,2.0,0.0,7,EURO2024,good
+28657.0,Adrián Andrés Cubas,3567,Paraguay,Right Defensive Midfield,0.0,0.0,0.0,32.0,66.6,11.0,0.0,0.0,0.5,3,Copa2024,limited
+35592.0,Anis Ben Slimane,777,Tunisia,Left Center Forward,0.0,0.01,1.0,27.0,77.8,16.0,1.0,4.0,1.0,4,AFCON2023,limited
+36629.0,Yahia Fofana,3374,Côte d'Ivoire,Goalkeeper,0.0,0.0,0.0,23.7,75.7,0.0,0.0,0.0,0.0,7,AFCON2023,good
+36794.0,Dayne Tristan St. Clair,1833,Canada,Goalkeeper,0.0,0.0,0.0,25.0,64.0,0.0,0.0,0.0,0.0,1,Copa2024,poor
+133003.0,Mihlali Samson Mayambela,4976,South Africa,Left Midfield,0.33,0.32,1.3,14.3,96.0,3.3,0.7,1.7,0.7,7,AFCON2023,good
+3089.0,Kevin De Bruyne,782,Belgium,Left Center Forward,0.0,0.08,1.0,7.0,100.0,2.0,0.0,0.0,0.0,7,EURO2024,good
+4416.0,Max-Alain Gradel,3374,Côte d'Ivoire,Right Wing,0.0,0.18,2.0,28.5,68.7,8.0,4.5,1.5,0.5,6,AFCON2023,good
+4760.0,Ollie Watkins,768,England,Center Forward,0.33,0.07,1.0,1.7,66.7,4.3,0.0,0.3,0.3,4,EURO2024,limited
+12365.0,Alphonso Davies,1833,Canada,Left Wing,0.0,0.0,0.0,10.0,60.0,4.0,2.0,1.0,0.0,7,Copa2024,good
+16308.0,Leandro Daniel Paredes,779,Argentina,Center Defensive Midfield,0.0,0.27,0.7,26.7,81.8,3.0,0.0,0.0,0.0,5,Copa2024,good
+35242.0,Maximilian Beier,770,Germany,Center Attacking Midfield,0.0,0.0,0.0,3.0,33.3,1.0,1.0,0.0,0.0,2,EURO2024,poor
+152512.0,Leopold Querfeld,915,Austria,Right Center Back,0.0,0.0,0.0,10.0,80.0,5.0,0.0,0.0,0.0,1,EURO2024,poor
+6301.0,Youssef En-Nesyri,788,Morocco,Center Forward,0.33,0.46,2.3,6.0,80.6,16.7,0.0,0.3,0.0,4,AFCON2023,limited
+7023.0,Franck Yannick Kessié,3374,Côte d'Ivoire,Left Center Midfield,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,7,AFCON2023,good
+67742.0,Emam Ashour Metwally Abdelghany,774,Egypt,Left Center Midfield,0.0,0.09,2.5,30.0,83.5,14.0,0.5,0.5,2.0,7,AFCON2023,good
+3026.0,Adrien Rabiot,771,France,Left Defensive Midfield,0.0,0.0,0.0,39.0,87.2,13.0,1.0,1.0,1.0,5,EURO2024,good
+8211.0,Benjamin Henrichs,770,Germany,Left Wing Back,0.0,0.02,1.0,2.0,50.0,0.0,0.0,0.0,0.0,2,EURO2024,poor
+105936.0,Gilson Benchimol Tavares,4924,Cape Verde Islands,Left Wing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,AFCON2023,good
+132461.0,Mohamed Elias Achouri,777,Tunisia,Left Midfield,0.0,0.0,0.0,17.0,58.8,17.0,4.0,2.0,0.0,4,AFCON2023,limited
+271988.0,Endrick Felipe Moreira de Sousa,781,Brazil,Right Center Forward,0.0,0.0,0.0,0.5,50.0,1.5,0.0,0.5,0.0,5,Copa2024,good
+3191.0,Ramy Bensebaini,4898,Algeria,Left Center Back,0.0,0.0,0.0,72.0,87.5,7.0,0.0,0.0,2.0,2,AFCON2023,poor
+10448.0,Adam Ounas,4898,Algeria,Right Midfield,0.0,0.0,0.0,6.0,66.7,0.0,1.0,1.0,0.0,5,AFCON2023,good
+19597.0,Marcos Javier Acuña,779,Argentina,Right Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,Copa2024,limited
+27225.0,Camilo Andrés Vargas Gil,769,Colombia,Goalkeeper,0.0,0.0,0.0,35.7,66.9,0.2,0.0,0.0,0.0,6,Copa2024,good
+65726.0,Themba Zwane,4976,South Africa,Left Center Forward,0.0,0.0,0.0,39.0,89.7,8.0,0.0,3.0,1.0,7,AFCON2023,good
+223971.0,José Ángel Córdoba Chambers,798,Panama,Left Center Back,0.0,0.0,0.0,18.5,87.8,1.5,0.0,1.0,0.5,6,Copa2024,good
+5637.0,Edgar Yoel Bárcenas Herrera,798,Panama,Right Center Forward,0.0,0.03,1.0,2.0,100.0,1.0,0.0,0.0,2.0,7,Copa2024,good
+6983.0,Remo Freuler,773,Switzerland,Right Defensive Midfield,0.2,0.04,0.6,46.8,87.8,21.6,0.4,0.2,1.0,5,EURO2024,good
+6989.0,Timothy Castagne,782,Belgium,Right Back,0.0,0.0,0.0,51.3,84.4,7.5,1.0,0.8,0.3,6,EURO2024,good
+22352.0,Lutsharel Geertruida,941,Netherlands,Right Back,0.0,0.0,0.0,42.0,94.6,5.5,0.0,0.5,0.0,2,EURO2024,poor
+24024.0,Tajon Buchanan,1833,Canada,Right Wing,0.0,0.2,1.0,6.0,33.3,0.0,1.0,2.0,0.0,3,Copa2024,limited
+49689.0,Muhammed Kerem Aktürkoğlu,909,Turkey,Left Wing,0.25,0.27,1.0,6.5,53.7,4.0,0.5,1.8,0.3,6,EURO2024,good
+50503.0,Sayfallah Ltaief,777,Tunisia,Left Wing,0.0,0.0,0.0,5.5,63.4,2.0,0.0,0.5,0.0,4,AFCON2023,limited
+3167.0,Antonio Rüdiger,770,Germany,Right Center Back,0.0,0.03,0.8,81.8,90.9,6.4,0.8,0.0,0.8,5,EURO2024,good
+21173.0,Laros Duarte,4924,Cape Verde Islands,Center Attacking Midfield,0.0,0.78,1.0,8.0,62.5,8.0,0.0,0.0,1.0,2,AFCON2023,poor
+29989.0,Yusuf Yazıcı,909,Turkey,Center Attacking Midfield,0.0,0.03,2.0,10.0,90.0,2.0,0.0,1.0,0.0,3,EURO2024,limited
+35684.0,Meschak Elia,4881,Congo DR,Left Midfield,0.0,0.03,1.0,3.0,66.7,0.0,0.0,0.0,0.0,7,AFCON2023,good
+48335.0,Mohamed Zeki Amdouni,773,Switzerland,Left Wing,0.0,0.11,1.0,1.0,0.0,4.0,0.0,0.0,0.0,5,EURO2024,good
+170230.0,Alex Adrián Arce Barrios,3567,Paraguay,Center Forward,0.0,0.22,2.5,17.5,58.4,18.5,0.5,0.5,0.0,2,Copa2024,poor
+5695.0,James David Rodríguez Rubio,769,Colombia,Left Defensive Midfield,0.0,0.0,0.0,4.0,50.0,3.0,0.0,0.0,0.0,7,Copa2024,good
+12352.0,Matthew Charles Turner,1839,United States,Goalkeeper,0.0,0.0,0.0,29.3,53.9,0.0,0.0,0.0,0.0,3,Copa2024,limited
+19597.0,Marcos Javier Acuña,779,Argentina,Left Back,0.0,0.01,0.5,30.0,41.4,3.0,0.5,1.0,0.0,4,Copa2024,limited
+28227.0,Pavel Šulc,912,Czech Republic,Left Center Midfield,0.0,0.06,1.0,12.0,75.0,13.0,0.0,0.0,0.0,2,EURO2024,poor
+65727.0,Thapelo James Morena,4976,South Africa,Right Wing,0.0,0.09,1.0,14.0,56.7,8.8,0.8,1.0,0.5,7,AFCON2023,good
+133168.0,Bertuğ Özgür Yıldırım,909,Turkey,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+3009.0,Kylian Mbappé Lottin,771,France,Center Forward,0.5,0.5,2.5,19.5,70.7,3.5,0.5,4.5,0.0,7,EURO2024,good
+18855.0,Jhon Janer Lucumí Bonilla,769,Colombia,Left Center Back,0.0,0.0,0.0,19.0,100.0,3.0,0.0,0.0,1.0,1,Copa2024,poor
+35492.0,Maximiliano Javier Araújo Vilches,783,Uruguay,Left Midfield,0.0,0.04,1.5,11.5,81.6,6.5,2.0,1.0,0.0,7,Copa2024,good
+66886.0,Mostafa Mohamed Ahmed Abdallah,774,Egypt,Left Center Forward,0.5,0.24,1.5,2.0,75.0,1.5,0.0,0.5,0.0,7,AFCON2023,good
+78241.0,İsmail Yüksek,909,Turkey,Right Defensive Midfield,0.0,0.0,0.0,20.0,94.0,11.0,0.0,0.0,0.5,4,EURO2024,limited
+3450.0,Jordan Ayew,4885,Ghana,Left Attacking Midfield,0.0,0.0,0.0,5.0,40.0,5.0,1.0,2.0,0.0,4,AFCON2023,limited
+27826.0,Ondřej Lingr,912,Czech Republic,Left Center Midfield,0.0,0.18,2.0,4.0,75.0,5.0,0.0,0.0,0.0,4,EURO2024,limited
+32712.0,Jeremie Frimpong,941,Netherlands,Left Wing,0.0,0.0,0.0,1.0,100.0,0.0,0.0,1.0,0.0,4,EURO2024,limited
+60514.0,Yaser Esneider Asprilla Martínez,769,Colombia,Center Attacking Midfield,0.0,0.22,2.0,12.0,91.7,4.0,0.0,1.0,0.0,1,Copa2024,poor
+62016.0,Rodrigo Mario Morínigo Acosta,3567,Paraguay,Goalkeeper,0.0,0.0,0.0,23.3,70.8,0.0,0.0,0.0,0.0,3,Copa2024,limited
+3834.0,Ivan Toney,768,England,Left Center Forward,0.0,0.0,0.0,4.5,33.4,1.5,0.0,0.0,0.5,4,EURO2024,limited
+4614.0,Antonee Robinson,1839,United States,Left Wing Back,0.0,0.0,0.0,15.0,66.7,7.0,2.0,0.0,2.0,5,Copa2024,good
+4753.0,Aaron Tshibola,4881,Congo DR,Right Defensive Midfield,0.2,0.16,0.2,12.2,72.8,8.2,0.0,0.0,0.6,6,AFCON2023,good
+5503.0,Lionel Andrés Messi Cuccittini,779,Argentina,Right Center Forward,0.2,0.57,2.8,36.4,81.1,7.6,0.4,3.8,0.0,5,Copa2024,good
+5548.0,Steven Zuber,773,Switzerland,Left Attacking Midfield,0.0,0.05,1.0,16.5,91.2,4.5,0.5,0.0,0.0,3,EURO2024,limited
+21582.0,Tijjani Reijnders,941,Netherlands,Right Defensive Midfield,0.0,0.0,0.0,12.0,83.3,2.0,0.0,1.0,0.0,7,EURO2024,good
+28034.0,Lukáš Provod,912,Czech Republic,Left Defensive Midfield,0.0,0.03,1.0,24.5,77.4,9.0,0.0,1.0,0.5,5,EURO2024,good
+3017.0,Ibrahim Sangaré,3374,Côte d'Ivoire,Right Defensive Midfield,0.0,0.0,0.0,27.5,84.6,13.5,0.0,0.0,0.5,7,AFCON2023,good
+4063.0,Ahmed Elsayed Ali Elsayed Hegazy,774,Egypt,Right Center Back,0.25,0.29,0.8,56.5,87.8,9.0,0.0,0.3,1.3,4,AFCON2023,limited
+8773.0,Marin Pongracic,785,Croatia,Center Back,0.0,0.0,0.0,2.0,100.0,2.0,0.0,0.0,0.0,3,EURO2024,limited
+24921.0,Martín Zubimendi Ibáñez,772,Spain,Right Center Midfield,0.0,0.0,0.0,2.0,100.0,1.0,0.0,0.0,0.0,5,EURO2024,good
+39461.0,Cole Palmer,768,England,Center Attacking Midfield,1.0,0.04,1.0,7.0,85.7,7.0,0.0,1.0,0.0,7,EURO2024,good
+48335.0,Mohamed Zeki Amdouni,773,Switzerland,Right Attacking Midfield,0.0,0.0,0.0,10.0,50.0,9.0,0.0,2.0,0.0,5,EURO2024,good
+103465.0,Baghdad Bounedjah,4898,Algeria,Right Center Forward,0.0,0.19,1.0,0.0,0.0,1.0,0.0,0.0,0.0,5,AFCON2023,good
+2972.0,Marcus Thuram,771,France,Left Midfield,0.0,0.04,1.0,4.0,75.0,1.0,0.0,0.0,0.0,5,EURO2024,good
+3620.0,Scott McTominay,942,Scotland,Right Defensive Midfield,0.0,0.0,0.0,8.0,75.0,5.0,0.0,1.0,1.0,6,EURO2024,good
+5562.0,Thomas Müller,770,Germany,Center Attacking Midfield,0.0,0.24,1.0,4.0,25.0,5.0,1.0,0.0,0.0,3,EURO2024,limited
+6765.0,Rodrigo Hernández Cascante,772,Spain,Center Defensive Midfield,0.33,0.03,0.7,55.3,95.8,9.7,0.0,0.3,0.3,7,EURO2024,good
+7791.0,Seko Fofana,3374,Côte d'Ivoire,Center Defensive Midfield,0.0,0.08,2.0,2.0,100.0,6.0,0.0,0.0,0.0,7,AFCON2023,good
+22212.0,Orkun Kökçü,909,Turkey,Left Center Midfield,0.0,0.0,0.0,6.0,45.0,2.0,0.0,0.5,0.0,7,EURO2024,good
+23640.0,Jonathan David,1833,Canada,Right Center Forward,1.0,0.58,1.5,14.0,78.1,12.5,0.5,1.0,0.0,7,Copa2024,good
+32547.0,Micky van de Ven,941,Netherlands,Left Back,0.0,0.0,0.0,10.5,51.5,2.0,0.5,0.3,0.3,4,EURO2024,limited
+39565.0,Jamal Musiala,770,Germany,Right Wing,0.5,0.17,1.5,27.0,87.7,10.0,0.0,3.0,0.0,7,EURO2024,good
+40874.0,Matheus Luiz Nunes,780,Portugal,Right Defensive Midfield,0.0,0.19,1.0,17.0,88.2,0.0,1.0,0.0,0.0,2,EURO2024,poor
+134209.0,Barış Alper Yılmaz,909,Turkey,Right Center Forward,0.0,0.11,1.0,5.0,80.0,2.0,0.0,1.0,0.0,7,EURO2024,good
+6909.0,Damián Emiliano Martínez,779,Argentina,Goalkeeper,0.0,0.0,0.0,36.5,82.9,0.0,0.0,0.0,0.0,6,Copa2024,good
+7900.0,Tiago Manuel Dias Correia,4924,Cape Verde Islands,Center Forward,0.33,0.16,3.3,13.3,77.5,4.7,0.3,3.7,0.7,6,AFCON2023,good
+25759.0,Abdoulaye Seck,787,Senegal,Right Center Back,0.5,0.26,2.5,30.5,86.4,3.5,0.0,0.5,0.0,2,AFCON2023,poor
+30401.0,Ruben Vargas,773,Switzerland,Left Wing,0.0,0.05,1.0,4.0,100.0,6.0,0.0,0.0,0.0,6,EURO2024,good
+81330.0,Robin Hranáč,912,Czech Republic,Center Back,0.0,0.11,0.7,29.7,86.6,11.0,0.0,0.0,0.0,4,EURO2024,limited
+389291.0,Fiston Kalala Mayele,4881,Congo DR,Left Wing,0.0,0.0,0.0,5.0,80.0,7.0,0.0,0.0,0.0,5,AFCON2023,good
+,,783,Uruguay,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,poor
+3811.0,Islam Slimani,4898,Algeria,Center Forward,0.0,0.04,1.0,6.0,50.0,4.0,0.0,0.0,0.0,3,AFCON2023,limited
+8309.0,Michael Gregoritsch,915,Austria,Right Center Forward,0.0,0.0,0.0,7.0,100.0,2.0,0.0,1.0,0.0,5,EURO2024,good
+38803.0,Gonçalo Matias Ramos,780,Portugal,Center Forward,0.0,0.1,1.0,1.0,100.0,1.0,0.0,0.0,0.0,1,EURO2024,poor
+113279.0,Freddy Elías Góndola Smith,798,Panama,Left Wing,0.0,0.0,0.0,6.0,95.6,1.3,0.3,0.3,0.0,5,Copa2024,good
+3053.0,Leroy Sané,770,Germany,Right Wing,0.0,0.06,1.4,13.6,82.9,7.6,0.6,2.6,0.0,5,EURO2024,good
+22128.0,Robin Aime Robert Le Normand,772,Spain,Right Center Back,0.0,0.06,0.6,61.0,91.3,3.8,0.0,0.0,0.2,6,EURO2024,good
+23650.0,Jeremy Doku,782,Belgium,Right Wing,0.0,0.03,1.0,12.0,58.3,4.0,0.0,3.0,0.0,5,EURO2024,good
+28034.0,Lukáš Provod,912,Czech Republic,Left Center Midfield,0.0,0.0,0.0,13.0,100.0,5.0,0.0,2.0,1.0,5,EURO2024,good
+45190.0,Dan Ndoye,773,Switzerland,Right Wing,0.0,0.0,0.0,1.0,100.0,2.0,0.0,0.0,0.0,7,EURO2024,good
+134209.0,Barış Alper Yılmaz,909,Turkey,Right Midfield,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+5567.0,Edson Omar Álvarez Velázquez,794,Mexico,Center Defensive Midfield,0.0,0.0,0.0,23.0,82.6,1.0,0.0,0.0,0.0,1,Copa2024,poor
+5579.0,Joshua Kimmich,770,Germany,Right Back,0.0,0.06,1.4,80.8,89.1,10.2,2.8,0.0,1.0,6,EURO2024,good
+5647.0,Ali Maâloul,777,Tunisia,Left Back,0.0,0.0,0.0,83.0,81.9,9.0,4.0,0.0,0.0,1,AFCON2023,poor
+12496.0,Christian Kouamé,3374,Côte d'Ivoire,Right Midfield,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5,AFCON2023,good
+24778.0,Eduardo Camavinga,771,France,Left Center Midfield,0.0,0.08,0.3,12.7,92.9,5.3,0.0,0.3,0.3,6,EURO2024,good
+32122.0,João Lucas de Souza Cardoso,1839,United States,Left Center Midfield,0.0,0.0,0.0,2.0,100.0,0.0,0.0,0.0,0.0,4,Copa2024,limited
+47112.0,Julio César Enciso Espínola,3567,Paraguay,Center Attacking Midfield,0.0,0.05,2.0,22.0,82.3,6.7,0.7,2.3,0.3,6,Copa2024,good
+87449.0,Damián Josué Bobadilla Benítez,3567,Paraguay,Left Defensive Midfield,0.0,0.0,0.0,3.0,66.7,4.0,0.0,0.0,0.0,5,Copa2024,good
+392153.0,Lamine Camara,787,Senegal,Left Defensive Midfield,0.0,0.01,1.0,24.0,79.2,30.0,1.0,0.0,2.0,4,AFCON2023,limited
+8526.0,Weston McKennie,1839,United States,Right Center Midfield,0.0,0.03,0.3,21.7,73.4,9.7,0.7,0.7,0.0,7,Copa2024,good
+8654.0,Ante Budimir,785,Croatia,Center Forward,0.0,0.17,1.3,5.0,47.6,16.3,0.0,0.7,0.3,3,EURO2024,limited
+29399.0,Conor Gallagher,768,England,Right Defensive Midfield,0.0,0.0,0.0,11.5,90.2,7.8,0.0,0.3,0.0,6,EURO2024,good
+39174.0,Ismael Saibari,788,Morocco,Left Midfield,0.0,0.0,0.0,12.0,91.7,3.0,2.0,0.0,0.0,3,AFCON2023,limited
+39461.0,Cole Palmer,768,England,Right Attacking Midfield,0.5,0.42,1.0,5.5,73.4,2.5,0.5,0.5,0.0,7,EURO2024,good
+132461.0,Mohamed Elias Achouri,777,Tunisia,Left Wing,0.0,0.04,0.5,21.0,73.3,14.0,0.0,0.0,0.0,4,AFCON2023,limited
+,,769,Colombia,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,poor
+10039.0,Ghislain Konan,3374,Côte d'Ivoire,Left Wing Back,0.0,0.0,0.0,21.0,66.7,16.0,0.0,0.0,0.0,7,AFCON2023,good
+25104.0,Rodrygo Silva de Goes,781,Brazil,Left Wing,0.0,0.08,2.0,20.0,70.0,10.0,0.0,6.0,2.0,5,Copa2024,good
+29560.0,Julián Álvarez,779,Argentina,Left Center Forward,0.6,0.47,2.0,11.6,80.5,20.4,0.6,0.8,0.4,6,Copa2024,good
+260212.0,Edgardo Isaac Fariña Wynter,798,Panama,Right Center Back,0.0,0.02,0.8,47.0,78.8,10.0,0.0,0.5,1.3,4,Copa2024,limited
+383250.0,Moise Bombito,1833,Canada,Left Center Back,0.0,0.08,2.0,34.0,79.4,4.0,0.0,1.0,1.0,7,Copa2024,good
+6685.0,Mikel Oyarzabal Ugarte,772,Spain,Center Forward,0.2,0.07,0.6,4.6,72.5,5.6,0.2,0.0,0.0,7,EURO2024,good
+11457.0,Vincent Sierro,773,Switzerland,Right Attacking Midfield,0.0,0.0,0.0,8.0,50.0,3.0,0.0,1.0,1.0,4,EURO2024,limited
+28914.0,Lovro Majer,785,Croatia,Right Wing,0.0,0.08,1.0,36.5,89.0,15.5,1.0,0.5,0.5,5,EURO2024,good
+39490.0,Luka Sučić,785,Croatia,Center Attacking Midfield,0.0,0.3,2.0,24.0,95.8,10.0,0.0,3.0,0.0,3,EURO2024,limited
+47112.0,Julio César Enciso Espínola,3567,Paraguay,Right Wing,1.0,0.19,1.0,7.0,28.6,7.0,0.0,2.0,0.0,6,Copa2024,good
+383250.0,Moise Bombito,1833,Canada,Right Center Back,0.4,0.32,0.6,36.6,85.2,4.8,0.0,0.2,1.0,7,Copa2024,good
+3620.0,Scott McTominay,942,Scotland,Right Attacking Midfield,0.0,0.0,0.0,4.0,50.0,1.0,1.0,0.0,0.0,6,EURO2024,good
+5234.0,Sofyan Amrabat,788,Morocco,Left Defensive Midfield,0.0,0.0,0.0,9.0,77.8,2.0,1.0,0.0,0.0,5,AFCON2023,good
+6193.0,Andrés Mateus Uribe Villa,769,Colombia,Right Center Midfield,0.0,0.25,0.7,5.7,85.2,5.7,0.0,0.0,0.3,7,Copa2024,good
+7104.0,Mathías Olivera Miramontes,783,Uruguay,Left Center Back,0.5,0.34,1.0,32.0,79.5,7.0,0.0,0.0,0.5,7,Copa2024,good
+10448.0,Adam Ounas,4898,Algeria,Right Wing,0.0,0.0,0.5,10.0,27.5,2.5,2.5,1.5,0.0,5,AFCON2023,good
+12111.0,Rayan Aït Nouri,4898,Algeria,Left Back,0.0,0.02,1.0,68.0,86.4,13.3,1.3,3.3,0.7,3,AFCON2023,limited
+16184.0,Luis Fernando Sinisterra Lucumí,769,Colombia,Center Forward,0.0,0.0,0.0,9.0,77.8,3.0,0.0,0.0,0.0,3,Copa2024,limited
+23256.0,Pedro Lomba Neto,780,Portugal,Left Wing,0.0,0.0,0.0,21.0,66.7,6.0,3.0,3.0,0.0,3,EURO2024,limited
+3493.0,Emre Can,770,Germany,Right Defensive Midfield,0.25,0.01,0.3,17.5,91.8,3.8,0.0,0.0,0.0,5,EURO2024,good
+4870.0,Tomáš Souček,912,Czech Republic,Right Defensive Midfield,0.0,0.0,0.0,17.7,82.7,7.7,0.7,0.0,0.0,6,EURO2024,good
+6773.0,Federico Santiago Valverde Dipetta,783,Uruguay,Left Center Midfield,0.0,0.0,0.5,16.5,83.5,2.0,0.5,0.0,0.0,7,Copa2024,good
+10481.0,Aurélien Djani Tchouaméni,771,France,Right Defensive Midfield,0.0,0.0,0.0,7.0,85.7,4.0,0.0,0.0,0.0,6,EURO2024,good
+40207.0,Vitezslav Jaros,912,Czech Republic,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+3193.0,Bernardo Mota Veiga de Carvalho e Silva,780,Portugal,Right Midfield,0.0,0.05,1.0,48.0,91.7,11.0,3.0,0.0,0.0,7,EURO2024,good
+3377.0,Timothy Weah,1839,United States,Right Wing,0.0,0.11,1.5,20.5,37.8,4.0,1.5,0.5,0.0,2,Copa2024,poor
+4372.0,Marcos Aoás Corrêa,781,Brazil,Left Center Back,0.0,0.04,0.3,70.3,89.5,5.8,0.0,0.0,0.8,5,Copa2024,good
+5469.0,Marcelo Brozović,785,Croatia,Center Defensive Midfield,0.0,0.04,1.0,62.7,90.7,20.7,1.0,0.0,1.0,3,EURO2024,limited
+16559.0,Leandro Trossard,782,Belgium,Right Wing,0.0,0.01,0.3,18.0,82.6,4.0,1.3,0.7,0.0,5,EURO2024,good
+23640.0,Jonathan David,1833,Canada,Right Attacking Midfield,1.0,0.25,1.0,17.0,88.2,10.0,0.0,1.0,0.0,7,Copa2024,good
+24118.0,Nico Schlotterbeck,770,Germany,Left Center Back,0.0,0.04,1.0,44.0,91.5,4.5,0.0,0.5,2.0,3,EURO2024,limited
+29367.0,Percy Tau,4976,South Africa,Right Midfield,0.0,0.0,0.0,20.0,80.0,5.0,1.0,0.0,0.0,7,AFCON2023,good
+35432.0,Abdiel Armando Ayarza Cocanegra,798,Panama,Right Defensive Midfield,0.0,0.04,1.0,2.3,88.9,2.7,0.3,0.0,0.0,5,Copa2024,good
+39461.0,Cole Palmer,768,England,Right Center Midfield,0.0,0.0,0.0,4.0,50.0,4.0,1.0,0.0,0.0,7,EURO2024,good
+87429.0,Mathías Adalberto Villasanti Rolón,3567,Paraguay,Left Defensive Midfield,0.0,0.13,0.5,36.5,91.0,12.5,0.0,1.5,0.5,4,Copa2024,limited
+141358.0,Mohamed El Amine Amoura,4898,Algeria,Left Midfield,0.0,0.0,0.0,8.0,37.5,1.0,3.0,1.0,0.0,5,AFCON2023,good
+8546.0,Niclas Füllkrug,770,Germany,Right Center Forward,0.0,0.18,3.0,9.0,66.7,7.0,0.0,0.0,0.0,7,EURO2024,good
+12510.0,Ryan Christie,942,Scotland,Left Wing,0.0,0.0,0.0,4.0,100.0,16.0,0.0,1.0,0.0,5,EURO2024,good
+34476.0,Matías Nicolás Viña Susperreguy,783,Uruguay,Left Back,0.2,0.02,0.4,39.6,67.6,8.0,0.8,1.2,0.4,5,Copa2024,good
+35413.0,Lionel Mpasi-Nzau,4881,Congo DR,Goalkeeper,0.17,0.13,0.2,26.7,73.8,0.2,0.0,0.2,0.0,6,AFCON2023,good
+36288.0,Facundo Pellistri Rebollo,783,Uruguay,Right Wing,0.2,0.2,0.6,14.6,74.7,16.2,1.8,1.4,0.4,7,Copa2024,good
+45190.0,Dan Ndoye,773,Switzerland,Left Wing,0.0,0.04,1.0,4.0,75.0,3.0,1.0,1.0,0.0,7,EURO2024,good
+2972.0,Marcus Thuram,771,France,Center Forward,0.0,0.25,2.3,10.3,80.3,9.7,0.0,0.3,0.3,5,EURO2024,good
+5207.0,Cristiano Ronaldo dos Santos Aveiro,780,Portugal,Right Center Forward,0.0,0.77,5.0,24.0,95.8,5.0,1.0,1.0,0.0,5,EURO2024,good
+8553.0,Abdou Diallo,787,Senegal,Center Defensive Midfield,0.0,0.0,0.0,52.0,94.2,12.0,0.0,0.0,0.0,3,AFCON2023,limited
+26385.0,Jordi Cortizo de la Piedra,794,Mexico,Left Back,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,2,Copa2024,poor
+36659.0,Manuel Ugarte Ribeiro,783,Uruguay,Left Center Back,0.0,0.0,0.0,13.0,76.9,4.0,0.0,0.0,0.0,7,Copa2024,good
+136074.0,Karim Konaté,3374,Côte d'Ivoire,Center Forward,0.0,0.0,0.0,11.0,45.5,4.0,0.0,0.0,0.0,4,AFCON2023,limited
+3289.0,Romelu Lukaku Menama,782,Belgium,Right Center Forward,0.0,0.02,0.5,6.5,22.8,2.0,0.0,0.0,0.0,5,EURO2024,good
+5245.0,Achraf Hakimi Mouh,788,Morocco,Right Back,0.25,0.27,1.5,65.0,83.9,14.3,2.8,1.3,0.5,4,AFCON2023,limited
+5260.0,Rodrigo Bentancur Colmán,783,Uruguay,Center Defensive Midfield,0.67,0.52,0.7,11.3,51.9,8.7,0.0,0.7,1.3,7,Copa2024,good
+7023.0,Franck Yannick Kessié,3374,Côte d'Ivoire,Right Center Midfield,0.33,0.15,1.7,28.0,76.4,12.7,1.3,0.7,0.3,7,AFCON2023,good
+7791.0,Seko Fofana,3374,Côte d'Ivoire,Center Attacking Midfield,0.0,0.07,2.0,37.0,89.2,7.0,1.0,3.0,0.0,7,AFCON2023,good
+8246.0,Christian Pulisic,1839,United States,Right Center Midfield,0.0,0.16,3.0,13.0,53.8,3.0,0.0,3.0,0.0,7,Copa2024,good
+12510.0,Ryan Christie,942,Scotland,Right Wing Back,0.0,0.0,0.0,6.0,83.3,2.0,0.0,2.0,0.0,5,EURO2024,good
+16028.0,José Diogo Dalot Teixeira,780,Portugal,Right Wing Back,0.0,0.02,1.0,33.5,88.9,5.5,0.0,2.0,0.0,3,EURO2024,limited
+21633.0,Joey Veerman,941,Netherlands,Center Defensive Midfield,0.0,0.0,0.0,16.0,68.8,3.0,0.0,0.0,0.0,6,EURO2024,good
+23957.0,Jean Thierry Lazare Amani,3374,Côte d'Ivoire,Center Attacking Midfield,0.0,0.04,1.0,11.0,72.7,7.0,1.0,1.0,1.0,2,AFCON2023,poor
+38718.0,Enzo Fernandez,779,Argentina,Right Defensive Midfield,0.0,0.0,0.0,24.5,88.9,6.0,0.0,0.0,0.0,7,Copa2024,good
+8538.0,Waldemar Anton,770,Germany,Center Back,0.0,0.0,0.0,2.0,100.0,1.0,0.0,0.0,0.0,2,EURO2024,poor
+9000.0,Eberechi Eze,768,England,Left Wing Back,0.0,0.02,1.0,11.0,81.2,3.5,0.5,0.5,0.0,6,EURO2024,good
+21173.0,Laros Duarte,4924,Cape Verde Islands,Left Center Midfield,0.0,0.0,0.0,5.0,60.0,0.0,0.0,0.0,0.0,2,AFCON2023,poor
+23785.0,Théo Bongonda Mbul''Ofeko Batombo,4881,Congo DR,Center Attacking Midfield,0.0,0.13,1.0,4.0,100.0,3.0,0.0,2.0,0.0,2,AFCON2023,poor
+23910.0,Youssef Msakni,777,Tunisia,Right Center Forward,0.0,0.06,1.0,17.0,64.7,10.0,1.0,3.0,0.0,7,AFCON2023,good
+26336.0,Johan Felipe Vásquez Ibarra,794,Mexico,Left Center Back,0.0,0.08,1.7,66.0,88.8,9.3,0.0,1.3,0.3,3,Copa2024,limited
+26385.0,Jordi Cortizo de la Piedra,794,Mexico,Left Midfield,0.0,0.0,0.0,4.0,75.0,2.0,0.0,0.0,0.0,2,Copa2024,poor
+28943.0,Víctor Gustavo Velázquez Ramos,3567,Paraguay,Right Back,0.0,0.02,0.3,38.7,65.8,9.7,0.3,0.7,2.7,3,Copa2024,limited
+50436.0,Fabian Rieder,773,Switzerland,Right Wing,0.0,0.0,0.0,6.0,50.0,9.0,1.0,0.0,1.0,6,EURO2024,good
+3009.0,Kylian Mbappé Lottin,771,France,Left Wing,0.0,0.24,4.0,25.0,89.0,6.3,1.3,4.0,0.3,7,EURO2024,good
+3044.0,Chancel Mbemba Mangulu,4881,Congo DR,Right Center Back,0.29,0.33,1.0,50.9,82.1,7.1,0.1,0.0,0.4,7,AFCON2023,good
+3531.0,Mohamed Salah,774,Egypt,Right Wing,0.0,0.04,0.5,6.5,87.5,3.5,0.0,0.0,0.0,4,AFCON2023,limited
+5487.0,Antoine Griezmann,771,France,Right Midfield,0.0,0.03,1.0,4.0,50.0,3.0,0.0,0.0,0.0,7,EURO2024,good
+6989.0,Timothy Castagne,782,Belgium,Right Center Back,0.0,0.0,0.0,9.0,88.9,1.0,0.0,0.0,0.0,6,EURO2024,good
+7797.0,Rodrigo Javier De Paul,779,Argentina,Right Defensive Midfield,0.0,0.0,0.0,22.3,73.7,6.3,0.3,0.7,0.3,7,Copa2024,good
+22097.0,Randal Kolo Muani,771,France,Right Midfield,0.0,0.0,0.0,3.0,66.7,2.0,1.0,1.0,0.0,7,EURO2024,good
+41266.0,Chris Richards,1839,United States,Right Center Back,0.0,0.06,0.7,47.3,83.7,7.7,0.0,0.0,1.3,4,Copa2024,limited
+45190.0,Dan Ndoye,773,Switzerland,Left Attacking Midfield,1.0,0.23,2.0,19.0,63.2,16.0,0.0,2.0,1.0,7,EURO2024,good
+65726.0,Themba Zwane,4976,South Africa,Left Wing,0.0,0.0,0.0,34.0,79.4,8.0,0.0,2.0,0.0,7,AFCON2023,good
+149714.0,Abdessamad Ezzalzouli,788,Morocco,Left Wing,0.0,0.02,1.0,15.0,60.0,14.0,3.0,2.0,0.0,4,AFCON2023,limited
+2989.0,Alexander Djiku,4885,Ghana,Right Center Back,0.33,0.03,0.3,30.3,85.8,8.0,0.3,0.3,1.7,4,AFCON2023,limited
+3325.0,Marko Arnautović,915,Austria,Right Center Forward,0.0,0.33,2.0,8.0,75.0,3.0,0.0,0.0,0.0,5,EURO2024,good
+6862.0,Cédric Bakambu,4881,Congo DR,Center Forward,0.14,0.32,1.4,5.0,65.2,7.7,0.4,1.0,0.1,7,AFCON2023,good
+30736.0,Paul Brian Rodríguez Bravo,783,Uruguay,Right Wing,0.0,0.13,1.0,13.0,69.2,7.0,2.0,1.0,0.0,1,Copa2024,poor
+15503.0,Jerdy Schouten,941,Netherlands,Right Defensive Midfield,0.0,0.01,0.2,52.8,93.5,10.0,0.3,0.7,0.8,7,EURO2024,good
+27158.0,Luis Fernando Díaz Marulanda,769,Colombia,Left Midfield,0.0,0.0,0.0,4.0,75.0,5.0,0.0,1.0,0.0,7,Copa2024,good
+28825.0,Luis Gerardo Chávez Magallón,794,Mexico,Left Center Midfield,0.0,0.1,2.3,39.3,76.0,12.7,3.0,0.3,0.7,4,Copa2024,limited
+32478.0,Darwin Gabriel Núñez Ribeiro,783,Uruguay,Left Center Forward,0.0,0.0,0.0,6.0,83.3,3.0,0.0,0.0,0.0,7,Copa2024,good
+48720.0,João Victor Gomes da Silva,781,Brazil,Left Defensive Midfield,0.0,0.01,0.3,42.3,88.2,16.7,0.3,1.7,1.3,6,Copa2024,good
+63505.0,Martin Baturina,785,Croatia,Left Wing,0.0,0.02,1.0,3.0,66.7,4.0,0.0,2.0,0.0,1,EURO2024,poor
+9974.0,John McGinn,942,Scotland,Left Center Forward,0.0,0.0,0.0,14.0,42.9,24.0,0.0,0.0,0.0,4,EURO2024,limited
+11457.0,Vincent Sierro,773,Switzerland,Right Defensive Midfield,0.0,0.01,0.3,5.3,73.7,2.7,0.0,0.0,0.0,4,EURO2024,limited
+22212.0,Orkun Kökçü,909,Turkey,Center Attacking Midfield,0.0,0.4,3.0,27.0,68.5,5.5,1.0,0.5,0.0,7,EURO2024,good
+23363.0,Liam Millar,1833,Canada,Right Wing,0.0,0.0,0.0,10.0,90.0,10.0,1.0,5.0,0.0,7,Copa2024,good
+32478.0,Darwin Gabriel Núñez Ribeiro,783,Uruguay,Center Forward,0.33,0.31,3.5,10.8,73.1,15.7,0.5,3.2,0.0,7,Copa2024,good
+44955.0,Aïssa Bilal Laïdouni,777,Tunisia,Right Center Midfield,0.0,0.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,4,AFCON2023,limited
+47345.0,Adalberto Eliécer Carrasquilla Alcázar,798,Panama,Left Defensive Midfield,0.0,0.03,1.0,54.5,85.4,8.5,0.0,3.0,0.0,2,Copa2024,poor
+48347.0,Amadou Onana,782,Belgium,Left Defensive Midfield,0.0,0.08,1.5,45.5,87.1,16.0,0.0,0.5,0.0,5,EURO2024,good
+65853.0,Evidence Makgopa,4976,South Africa,Left Center Forward,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7,AFCON2023,good
+66716.0,Teboho Mokoena,4976,South Africa,Center Attacking Midfield,0.33,0.53,1.0,5.3,36.1,3.7,0.3,0.0,0.0,7,AFCON2023,good
+3568.0,Mohamed Naser Elsayed Elneny,774,Egypt,Center Defensive Midfield,0.0,0.0,0.0,23.0,92.2,8.0,0.0,0.0,0.0,5,AFCON2023,good
+3834.0,Ivan Toney,768,England,Center Forward,0.5,0.45,1.0,3.0,30.0,2.5,0.0,0.0,0.5,4,EURO2024,limited
+4939.0,Joris Kayembe Ditu,4881,Congo DR,Left Back,1.0,0.78,1.0,38.0,78.9,15.0,4.0,2.0,0.0,2,AFCON2023,poor
+5549.0,Manuel Obafemi Akanji,773,Switzerland,Center Back,0.0,0.16,0.2,66.6,91.9,5.8,0.0,0.0,1.0,5,EURO2024,good
+15582.0,Donyell Malen,941,Netherlands,Center Forward,0.0,0.0,0.0,3.0,100.0,0.0,0.0,0.0,0.0,6,EURO2024,good
+27423.0,Daniel Muñoz Mejía,769,Colombia,Right Back,0.4,0.12,0.8,40.4,88.8,12.0,0.4,0.8,0.4,5,Copa2024,good
+4256.0,Jonathan Bamba,3374,Côte d'Ivoire,Left Wing Back,0.0,0.0,0.0,11.0,72.7,2.0,1.0,1.0,0.0,6,AFCON2023,good
+9085.0,Salih Özcan,909,Turkey,Right Defensive Midfield,0.0,0.01,0.3,16.3,63.1,9.0,0.0,0.0,1.0,5,EURO2024,good
+25104.0,Rodrygo Silva de Goes,781,Brazil,Right Center Forward,0.0,0.19,2.0,23.0,78.3,15.0,0.0,5.0,0.0,5,Copa2024,good
+34639.0,Vitor Machado Ferreira,780,Portugal,Right Defensive Midfield,0.0,0.12,2.0,73.0,90.1,11.0,1.3,0.7,0.3,4,EURO2024,limited
+12758.0,Alejandro Romero Gamarra,3567,Paraguay,Right Center Midfield,0.0,0.0,0.0,25.0,80.0,2.0,0.0,0.0,0.0,3,Copa2024,limited
+30310.0,Fehmi Mert Günok,909,Turkey,Goalkeeper,0.0,0.0,0.0,32.0,67.2,0.0,0.0,0.0,0.0,4,EURO2024,limited
+3013.0,Nicolas Pépé,3374,Côte d'Ivoire,Right Midfield,0.5,0.47,1.5,16.5,75.2,5.0,0.5,1.0,0.5,6,AFCON2023,good
+5675.0,Kalidou Koulibaly,787,Senegal,Right Center Back,0.33,0.32,1.3,51.3,84.2,9.3,0.0,0.3,0.7,5,AFCON2023,good
+7791.0,Seko Fofana,3374,Côte d'Ivoire,Left Center Midfield,0.0,0.05,1.5,26.5,86.0,9.0,0.3,2.5,0.3,7,AFCON2023,good
+28413.0,Willy Afonso Semedo Johnson,4924,Cape Verde Islands,Left Midfield,0.0,0.0,0.0,5.0,80.0,4.0,0.0,0.0,0.0,7,AFCON2023,good
+8546.0,Niclas Füllkrug,770,Germany,Center Forward,0.4,0.15,1.2,5.4,83.4,4.6,0.0,0.2,0.0,7,EURO2024,good
+26151.0,Ricardo Daniel Pepi,1839,United States,Right Center Forward,0.0,0.0,0.0,1.0,100.0,2.0,0.0,0.0,0.0,4,Copa2024,limited
+4372.0,Marcos Aoás Corrêa,781,Brazil,Right Center Back,0.0,0.0,0.0,9.0,88.9,0.0,0.0,0.0,0.0,5,Copa2024,good
+6765.0,Rodrigo Hernández Cascante,772,Spain,Right Defensive Midfield,0.0,0.01,0.3,28.0,94.2,7.5,0.0,0.5,0.5,7,EURO2024,good
+9974.0,John McGinn,942,Scotland,Right Attacking Midfield,0.0,0.0,0.0,20.0,70.0,5.0,3.0,3.0,0.0,4,EURO2024,limited
+28723.0,Jorge Andrés Carrascal Guardo,769,Colombia,Center Forward,0.0,0.06,1.0,5.0,80.0,7.0,0.0,0.0,0.0,3,Copa2024,limited
+32915.0,Ismail Jakobs,787,Senegal,Left Back,0.0,0.01,0.3,34.0,71.1,13.5,2.5,0.5,0.3,5,AFCON2023,good
+49395.0,Richard Rios Montoya,769,Colombia,Right Defensive Midfield,0.0,0.1,1.0,16.0,62.5,14.0,1.0,2.0,2.0,7,Copa2024,good
+66892.0,Mohamed Hany Gamal Eldemerdash,774,Egypt,Right Back,0.33,0.27,0.7,58.7,77.8,8.0,5.3,0.7,1.0,3,AFCON2023,limited
+87603.0,Ramón Sosa Acosta,3567,Paraguay,Left Wing,0.33,0.05,1.0,19.0,84.3,4.3,0.0,1.7,0.3,3,Copa2024,limited
+156734.0,Bilal El Khannous,788,Morocco,Right Center Midfield,0.0,0.0,0.0,3.0,100.0,2.0,0.0,0.0,0.0,3,AFCON2023,limited
+5678.0,Jefferson Andrés Lerma Solís,769,Colombia,Center Defensive Midfield,0.2,0.05,1.2,42.8,70.9,7.0,0.0,0.2,1.6,7,Copa2024,good
+11990.0,Youssouf Fofana,771,France,Right Center Midfield,0.5,0.39,0.5,10.0,84.4,5.0,0.0,0.0,0.5,3,EURO2024,limited
+20750.0,Cody Mathès Gakpo,941,Netherlands,Left Wing,0.5,0.14,2.0,22.5,69.3,12.2,3.8,1.8,0.7,7,EURO2024,good
+23301.0,Kenny Rocha Santos,4924,Cape Verde Islands,Left Defensive Midfield,0.0,0.0,0.0,7.0,85.7,1.0,0.0,1.0,1.0,7,AFCON2023,good
+28268.0,Exequiel Alejandro Palacios,779,Argentina,Right Center Midfield,0.0,0.0,0.0,51.0,92.2,14.0,0.0,0.0,1.0,3,Copa2024,limited
+32975.0,Diogo Meireles Costa,780,Portugal,Goalkeeper,0.0,0.0,0.0,30.8,90.6,0.0,0.0,0.0,0.0,5,EURO2024,good
+50968.0,Erickson Patrick Correia Andrade,4924,Cape Verde Islands,Left Defensive Midfield,0.0,0.78,1.0,18.0,77.8,9.0,0.0,0.0,0.0,4,AFCON2023,limited
+149714.0,Abdessamad Ezzalzouli,788,Morocco,Left Midfield,0.0,0.11,1.0,8.0,80.6,6.7,0.0,2.3,0.0,4,AFCON2023,limited
+3943.0,Declan Rice,768,England,Right Defensive Midfield,0.0,0.0,0.0,7.0,46.2,1.0,0.0,0.5,0.0,7,EURO2024,good
+8784.0,Romano Schmid,915,Austria,Right Wing,0.5,0.09,0.5,28.5,76.3,16.0,1.0,1.5,0.0,4,EURO2024,limited
+12603.0,Miguel Ángel Almirón Rejala,3567,Paraguay,Left Wing,0.0,0.03,1.0,26.0,92.3,15.0,0.0,1.0,1.0,3,Copa2024,limited
+148397.0,Valentin Carboni,779,Argentina,Right Wing,0.0,0.0,0.0,5.0,80.0,6.0,0.0,0.0,0.0,1,Copa2024,poor
+5477.0,Ousmane Dembélé,771,France,Right Midfield,0.0,0.1,2.0,39.0,84.6,8.0,4.0,3.0,0.0,5,EURO2024,good
+27889.0,César Saúl Huerta Valera,794,Mexico,Right Midfield,0.0,0.15,2.0,12.0,68.8,8.0,1.5,2.5,0.0,2,Copa2024,poor
+28413.0,Willy Afonso Semedo Johnson,4924,Cape Verde Islands,Left Wing,0.0,0.0,0.0,4.0,75.0,3.0,0.0,0.0,0.0,7,AFCON2023,good
+133229.0,Ismael Koné,1833,Canada,Center Defensive Midfield,0.0,0.0,0.0,5.0,80.0,4.0,0.0,0.0,0.0,6,Copa2024,good
+212489.0,Oumar Diakité,3374,Côte d'Ivoire,Right Midfield,0.0,0.0,0.0,26.0,69.2,11.0,2.0,3.0,2.0,6,AFCON2023,good
+3567.0,Georginio Wijnaldum,941,Netherlands,Left Center Midfield,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,3,EURO2024,limited
+8506.0,Konrad Laimer,915,Austria,Left Defensive Midfield,0.0,0.09,0.7,25.7,84.6,11.3,0.0,0.7,0.7,7,EURO2024,good
+23301.0,Kenny Rocha Santos,4924,Cape Verde Islands,Right Center Midfield,0.0,0.02,0.7,26.7,89.6,11.3,0.7,1.3,0.3,7,AFCON2023,good
+28729.0,Diego Nicolás De La Cruz Arcosa,783,Uruguay,Left Center Midfield,0.0,0.0,0.5,24.5,58.3,15.5,0.5,0.0,1.0,7,Copa2024,good
+51733.0,Folarin Balogun,1839,United States,Center Forward,0.67,0.08,1.7,9.0,72.2,7.0,0.7,1.0,0.0,3,Copa2024,limited
+156734.0,Bilal El Khannous,788,Morocco,Left Center Midfield,0.0,0.15,1.0,11.0,72.5,5.5,0.0,0.0,0.0,3,AFCON2023,limited
+5507.0,Nicolás Alejandro Tagliafico,779,Argentina,Left Back,0.0,0.03,0.6,52.2,85.7,8.0,0.2,1.0,1.0,7,Copa2024,good
+16001.0,Garry Mendes Rodrigues,4924,Cape Verde Islands,Center Forward,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7,AFCON2023,good
+32985.0,Mojmír Chytil,912,Czech Republic,Center Forward,0.0,0.04,0.7,4.7,54.3,5.3,0.3,0.7,0.0,4,EURO2024,limited
+35375.0,Julián Andrés Quiñones Quiñones,794,Mexico,Left Wing,0.0,0.25,4.0,41.0,82.9,22.0,1.0,5.0,1.0,3,Copa2024,limited
+43072.0,Jean-Philippe Krasso,3374,Côte d'Ivoire,Center Forward,0.0,0.01,0.3,5.0,43.8,6.3,0.0,2.0,0.0,7,AFCON2023,good
+66886.0,Mostafa Mohamed Ahmed Abdallah,774,Egypt,Center Forward,0.33,0.69,2.0,16.3,75.2,13.7,0.0,1.0,0.0,7,AFCON2023,good
+3648.0,Cenk Tosun,909,Turkey,Center Forward,0.5,0.1,1.5,2.0,33.4,2.0,0.0,0.0,0.0,2,EURO2024,poor
+5548.0,Steven Zuber,773,Switzerland,Left Wing Back,0.0,0.0,0.0,2.0,100.0,1.0,0.0,1.0,0.0,3,EURO2024,limited
+7039.0,Hakan Çalhanoğlu,909,Turkey,Center Attacking Midfield,1.0,0.09,3.0,37.0,91.9,10.0,1.0,1.0,0.0,7,EURO2024,good
+8068.0,Maximilian Wöber,915,Austria,Left Center Back,0.0,0.0,0.0,40.0,84.5,8.0,0.7,0.3,1.3,3,EURO2024,limited
+8518.0,Marcel Sabitzer,915,Austria,Right Attacking Midfield,0.0,0.03,1.0,23.0,56.5,0.0,3.0,0.0,0.0,7,EURO2024,good
+10039.0,Ghislain Konan,3374,Côte d'Ivoire,Left Back,0.0,0.01,0.2,50.2,81.9,6.3,1.8,1.3,1.0,7,AFCON2023,good
+18244.0,Grady Diangana,4881,Congo DR,Right Wing,1.0,0.78,1.0,7.0,42.9,4.0,3.0,4.0,1.0,2,AFCON2023,poor
+27886.0,Alexis Mac Allister,779,Argentina,Right Defensive Midfield,0.0,0.24,2.0,46.5,90.2,16.5,0.5,1.0,0.5,7,Copa2024,good
+30401.0,Ruben Vargas,773,Switzerland,Left Attacking Midfield,0.25,0.15,0.8,23.0,72.4,10.8,1.5,0.8,0.5,6,EURO2024,good
+44305.0,César Rodolfo Blackman Camarena,798,Panama,Right Back,0.0,0.0,0.0,6.0,83.3,1.0,0.0,0.0,0.0,5,Copa2024,good
+5243.0,Amine Harit,788,Morocco,Right Midfield,0.0,0.04,1.0,9.0,77.8,2.0,2.0,1.0,0.0,4,AFCON2023,limited
+5544.0,Ricardo Iván Rodríguez Araya,773,Switzerland,Left Center Back,0.0,0.01,0.6,51.2,83.6,9.2,1.4,0.2,0.4,5,EURO2024,good
+16001.0,Garry Mendes Rodrigues,4924,Cape Verde Islands,Right Midfield,0.0,0.1,2.0,3.0,100.0,2.0,0.0,0.0,0.0,7,AFCON2023,good
+23363.0,Liam Millar,1833,Canada,Right Midfield,0.0,0.02,0.5,10.5,60.7,5.0,0.0,1.5,0.0,7,Copa2024,good
+102816.0,Mohamed Ali Ben Romdhane,777,Tunisia,Left Center Midfield,0.0,0.0,0.0,8.5,87.5,4.5,0.5,0.0,0.0,3,AFCON2023,limited
+3943.0,Declan Rice,768,England,Left Defensive Midfield,0.0,0.08,1.8,76.5,89.2,12.5,1.0,0.8,0.8,7,EURO2024,good
+5456.0,Mateo Kovačić,785,Croatia,Left Center Midfield,0.0,0.07,1.3,39.0,94.9,15.3,0.0,0.7,0.7,4,EURO2024,limited
+27886.0,Alexis Mac Allister,779,Argentina,Left Defensive Midfield,0.5,0.41,1.0,21.5,80.9,3.0,0.5,0.5,0.0,7,Copa2024,good
+383095.0,Kahiser Lenis Navarro,798,Panama,Right Wing,0.0,0.22,1.5,2.5,50.0,3.0,0.5,1.5,0.0,3,Copa2024,limited
+3244.0,John Stones,768,England,Center Back,0.0,0.0,0.0,58.3,88.5,4.7,0.0,0.0,0.0,7,EURO2024,good
+5633.0,Yannick Ferreira Carrasco,782,Belgium,Left Back,0.0,0.15,2.0,68.0,89.7,4.0,1.0,0.0,1.0,5,EURO2024,good
+8506.0,Konrad Laimer,915,Austria,Right Defensive Midfield,0.0,0.0,0.0,19.0,94.7,10.0,0.0,1.0,0.0,7,EURO2024,good
+9859.0,Elisha Owusu,4885,Ghana,Left Defensive Midfield,0.0,0.0,0.0,3.0,100.0,1.0,0.0,0.0,0.0,1,AFCON2023,poor
+31053.0,Santiago Tomás Giménez,794,Mexico,Right Center Forward,0.0,0.02,1.0,1.0,100.0,4.0,0.0,0.0,0.0,4,Copa2024,limited
+40761.0,Omar Marmoush,774,Egypt,Left Center Forward,0.5,0.28,1.0,4.0,85.7,2.0,0.5,1.0,0.5,7,AFCON2023,good
+116587.0,Arda Güler,909,Turkey,Center Attacking Midfield,0.0,0.01,1.0,15.0,86.4,3.0,1.0,2.5,0.0,7,EURO2024,good
+224603.0,Tanitoluwa Oluwaseyi,1833,Canada,Right Center Forward,0.0,0.3,2.0,0.0,0.0,9.0,0.0,0.0,0.0,5,Copa2024,good
+3130.0,Gaël Kakuta,4881,Congo DR,Center Attacking Midfield,0.0,0.09,2.0,18.0,64.1,11.0,1.5,3.0,0.0,5,AFCON2023,good
+5460.0,Andrej Kramarić,785,Croatia,Center Forward,0.0,0.0,0.0,11.5,72.3,12.0,1.0,0.0,0.0,6,EURO2024,good
+5474.0,Ivan Perišić,785,Croatia,Left Wing,0.0,0.03,1.5,7.5,48.1,7.5,2.0,0.5,1.0,4,EURO2024,limited
+6193.0,Andrés Mateus Uribe Villa,769,Colombia,Right Midfield,0.0,0.0,0.0,1.0,100.0,2.0,0.0,0.0,0.0,7,Copa2024,good
+12326.0,Renato Steffen,773,Switzerland,Left Wing Back,0.0,0.0,0.0,2.0,100.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+22600.0,Lucas Tolentino Coelho de Lima,781,Brazil,Right Defensive Midfield,0.0,0.08,1.0,8.0,62.5,3.0,0.0,0.0,0.0,5,Copa2024,good
+27158.0,Luis Fernando Díaz Marulanda,769,Colombia,Left Center Forward,0.33,0.11,1.0,20.7,84.5,12.7,0.3,4.3,0.0,7,Copa2024,good
+38792.0,Yunus Dimoara Musah,1839,United States,Center Defensive Midfield,0.0,0.0,0.0,10.0,80.0,6.0,0.0,0.0,1.0,3,Copa2024,limited
+132800.0,Kevin Lenini Gonçalves Pereira de Pina,4924,Cape Verde Islands,Center Defensive Midfield,0.25,0.04,1.3,33.8,89.4,13.0,0.0,0.5,0.8,6,AFCON2023,good
+233463.0,Ernest Appiah Nuamah,4885,Ghana,Right Wing,0.0,0.08,2.0,10.0,70.0,8.0,3.0,2.0,1.0,1,AFCON2023,poor
+3042.0,Mikel Merino Zazón,772,Spain,Right Center Midfield,0.0,0.0,0.0,15.0,73.3,4.0,0.0,2.0,0.0,7,EURO2024,good
+3193.0,Bernardo Mota Veiga de Carvalho e Silva,780,Portugal,Right Defensive Midfield,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+5474.0,Ivan Perišić,785,Croatia,Left Back,0.0,0.02,1.0,44.0,79.5,8.0,9.0,2.0,0.0,4,EURO2024,limited
+12510.0,Ryan Christie,942,Scotland,Left Center Forward,0.0,0.0,0.0,2.0,75.0,3.0,0.0,0.5,0.0,5,EURO2024,good
+5265.0,Mohamed El Sayed Mohamed El Shenawy Gomaa,774,Egypt,Goalkeeper,0.0,0.0,0.0,16.3,97.9,0.0,0.0,0.0,0.0,3,AFCON2023,limited
+10595.0,Raphael Dias Belloli,781,Brazil,Left Wing,0.0,0.0,0.0,4.0,50.0,4.0,0.0,0.0,0.0,6,Copa2024,good
+69442.0,Nyiko Mobbie,4976,South Africa,Right Back,0.0,0.01,1.0,12.5,51.2,4.5,1.0,0.0,0.0,2,AFCON2023,poor
+5579.0,Joshua Kimmich,770,Germany,Right Wing Back,0.0,0.0,0.0,7.0,100.0,1.0,0.0,1.0,0.0,6,EURO2024,good
+10598.0,Jovane Eduardo Borges Cabral,4924,Cape Verde Islands,Left Wing,0.0,0.08,2.0,24.0,79.7,11.0,1.0,3.0,1.0,7,AFCON2023,good
+23363.0,Liam Millar,1833,Canada,Left Wing,0.0,0.44,2.0,10.5,75.9,4.5,0.5,2.0,0.0,7,Copa2024,good
+24105.0,Dylan Batubinsika,4881,Congo DR,Left Center Back,0.0,0.0,0.0,42.5,93.0,4.3,0.0,0.3,1.0,4,AFCON2023,limited
+32688.0,Charles De Ketelaere,782,Belgium,Right Center Forward,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1,EURO2024,poor
+36288.0,Facundo Pellistri Rebollo,783,Uruguay,Right Midfield,0.0,0.0,0.0,4.5,66.7,12.0,0.0,1.0,0.0,7,Copa2024,good
+103464.0,Mohamed Youcef Belaïli,4898,Algeria,Left Wing,0.0,0.1,3.3,31.3,86.2,5.7,2.0,0.3,0.0,4,AFCON2023,limited
+8854.0,Wout Faes,782,Belgium,Center Back,0.0,0.0,0.0,9.0,88.9,1.0,0.0,0.0,0.0,5,EURO2024,good
+23760.0,Derek Cornelius,1833,Canada,Center Back,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+44455.0,Sávio Moreira de Oliveira,781,Brazil,Right Wing,0.0,0.02,0.3,5.3,66.3,1.0,1.0,1.7,0.0,6,Copa2024,good
+65750.0,Terrence Mashego,4976,South Africa,Left Wing,0.0,0.0,0.0,3.0,33.3,2.0,0.0,0.0,0.0,2,AFCON2023,poor
+105946.0,Henoc Inonga Baka,4881,Congo DR,Left Center Back,0.2,0.17,0.4,39.8,86.9,5.8,0.2,0.0,1.4,5,AFCON2023,good
+12293.0,Kaan Ayhan,909,Turkey,Right Defensive Midfield,0.0,0.0,0.0,19.0,81.8,2.5,0.0,0.0,0.0,7,EURO2024,good
+18360.0,Rafael Alexandre Conceição Leão,780,Portugal,Left Midfield,0.0,0.13,1.0,36.0,80.6,4.0,7.0,4.0,0.0,4,EURO2024,limited
+22168.0,Joshua Sargent,1839,United States,Right Wing,0.0,0.04,1.0,3.0,66.7,3.0,1.0,1.0,0.0,2,Copa2024,poor
+23558.0,Merih Demiral,909,Turkey,Center Back,1.0,0.36,1.5,18.0,41.7,6.5,0.5,0.0,2.0,4,EURO2024,limited
+28034.0,Lukáš Provod,912,Czech Republic,Right Defensive Midfield,1.0,0.04,1.0,8.0,75.0,5.0,0.0,0.0,0.0,5,EURO2024,good
+31029.0,Salis Abdul Samed,4885,Ghana,Right Defensive Midfield,0.0,0.0,0.0,9.0,55.6,5.0,0.0,0.0,0.0,4,AFCON2023,limited
+38345.0,Ramiz Larbi Zerrouki,4898,Algeria,Left Defensive Midfield,0.0,0.0,0.0,41.5,85.2,8.0,0.5,0.0,1.5,5,AFCON2023,good
+70682.0,Marwan Attia Fahim Ghallab,774,Egypt,Center Defensive Midfield,0.0,0.01,0.3,27.7,95.8,8.0,0.3,0.0,0.7,4,AFCON2023,limited
+2989.0,Alexander Djiku,4885,Ghana,Center Back,0.0,0.0,0.0,3.0,100.0,0.0,0.0,0.0,0.0,4,AFCON2023,limited
+18360.0,Rafael Alexandre Conceição Leão,780,Portugal,Left Center Forward,0.0,0.01,1.0,23.0,65.2,4.0,5.0,1.0,0.0,4,EURO2024,limited
+22008.0,Haji Wright,1839,United States,Left Wing,0.0,0.09,1.0,1.0,0.0,2.0,0.0,0.0,0.0,1,Copa2024,poor
+28413.0,Willy Afonso Semedo Johnson,4924,Cape Verde Islands,Right Midfield,0.0,0.05,2.0,14.0,71.4,1.0,2.0,2.0,0.0,7,AFCON2023,good
+64607.0,Zakhele Lerato Lepasa,4976,South Africa,Left Wing,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7,AFCON2023,good
+5550.0,Yann Sommer,773,Switzerland,Goalkeeper,0.0,0.0,0.0,33.6,83.0,0.0,0.0,0.0,0.0,5,EURO2024,good
+12293.0,Kaan Ayhan,909,Turkey,Right Center Midfield,0.0,0.0,0.0,4.0,100.0,0.0,1.0,0.0,1.0,7,EURO2024,good
+16120.0,Richie Laryea,1833,Canada,Right Wing,0.0,0.07,1.5,16.0,67.2,18.0,1.5,1.0,0.5,7,Copa2024,good
+27158.0,Luis Fernando Díaz Marulanda,769,Colombia,Center Forward,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,7,Copa2024,good
+28266.0,Rafael Santos Borré Amaury,769,Colombia,Left Wing,0.0,0.0,0.0,2.0,50.0,3.0,0.0,0.0,0.0,6,Copa2024,good
+47112.0,Julio César Enciso Espínola,3567,Paraguay,Left Wing,0.0,0.07,3.0,12.0,75.0,12.0,0.0,4.0,1.0,6,Copa2024,good
+65727.0,Thapelo James Morena,4976,South Africa,Right Midfield,0.0,0.02,0.3,12.3,64.9,7.0,0.3,0.7,0.3,7,AFCON2023,good
+408457.0,Idrissa Gueye,787,Senegal,Left Defensive Midfield,0.0,0.04,1.0,19.0,94.7,10.0,0.0,2.0,1.0,1,AFCON2023,poor
+5537.0,Fabian Lukas Schär,773,Switzerland,Right Center Back,0.2,0.2,1.2,51.2,80.8,8.6,1.2,0.2,1.6,5,EURO2024,good
+7713.0,Obite Evan Ndicka,3374,Côte d'Ivoire,Center Back,0.0,0.0,0.0,5.0,100.0,1.0,0.0,0.0,0.0,7,AFCON2023,good
+12496.0,Christian Kouamé,3374,Côte d'Ivoire,Center Forward,0.0,0.0,0.0,5.0,80.0,9.0,0.0,1.0,0.0,5,AFCON2023,good
+22212.0,Orkun Kökçü,909,Turkey,Right Defensive Midfield,0.0,0.0,0.0,5.0,40.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+23910.0,Youssef Msakni,777,Tunisia,Left Wing,0.0,0.0,0.0,11.5,84.2,3.5,0.0,0.0,1.0,7,AFCON2023,good
+133003.0,Mihlali Samson Mayambela,4976,South Africa,Center Forward,0.0,0.1,2.0,6.0,83.3,1.0,0.0,0.0,0.0,7,AFCON2023,good
+389291.0,Fiston Kalala Mayele,4881,Congo DR,Center Attacking Midfield,0.0,0.15,2.0,4.0,75.0,5.0,0.0,0.0,0.0,5,AFCON2023,good
+4445.0,Jules Koundé,771,France,Right Back,0.17,0.14,0.3,66.7,83.5,10.0,3.7,0.7,1.2,6,EURO2024,good
+5229.0,Ayoub El Kaabi,788,Morocco,Center Forward,0.0,0.25,1.0,4.3,100.0,8.0,0.0,0.0,0.0,4,AFCON2023,limited
+5487.0,Antoine Griezmann,771,France,Right Wing,0.0,0.08,2.0,60.0,78.3,14.0,2.0,0.0,1.0,7,EURO2024,good
+5633.0,Yannick Ferreira Carrasco,782,Belgium,Left Wing,0.0,0.0,0.5,3.5,87.5,3.0,0.0,1.0,0.0,5,EURO2024,good
+5695.0,James David Rodríguez Rubio,769,Colombia,Center Attacking Midfield,0.17,0.19,1.3,50.5,76.8,8.8,3.0,1.0,0.3,7,Copa2024,good
+11515.0,Ismael Bennacer,4898,Algeria,Left Center Midfield,0.0,0.04,1.0,43.0,81.4,10.0,4.0,0.0,0.0,1,AFCON2023,poor
+28239.0,Adam Hložek,912,Czech Republic,Left Attacking Midfield,0.0,0.23,1.5,7.0,100.0,10.5,0.0,1.5,0.0,3,EURO2024,limited
+50971.0,Eduardo Antonio Guerrero Lozcano,798,Panama,Center Forward,0.0,0.01,0.5,5.8,80.3,4.5,0.3,0.5,0.0,6,Copa2024,good
+3313.0,Giovani Lo Celso,779,Argentina,Right Midfield,0.0,0.0,0.0,7.0,57.1,1.0,0.0,0.0,0.0,7,Copa2024,good
+3557.0,Naïm Sliti,777,Tunisia,Left Wing,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2,AFCON2023,poor
+5207.0,Cristiano Ronaldo dos Santos Aveiro,780,Portugal,Center Forward,0.5,0.94,5.0,19.3,76.9,7.0,0.3,1.8,0.0,5,EURO2024,good
+5628.0,José Luis Rodríguez Francis,798,Panama,Right Wing,0.0,0.06,2.0,24.0,75.0,14.0,0.0,6.0,1.0,1,Copa2024,poor
+6773.0,Federico Santiago Valverde Dipetta,783,Uruguay,Right Defensive Midfield,0.0,0.01,2.0,54.0,81.5,16.0,1.0,1.0,3.0,7,Copa2024,good
+91089.0,José Fajardo Nelson,798,Panama,Right Wing,0.0,0.0,0.0,8.0,75.0,7.0,1.0,0.0,0.0,6,Copa2024,good
+8520.0,Nabil Bentaleb,4898,Algeria,Center Defensive Midfield,0.0,0.0,0.0,46.0,84.8,11.0,0.0,0.0,1.0,3,AFCON2023,limited
+9929.0,Diogo José Teixeira da Silva,780,Portugal,Center Attacking Midfield,0.0,0.0,0.0,8.0,62.5,6.0,0.0,0.0,0.0,4,EURO2024,limited
+10336.0,Alejandro Grimaldo García,772,Spain,Left Back,0.0,0.0,0.0,52.0,86.1,5.5,4.5,0.5,1.5,2,EURO2024,poor
+16016.0,Michel Aebischer,773,Switzerland,Left Wing Back,0.2,0.02,0.4,49.6,89.3,17.8,0.4,0.8,0.6,5,EURO2024,good
+22097.0,Randal Kolo Muani,771,France,Center Forward,0.33,0.11,0.7,5.0,85.9,13.3,0.0,0.3,0.3,7,EURO2024,good
+23910.0,Youssef Msakni,777,Tunisia,Center Attacking Midfield,0.0,0.0,0.0,4.0,63.4,3.5,1.0,0.0,0.0,7,AFCON2023,good
+33297.0,Patrick Wimmer,915,Austria,Left Wing,0.0,0.06,1.0,14.0,78.6,17.0,0.0,0.0,0.0,4,EURO2024,limited
+65761.0,Jayden Adams,4976,South Africa,Left Defensive Midfield,0.0,0.0,0.0,2.0,50.0,1.0,0.0,0.0,1.0,3,AFCON2023,limited
+80484.0,Iliman Ndiaye,787,Senegal,Right Wing,0.0,0.0,0.0,8.0,93.8,5.0,0.0,1.0,0.0,5,AFCON2023,good
+4909.0,Jeremie Boga,3374,Côte d'Ivoire,Right Wing,0.0,0.08,1.0,18.0,83.3,2.0,2.0,1.0,0.0,7,AFCON2023,good
+5487.0,Antoine Griezmann,771,France,Right Center Midfield,0.0,0.04,1.0,11.0,63.6,9.0,2.0,0.0,0.0,7,EURO2024,good
+8125.0,Denzel Dumfries,941,Netherlands,Right Wing,0.0,0.0,0.0,7.0,85.7,6.0,1.0,0.0,0.0,6,EURO2024,good
+10285.0,Stuart Armstrong,942,Scotland,Left Attacking Midfield,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,2,EURO2024,poor
+17620.0,Marc Cucurella Saseta,772,Spain,Left Back,0.0,0.0,0.2,61.3,90.9,15.0,1.3,0.5,1.8,6,EURO2024,good
+39167.0,Xavi Simons,941,Netherlands,Left Center Midfield,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,7,EURO2024,good
+65733.0,Aubrey Maphosa Modiba,4976,South Africa,Left Back,0.0,0.16,0.6,47.4,81.7,11.4,1.0,1.0,0.4,7,AFCON2023,good
+6333.0,Miguel Ángel Borja Hernández,769,Colombia,Right Center Forward,1.0,0.78,1.0,0.0,0.0,1.0,0.0,2.0,0.0,2,Copa2024,poor
+11116.0,Jack Hendry,942,Scotland,Center Back,0.0,0.0,0.0,19.0,84.2,3.0,0.0,0.0,0.0,4,EURO2024,limited
+28914.0,Lovro Majer,785,Croatia,Center Attacking Midfield,0.0,0.0,0.0,4.0,100.0,3.0,0.0,1.0,0.0,5,EURO2024,good
+66887.0,Hamdi Fathi,774,Egypt,Center Defensive Midfield,0.0,0.0,0.0,2.0,100.0,2.0,0.0,0.0,1.0,7,AFCON2023,good
+4127.0,David Raya Martin,772,Spain,Goalkeeper,0.0,0.0,0.0,41.0,85.4,0.0,0.0,0.0,0.0,1,EURO2024,poor
+5574.0,Toni Kroos,770,Germany,Left Defensive Midfield,0.0,0.03,0.6,107.0,89.7,12.2,1.4,0.2,1.4,6,EURO2024,good
+6374.0,Nélson Cabral Semedo,780,Portugal,Right Back,0.0,0.0,0.0,13.0,88.4,3.3,0.7,0.7,0.0,4,EURO2024,limited
+6748.0,Ferrán Torres García,772,Spain,Right Midfield,0.0,0.29,1.0,4.0,50.0,4.0,1.0,1.0,0.0,6,EURO2024,good
+7797.0,Rodrigo Javier De Paul,779,Argentina,Right Midfield,0.0,0.0,0.0,15.0,76.2,8.0,0.0,0.5,0.0,7,Copa2024,good
+29367.0,Percy Tau,4976,South Africa,Left Midfield,0.0,0.0,0.0,23.0,91.3,24.0,1.0,0.0,1.0,7,AFCON2023,good
+50971.0,Eduardo Antonio Guerrero Lozcano,798,Panama,Right Center Forward,1.0,0.22,1.0,3.0,66.7,1.0,0.0,0.0,0.0,6,Copa2024,good
+66721.0,Ronwen Williams,4976,South Africa,Goalkeeper,0.0,0.0,0.0,46.4,71.2,0.1,0.0,0.0,0.0,7,AFCON2023,good
+7044.0,Patrik Schick,912,Czech Republic,Center Forward,0.5,0.6,3.5,13.0,40.9,6.5,1.0,0.0,0.0,4,EURO2024,limited
+8246.0,Christian Pulisic,1839,United States,Right Wing,0.0,0.0,0.0,19.0,47.4,10.0,3.0,2.0,1.0,7,Copa2024,good
+32868.0,Bryan Alberto Silva Teixeira Jr.,4924,Cape Verde Islands,Right Defensive Midfield,1.0,0.78,1.0,1.0,100.0,0.0,0.0,0.0,0.0,2,AFCON2023,poor
+48347.0,Amadou Onana,782,Belgium,Right Defensive Midfield,0.0,0.0,0.0,48.3,92.1,10.3,0.0,1.0,0.7,5,EURO2024,good
+88123.0,Cheikh Ahmadou Bamba Mbacke Dieng,787,Senegal,Right Center Forward,1.0,0.78,1.0,3.0,66.7,3.0,0.0,0.0,0.0,1,AFCON2023,poor
+133305.0,Samet Akaydin,909,Turkey,Right Center Back,0.0,0.02,0.3,56.3,89.5,7.7,0.0,0.0,1.7,4,EURO2024,limited
+3090.0,Nicolás Hernán Otamendi,779,Argentina,Left Center Back,0.33,0.26,0.3,32.3,94.3,2.7,0.0,0.0,0.0,5,Copa2024,good
+5692.0,Juan Fernando Quintero Paniagua,769,Colombia,Center Attacking Midfield,0.0,0.01,0.3,15.7,91.6,1.7,0.3,1.3,0.0,3,Copa2024,limited
+21633.0,Joey Veerman,941,Netherlands,Left Defensive Midfield,0.0,0.05,0.7,30.3,92.0,4.3,0.3,0.3,0.3,6,EURO2024,good
+24826.0,Simon Bokote Banza,4881,Congo DR,Left Center Forward,0.0,0.04,1.0,4.0,25.0,8.0,0.0,0.0,0.0,5,AFCON2023,good
+27768.0,Lisandro Martínez,779,Argentina,Left Back,0.0,0.0,0.0,5.0,80.0,1.0,0.0,0.0,0.0,6,Copa2024,good
+30438.0,Ferdi Erenay Kadıoğlu,909,Turkey,Left Back,0.0,0.0,0.3,49.3,85.0,7.5,0.8,1.3,1.0,7,EURO2024,good
+32480.0,Ronald Federico Araújo da Silva,783,Uruguay,Right Center Back,0.0,0.02,0.8,41.0,80.7,4.5,0.0,0.3,1.0,4,Copa2024,limited
+44955.0,Aïssa Bilal Laïdouni,777,Tunisia,Left Defensive Midfield,0.0,0.01,0.3,35.3,86.2,17.3,0.0,0.3,0.0,4,AFCON2023,limited
+3198.0,Moussa Niakhate,787,Senegal,Left Center Back,0.0,0.39,0.5,59.0,87.0,14.5,0.0,0.0,1.0,2,AFCON2023,poor
+7378.0,Yunis Abdelhamid,788,Morocco,Left Center Back,0.0,0.0,0.0,54.0,90.7,4.0,0.0,0.0,0.0,1,AFCON2023,poor
+7801.0,Antonín Barák,912,Czech Republic,Right Attacking Midfield,0.0,0.0,0.0,8.5,87.1,5.5,0.5,1.0,0.0,4,EURO2024,limited
+8817.0,Jhon Andrés Córdoba Copete,769,Colombia,Right Center Forward,0.4,0.24,1.8,9.8,80.5,12.2,0.8,1.2,0.0,6,Copa2024,good
+16532.0,Daniel Olmo Carvajal,772,Spain,Right Center Midfield,0.5,0.15,2.0,15.0,77.5,6.0,0.0,1.0,1.0,7,EURO2024,good
+26386.0,Luis Francisco Romo Barrón,794,Mexico,Center Defensive Midfield,0.0,0.09,1.7,60.0,79.3,11.7,0.3,1.7,0.7,5,Copa2024,good
+132461.0,Mohamed Elias Achouri,777,Tunisia,Right Wing,0.0,0.0,0.0,16.0,56.3,11.0,1.0,4.0,0.0,4,AFCON2023,limited
+3761.0,Mike Maignan,771,France,Goalkeeper,0.0,0.0,0.0,27.5,81.2,0.2,0.0,0.0,0.0,6,EURO2024,good
+7005.0,João Pedro Cavaco Cancelo,780,Portugal,Right Wing Back,0.0,0.0,0.0,13.0,84.6,1.0,1.0,0.0,1.0,5,EURO2024,good
+12306.0,Dodi Lukebakio,782,Belgium,Right Back,0.0,0.0,0.0,5.0,80.0,1.0,0.0,1.0,0.0,3,EURO2024,limited
+39143.0,Matěj Jurásek,912,Czech Republic,Left Wing Back,0.0,0.03,1.0,8.0,38.2,2.0,3.0,1.5,0.0,3,EURO2024,limited
+41092.0,Nuno Mendes,780,Portugal,Left Center Back,0.0,0.01,1.0,73.0,83.6,6.0,1.0,0.0,2.0,5,EURO2024,good
+67742.0,Emam Ashour Metwally Abdelghany,774,Egypt,Right Defensive Midfield,0.0,0.06,1.0,32.0,71.9,6.0,2.0,0.0,1.0,7,AFCON2023,good
+,,772,Spain,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,poor
+2988.0,Memphis Depay,941,Netherlands,Center Attacking Midfield,0.5,0.11,2.0,15.0,73.6,4.0,1.5,1.5,0.0,7,EURO2024,good
+5202.0,José Ignacio Fernández Iglesias,772,Spain,Right Center Back,0.0,0.0,0.0,21.7,93.5,2.3,0.0,0.0,0.3,5,EURO2024,good
+9929.0,Diogo José Teixeira da Silva,780,Portugal,Right Attacking Midfield,0.0,0.7,1.0,9.0,100.0,1.0,0.0,0.0,0.0,4,EURO2024,limited
+15452.0,Carlos Uriel Antuna Romero,794,Mexico,Right Wing,0.0,0.0,0.0,44.0,70.5,7.0,7.0,1.0,1.0,3,Copa2024,limited
+16001.0,Garry Mendes Rodrigues,4924,Cape Verde Islands,Left Midfield,0.0,0.0,0.0,11.0,72.7,7.0,0.0,1.0,0.0,7,AFCON2023,good
+36830.0,Joseph Scally,1839,United States,Right Back,0.0,0.01,0.3,33.0,68.2,8.7,0.3,0.3,0.3,4,Copa2024,limited
+5258.0,Giorgian Daniel De Arrascaeta Benedetti,783,Uruguay,Left Center Midfield,0.5,0.39,0.5,24.0,73.3,4.5,2.5,0.0,0.0,6,Copa2024,good
+5545.0,Breel-Donald Embolo,773,Switzerland,Center Forward,0.4,0.31,1.6,9.6,87.7,12.8,0.2,0.8,0.2,5,EURO2024,good
+7005.0,João Pedro Cavaco Cancelo,780,Portugal,Left Wing Back,0.0,0.03,1.0,62.0,90.3,9.0,1.0,1.0,0.0,5,EURO2024,good
+23640.0,Jonathan David,1833,Canada,Center Forward,0.0,0.0,0.0,2.0,100.0,2.0,0.0,0.0,0.0,7,Copa2024,good
+24921.0,Martín Zubimendi Ibáñez,772,Spain,Left Defensive Midfield,0.0,0.0,0.0,9.0,100.0,4.0,0.0,0.0,0.0,5,EURO2024,good
+3567.0,Georginio Wijnaldum,941,Netherlands,Left Defensive Midfield,0.0,0.0,0.0,7.0,57.1,4.0,0.0,0.0,0.0,3,EURO2024,limited
+5644.0,Ismael Díaz De León,798,Panama,Left Wing,0.0,0.0,0.0,1.0,100.0,4.0,0.0,1.0,0.0,1,Copa2024,poor
+7787.0,Stefan de Vrij,941,Netherlands,Right Center Back,0.17,0.05,0.7,69.3,92.1,7.7,0.2,0.2,1.3,6,EURO2024,good
+16001.0,Garry Mendes Rodrigues,4924,Cape Verde Islands,Right Back,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7,AFCON2023,good
+22600.0,Lucas Tolentino Coelho de Lima,781,Brazil,Center Attacking Midfield,0.0,0.12,2.0,34.0,76.8,17.3,0.7,1.7,1.0,5,Copa2024,good
+35592.0,Anis Ben Slimane,777,Tunisia,Right Center Midfield,0.0,0.01,1.0,21.0,81.0,8.0,0.0,1.0,1.0,4,AFCON2023,limited
+141358.0,Mohamed El Amine Amoura,4898,Algeria,Center Attacking Midfield,0.0,0.15,1.0,2.0,66.7,5.0,0.5,0.0,0.0,5,AFCON2023,good
+23454.0,Petr Ševčík,912,Czech Republic,Left Defensive Midfield,0.0,0.0,0.0,21.0,81.0,2.0,0.0,0.0,0.0,3,EURO2024,limited
+23957.0,Jean Thierry Lazare Amani,3374,Côte d'Ivoire,Right Center Midfield,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,2,AFCON2023,poor
+28266.0,Rafael Santos Borré Amaury,769,Colombia,Right Wing,0.0,0.31,1.0,2.0,50.0,2.0,1.0,0.0,0.0,6,Copa2024,good
+28415.0,Charles Pickel,4881,Congo DR,Right Defensive Midfield,0.0,0.0,0.2,22.4,83.1,16.4,0.2,0.0,0.0,7,AFCON2023,good
+36659.0,Manuel Ugarte Ribeiro,783,Uruguay,Right Defensive Midfield,0.0,0.03,1.0,22.0,95.5,7.0,0.0,0.0,0.0,7,Copa2024,good
+40874.0,Matheus Luiz Nunes,780,Portugal,Left Defensive Midfield,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2,EURO2024,poor
+43913.0,Arthur Theate,782,Belgium,Left Back,0.0,0.0,0.7,65.0,83.8,6.0,0.3,0.0,1.0,3,EURO2024,limited
+2995.0,Ángel Fabián Di María Hernández,779,Argentina,Left Midfield,0.0,0.09,2.0,20.0,90.0,8.0,2.0,2.0,0.0,6,Copa2024,good
+3077.0,Jan Vertonghen,782,Belgium,Left Center Back,0.0,0.03,0.3,69.3,92.5,5.3,0.0,0.0,0.3,3,EURO2024,limited
+23558.0,Merih Demiral,909,Turkey,Right Center Back,0.0,0.0,0.0,11.0,81.8,2.0,0.0,0.0,0.0,4,EURO2024,limited
+30714.0,Jude Bellingham,768,England,Left Attacking Midfield,0.0,0.0,0.0,48.5,78.7,17.0,1.0,2.5,0.0,7,EURO2024,good
+35592.0,Anis Ben Slimane,777,Tunisia,Center Attacking Midfield,0.0,0.0,0.5,18.5,70.0,15.5,0.0,1.5,0.0,4,AFCON2023,limited
+38169.0,Lawrence Shankland,942,Scotland,Right Center Forward,0.0,0.0,0.0,2.0,50.0,2.0,0.0,0.0,0.0,4,EURO2024,limited
+39624.0,Francisco Fernandes Conceição,780,Portugal,Right Attacking Midfield,0.0,0.14,3.0,51.0,80.4,13.0,6.0,3.0,0.0,6,EURO2024,good
+102722.0,Siyanda Xulu,4976,South Africa,Right Center Back,0.5,0.43,1.0,54.5,94.1,2.0,1.0,0.0,0.5,3,AFCON2023,limited
+4256.0,Jonathan Bamba,3374,Côte d'Ivoire,Right Wing,0.0,0.0,0.0,5.5,71.7,1.5,1.0,0.5,0.0,6,AFCON2023,good
+9933.0,Willy Boly,3374,Côte d'Ivoire,Center Back,0.0,0.0,0.0,17.0,86.1,8.5,0.0,0.0,0.0,5,AFCON2023,good
+3382.0,Luke Shaw,768,England,Left Center Back,0.0,0.0,0.0,31.0,90.3,3.0,2.0,0.0,0.0,3,EURO2024,limited
+3814.0,Riyad Mahrez,4898,Algeria,Right Midfield,0.0,0.0,0.0,14.0,64.3,3.0,0.0,0.0,1.0,4,AFCON2023,limited
+9927.0,Rúben Diogo Da Silva Neves,780,Portugal,Left Defensive Midfield,0.0,0.01,0.5,35.5,77.6,9.5,1.5,0.5,0.0,4,EURO2024,limited
+28728.0,Lucas Martínez Quarta,779,Argentina,Right Center Back,0.0,0.0,0.0,6.0,83.3,0.0,0.0,1.0,0.0,1,Copa2024,poor
+38718.0,Enzo Fernandez,779,Argentina,Left Defensive Midfield,0.0,0.11,1.3,30.0,83.7,8.7,0.3,0.3,0.7,7,Copa2024,good
+50968.0,Erickson Patrick Correia Andrade,4924,Cape Verde Islands,Center Defensive Midfield,0.0,0.0,0.0,9.0,88.9,1.0,0.0,0.0,0.0,4,AFCON2023,limited
+65733.0,Aubrey Maphosa Modiba,4976,South Africa,Left Wing Back,0.0,0.0,0.0,29.0,86.2,16.0,1.0,0.0,1.0,7,AFCON2023,good
+225215.0,Jacen Russell-Rowe,1833,Canada,Right Center Forward,0.0,0.0,0.0,2.0,50.0,0.0,0.0,0.0,0.0,1,Copa2024,poor
+3436.0,Idrissa Gana Gueye,787,Senegal,Right Center Midfield,0.0,0.0,0.0,6.5,80.0,6.0,1.0,0.0,0.0,2,AFCON2023,poor
+4416.0,Max-Alain Gradel,3374,Côte d'Ivoire,Right Center Midfield,0.0,0.06,2.0,4.0,75.0,1.0,1.0,0.0,0.0,6,AFCON2023,good
+5634.0,Erick Javier Davis Grajales,798,Panama,Left Wing Back,0.0,0.01,0.3,46.3,75.2,8.5,5.8,0.8,0.5,5,Copa2024,good
+7900.0,Tiago Manuel Dias Correia,4924,Cape Verde Islands,Left Wing,0.0,0.41,3.0,12.0,75.6,1.5,0.0,0.5,0.0,6,AFCON2023,good
+8526.0,Weston McKennie,1839,United States,Left Center Midfield,0.0,0.0,0.0,4.5,90.0,1.5,0.5,0.5,0.0,7,Copa2024,good
+8778.0,Gernot Trauner,915,Austria,Left Center Back,0.0,0.0,0.0,35.0,97.1,5.0,0.0,0.0,0.0,2,EURO2024,poor
+27133.0,Odilon Kossonou,3374,Côte d'Ivoire,Right Center Back,0.0,0.02,0.7,48.3,89.9,6.3,0.0,0.0,0.7,3,AFCON2023,limited
+29227.0,Leonidas Stergiou,773,Switzerland,Right Wing Back,0.0,0.0,0.0,3.7,66.7,8.0,0.0,0.0,0.0,3,EURO2024,limited
+36539.0,Wilfried Stephane Singo,3374,Côte d'Ivoire,Right Back,0.0,0.01,0.3,38.7,84.1,6.3,1.0,0.0,1.0,7,AFCON2023,good
+39174.0,Ismael Saibari,788,Morocco,Left Center Midfield,0.0,0.05,0.5,14.0,68.8,7.5,0.0,1.0,0.0,3,AFCON2023,limited
+39624.0,Francisco Fernandes Conceição,780,Portugal,Center Attacking Midfield,1.0,0.59,1.0,1.0,100.0,1.0,0.0,0.0,0.0,6,EURO2024,good
+60138.0,Kevin Duvan Castaño Gil,769,Colombia,Left Defensive Midfield,0.0,0.0,0.0,2.0,50.0,2.0,0.0,0.0,0.0,5,Copa2024,good
+3013.0,Nicolas Pépé,3374,Côte d'Ivoire,Right Wing,0.0,0.05,0.5,8.0,86.7,2.5,0.0,1.0,0.0,6,AFCON2023,good
+23614.0,Chris Führich,770,Germany,Left Wing,0.0,0.03,1.0,14.0,92.9,9.0,0.0,1.0,0.0,1,EURO2024,poor
+30311.0,İrfan Can Kahveci,909,Turkey,Left Center Midfield,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1,EURO2024,poor
+30681.0,Ali Abdi,777,Tunisia,Left Back,0.0,0.01,0.5,50.5,60.8,15.5,4.0,1.0,1.5,2,AFCON2023,poor
+67742.0,Emam Ashour Metwally Abdelghany,774,Egypt,Left Defensive Midfield,0.0,0.0,0.0,10.0,80.8,3.5,0.0,0.0,0.5,7,AFCON2023,good
+12770.0,Jonathan Osorio,1833,Canada,Center Attacking Midfield,0.0,0.68,2.0,28.0,89.3,19.0,0.0,1.0,0.0,6,Copa2024,good
+21226.0,Tomáš Chorý,912,Czech Republic,Center Forward,0.0,0.55,1.0,8.0,37.5,10.0,1.0,2.0,0.0,3,EURO2024,limited
+26280.0,Orbelín Pineda Alvarado,794,Mexico,Left Midfield,0.0,0.78,1.0,7.0,100.0,0.0,0.0,3.0,0.0,3,Copa2024,limited
+28368.0,Luka Ivanušec,785,Croatia,Left Center Midfield,0.0,0.0,0.0,11.0,72.7,2.0,0.0,1.0,0.0,1,EURO2024,poor
+28914.0,Lovro Majer,785,Croatia,Right Center Midfield,0.0,0.0,0.0,5.0,100.0,2.0,0.0,0.0,0.0,5,EURO2024,good
+3620.0,Scott McTominay,942,Scotland,Left Attacking Midfield,0.0,0.0,0.0,12.0,75.0,11.0,0.0,0.0,0.0,6,EURO2024,good
+5260.0,Rodrigo Bentancur Colmán,783,Uruguay,Left Center Midfield,0.0,0.0,0.0,2.0,100.0,5.0,0.0,0.0,0.0,7,Copa2024,good
+7900.0,Tiago Manuel Dias Correia,4924,Cape Verde Islands,Right Wing,0.0,0.01,1.0,5.0,100.0,0.0,1.0,0.0,0.0,6,AFCON2023,good
+10349.0,Mehmet Zeki Çelik,909,Turkey,Right Wing Back,0.0,0.0,0.0,3.0,66.7,1.0,0.0,0.0,0.0,3,EURO2024,limited
+22084.0,Bukayo Saka,768,England,Left Back,0.0,0.0,0.0,22.0,90.9,2.0,0.0,0.0,0.0,7,EURO2024,good
+38169.0,Lawrence Shankland,942,Scotland,Left Center Forward,0.0,0.0,0.0,6.0,66.7,0.0,1.0,0.0,0.0,4,EURO2024,limited
+45190.0,Dan Ndoye,773,Switzerland,Right Wing Back,0.0,0.07,2.0,25.5,87.0,8.5,1.5,3.0,0.5,7,EURO2024,good
+2972.0,Marcus Thuram,771,France,Left Wing,0.0,0.4,4.0,21.0,85.7,12.0,0.0,2.0,1.0,5,EURO2024,good
+9640.0,Jarrod Bowen,768,England,Right Wing,0.0,0.0,0.0,6.0,75.0,2.5,0.5,1.0,0.0,4,EURO2024,limited
+28268.0,Exequiel Alejandro Palacios,779,Argentina,Left Center Midfield,0.0,0.0,0.0,15.0,100.0,1.0,0.0,1.0,0.0,3,Copa2024,limited
+36659.0,Manuel Ugarte Ribeiro,783,Uruguay,Center Back,1.0,0.78,1.0,0.0,0.0,2.0,0.0,0.0,0.0,7,Copa2024,good
+43072.0,Jean-Philippe Krasso,3374,Côte d'Ivoire,Right Center Forward,0.0,0.35,2.0,9.0,88.9,5.0,1.0,1.0,0.0,7,AFCON2023,good
+3533.0,Xherdan Shaqiri,773,Switzerland,Center Attacking Midfield,1.0,0.09,1.0,31.0,67.7,7.0,2.0,0.0,0.0,2,EURO2024,poor
+7039.0,Hakan Çalhanoğlu,909,Turkey,Right Defensive Midfield,0.0,0.03,1.3,36.0,69.6,7.0,1.7,0.3,0.0,7,EURO2024,good
+33018.0,Joško Gvardiol,785,Croatia,Left Center Back,0.0,0.0,0.0,35.0,97.0,5.0,0.0,0.5,0.5,4,EURO2024,limited
+34526.0,Marc Guehi,768,England,Left Center Back,0.0,0.02,0.3,75.3,92.9,7.8,0.0,0.2,0.3,6,EURO2024,good
+35684.0,Meschak Elia,4881,Congo DR,Right Midfield,0.0,0.0,0.0,10.0,60.0,6.0,2.0,2.0,0.0,7,AFCON2023,good
+7693.0,Bruno Petković,785,Croatia,Center Forward,0.0,0.57,2.0,10.5,78.6,7.0,0.5,1.0,0.0,2,EURO2024,poor
+7796.0,Silvan Widmer,773,Switzerland,Right Wing Back,0.0,0.04,0.5,31.8,78.9,12.3,0.3,0.5,0.5,4,EURO2024,limited
+16637.0,Cristian Jesús Martínez,798,Panama,Right Defensive Midfield,0.0,0.03,0.8,39.5,75.3,11.5,1.8,0.5,0.8,4,Copa2024,limited
+23785.0,Théo Bongonda Mbul'Ofeko Batombo,4881,Congo DR,Center Attacking Midfield,0.0,0.12,2.0,16.5,71.5,13.5,1.5,2.0,0.0,5,AFCON2023,good
+26386.0,Luis Francisco Romo Barrón,794,Mexico,Right Defensive Midfield,0.0,0.0,0.0,5.0,100.0,4.0,0.0,0.0,0.0,5,Copa2024,good
+31029.0,Salis Abdul Samed,4885,Ghana,Left Defensive Midfield,0.0,0.0,0.0,23.0,89.3,9.7,0.0,0.0,1.3,4,AFCON2023,limited
+38345.0,Ramiz Larbi Zerrouki,4898,Algeria,Right Defensive Midfield,0.0,0.0,0.0,5.0,100.0,1.0,0.0,0.0,1.0,5,AFCON2023,good
+44225.0,Osman Bukari,4885,Ghana,Right Wing,0.0,0.0,0.0,2.0,0.0,3.0,0.0,0.0,1.0,2,AFCON2023,poor
+4760.0,Ollie Watkins,768,England,Right Center Forward,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,EURO2024,limited
+5258.0,Giorgian Daniel De Arrascaeta Benedetti,783,Uruguay,Center Attacking Midfield,0.0,0.03,0.7,12.0,63.1,5.3,0.7,0.0,0.0,6,Copa2024,good
+11821.0,Stefan Posch,915,Austria,Right Back,0.0,0.09,1.8,52.5,75.8,16.8,2.0,1.0,1.5,4,EURO2024,limited
+22084.0,Bukayo Saka,768,England,Right Wing Back,0.5,0.08,2.0,38.5,81.8,9.5,5.0,2.0,0.0,7,EURO2024,good
+3097.0,Pascal Groß,770,Germany,Right Defensive Midfield,0.0,0.03,1.0,57.0,94.7,8.0,0.0,0.0,0.0,2,EURO2024,poor
+9933.0,Willy Boly,3374,Côte d'Ivoire,Right Center Back,0.0,0.06,0.3,35.7,88.1,3.7,0.0,0.0,0.3,5,AFCON2023,good
+22256.0,Roderick Alonso Miller Molina,798,Panama,Left Center Back,0.0,0.08,1.0,37.7,86.4,5.7,0.0,0.3,0.3,3,Copa2024,limited
+26297.0,Carlos Alberto Rodríguez Gómez,794,Mexico,Center Attacking Midfield,0.0,0.0,0.0,2.0,100.0,3.0,0.0,0.0,0.0,3,Copa2024,limited
+45047.0,Alidu Seidu,4885,Ghana,Right Wing Back,0.0,0.0,0.0,3.0,33.3,2.0,0.0,0.0,1.0,1,AFCON2023,poor
+66879.0,Mohamed Abougabal,774,Egypt,Goalkeeper,0.0,0.78,1.0,31.0,67.7,0.0,0.0,0.0,0.0,1,AFCON2023,poor
+334178.0,Omar Javier Valencia Arauz,798,Panama,Left Wing Back,0.0,0.0,0.0,7.0,85.7,2.0,0.0,0.0,0.0,1,Copa2024,poor
+3193.0,Bernardo Mota Veiga de Carvalho e Silva,780,Portugal,Right Wing,0.5,0.27,1.5,47.5,88.3,11.5,1.5,1.5,0.0,7,EURO2024,good
+3961.0,N'Golo Kanté,771,France,Right Defensive Midfield,0.0,0.1,2.0,63.0,90.5,17.0,0.0,1.0,0.0,7,EURO2024,good
+5721.0,Daniel Carvajal Ramos,772,Spain,Right Back,0.2,0.07,0.4,65.0,89.6,11.0,1.2,1.0,0.6,5,EURO2024,good
+8553.0,Abdou Diallo,787,Senegal,Center Back,0.0,0.09,1.0,52.0,92.3,8.0,0.0,0.0,1.0,3,AFCON2023,limited
+28729.0,Diego Nicolás De La Cruz Arcosa,783,Uruguay,Right Back,0.0,0.05,1.0,18.0,83.3,0.0,2.0,1.0,1.0,7,Copa2024,good
+33401.0,Amine Adli,788,Morocco,Right Wing,0.0,0.21,2.0,17.0,82.4,11.0,0.0,3.0,0.0,5,AFCON2023,good
+34148.0,Carlos Miguel Harvey Cesneros,798,Panama,Left Center Back,0.0,0.0,0.0,49.0,87.8,4.0,0.0,0.0,2.0,2,Copa2024,poor
+36949.0,Julio José González Vela-Alvizu,794,Mexico,Goalkeeper,0.0,0.0,0.0,35.0,87.2,0.0,0.0,0.0,0.0,3,Copa2024,limited
+47186.0,Hernesto Ezequiel Caballero Benítez,3567,Paraguay,Right Defensive Midfield,0.0,0.0,0.0,2.0,100.0,5.0,0.0,0.0,1.0,3,Copa2024,limited
+50503.0,Sayfallah Ltaief,777,Tunisia,Left Midfield,0.0,0.07,1.0,2.0,0.0,6.0,0.0,1.0,0.0,4,AFCON2023,limited
+133229.0,Ismael Koné,1833,Canada,Right Defensive Midfield,0.4,0.41,1.4,37.0,84.0,7.6,0.0,1.0,1.2,6,Copa2024,good
+5259.0,José María Giménez de Vargas,783,Uruguay,Center Back,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+24087.0,Iddrisu Baba Mohammed,4885,Ghana,Left Defensive Midfield,0.0,0.0,0.0,3.0,33.3,1.0,0.0,0.0,0.0,4,AFCON2023,limited
+29399.0,Conor Gallagher,768,England,Right Center Midfield,0.0,0.0,0.0,9.0,100.0,3.0,0.0,0.0,0.0,6,EURO2024,good
+30714.0,Jude Bellingham,768,England,Right Defensive Midfield,0.67,0.34,1.3,9.7,51.0,3.0,0.0,0.0,0.0,7,EURO2024,good
+43072.0,Jean-Philippe Krasso,3374,Côte d'Ivoire,Right Attacking Midfield,0.0,0.0,0.0,2.0,50.0,0.0,0.0,0.0,0.0,7,AFCON2023,good
+128793.0,Taha Yassine Khenissi,777,Tunisia,Center Forward,0.0,0.1,1.0,3.0,33.3,5.0,0.0,0.0,0.0,1,AFCON2023,poor
+133038.0,João Paulo Moreira Fernandes,4924,Cape Verde Islands,Left Back,0.0,0.04,1.0,50.3,85.4,13.5,0.8,3.0,2.0,5,AFCON2023,good
+5246.0,Luis Alberto Suárez Díaz,783,Uruguay,Right Center Forward,0.0,0.08,1.0,9.0,66.7,1.0,1.0,1.0,0.0,4,Copa2024,limited
+5678.0,Jefferson Andrés Lerma Solís,769,Colombia,Right Defensive Midfield,0.0,0.0,0.0,3.0,100.0,4.0,0.0,0.0,0.0,7,Copa2024,good
+6406.0,Gabriel dos Santos Magalhães,781,Brazil,Left Center Back,0.0,0.0,0.0,5.0,80.0,0.0,0.0,0.0,0.0,1,Copa2024,poor
+7801.0,Antonín Barák,912,Czech Republic,Right Defensive Midfield,0.0,0.0,0.0,5.0,60.0,6.0,1.0,1.0,0.0,4,EURO2024,limited
+25142.0,Bruno Guimarães Rodriguez Moura,781,Brazil,Left Defensive Midfield,0.0,0.07,1.3,16.7,87.2,7.0,0.0,0.3,0.0,7,Copa2024,good
+26152.0,Jacob Shaffelburg,1833,Canada,Left Attacking Midfield,0.0,0.0,0.0,22.0,50.0,9.0,6.0,3.0,0.0,7,Copa2024,good
+36666.0,Agustín Canobbio Graviz,783,Uruguay,Right Back,0.0,0.0,0.0,4.0,75.0,3.0,0.0,0.0,0.0,1,Copa2024,poor
+105392.0,Simon Adingra,3374,Côte d'Ivoire,Left Center Midfield,1.0,0.17,1.0,3.0,66.7,11.0,1.0,1.0,0.0,6,AFCON2023,good
+5260.0,Rodrigo Bentancur Colmán,783,Uruguay,Center Attacking Midfield,0.0,0.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+8246.0,Christian Pulisic,1839,United States,Left Midfield,0.0,0.0,0.0,4.0,75.0,1.0,2.0,0.0,0.0,7,Copa2024,good
+8966.0,Kai Havertz,770,Germany,Center Attacking Midfield,0.0,0.09,0.7,6.7,83.2,2.3,0.0,0.3,0.0,7,EURO2024,good
+22823.0,Dimitry Bertaud,4881,Congo DR,Goalkeeper,0.0,0.0,0.0,20.0,95.0,0.0,0.0,0.0,0.0,1,AFCON2023,poor
+29484.0,Jan Kuchta,912,Czech Republic,Right Center Midfield,0.0,0.0,0.0,2.0,50.0,6.0,0.0,0.0,0.0,3,EURO2024,limited
+47112.0,Julio César Enciso Espínola,3567,Paraguay,Center Forward,0.0,0.25,4.0,26.0,76.9,8.0,3.0,5.0,0.0,6,Copa2024,good
+48335.0,Mohamed Zeki Amdouni,773,Switzerland,Left Attacking Midfield,0.5,0.41,1.0,2.0,50.0,4.5,0.0,0.5,0.0,5,EURO2024,good
+52218.0,Johan Bakayoko,782,Belgium,Left Wing Back,0.0,0.03,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3,EURO2024,limited
+105392.0,Simon Adingra,3374,Côte d'Ivoire,Left Wing,0.0,0.06,1.5,32.5,69.0,10.5,3.5,4.5,0.5,6,AFCON2023,good
+3568.0,Mohamed Naser Elsayed Elneny,774,Egypt,Right Defensive Midfield,0.0,0.0,0.0,25.5,46.1,9.0,0.0,0.0,0.0,5,AFCON2023,good
+7044.0,Patrik Schick,912,Czech Republic,Right Center Forward,0.0,0.0,0.0,10.0,80.0,12.0,0.0,2.0,1.0,4,EURO2024,limited
+10287.0,İlkay Gündoğan,770,Germany,Center Attacking Midfield,0.2,0.15,1.4,29.6,85.8,9.8,0.2,0.4,0.2,6,EURO2024,good
+12259.0,Denis Odoi,4885,Ghana,Right Back,0.0,0.0,0.0,35.3,75.9,13.7,0.3,1.0,0.3,3,AFCON2023,limited
+16459.0,Cyle Larin,1833,Canada,Center Forward,0.0,0.21,2.0,13.3,64.7,8.0,0.0,2.0,0.0,5,Copa2024,good
+44703.0,Alistair Johnston,1833,Canada,Right Center Back,0.0,0.0,0.0,21.0,85.7,7.0,1.0,0.0,0.0,7,Copa2024,good
+65761.0,Jayden Adams,4976,South Africa,Center Attacking Midfield,0.0,0.07,1.0,4.0,75.0,1.0,0.0,0.0,0.0,3,AFCON2023,limited
+116587.0,Arda Güler,909,Turkey,Center Forward,0.33,0.09,1.7,29.0,77.5,11.7,1.7,2.3,0.3,7,EURO2024,good
+143859.0,João Neves,780,Portugal,Right Defensive Midfield,0.0,0.02,0.5,37.0,97.2,4.0,0.0,1.0,1.5,2,EURO2024,poor
+7753.0,Jamiro Gregory Monteiro Alvarenga,4924,Cape Verde Islands,Center Attacking Midfield,0.0,0.0,0.0,20.7,92.5,6.3,0.3,1.0,0.3,6,AFCON2023,good
+12041.0,João Félix Sequeira,780,Portugal,Left Attacking Midfield,0.0,0.1,3.0,69.0,87.0,18.0,4.0,6.0,0.0,2,EURO2024,poor
+16532.0,Daniel Olmo Carvajal,772,Spain,Left Wing,0.0,0.02,1.0,16.0,87.5,1.0,2.0,0.0,0.0,7,EURO2024,good
+24921.0,Martín Zubimendi Ibáñez,772,Spain,Right Defensive Midfield,0.0,0.0,0.0,53.0,88.7,16.5,0.5,0.5,0.0,5,EURO2024,good
+30438.0,Ferdi Erenay Kadıoğlu,909,Turkey,Left Wing Back,0.0,0.02,0.3,28.7,87.9,11.3,0.0,0.7,0.0,7,EURO2024,good
+35684.0,Meschak Elia,4881,Congo DR,Left Wing,0.0,0.81,2.0,10.0,70.0,8.0,0.0,0.0,0.0,7,AFCON2023,good
+60138.0,Kevin Duvan Castaño Gil,769,Colombia,Right Center Midfield,0.0,0.04,0.5,21.5,82.0,7.0,0.0,0.5,0.0,5,Copa2024,good
+114832.0,Zeno Debast,782,Belgium,Right Back,0.0,0.0,0.0,9.0,77.8,2.0,0.0,0.0,0.0,2,EURO2024,poor
+9731.0,Patrick Pentz,915,Austria,Goalkeeper,0.0,0.0,0.0,36.3,83.7,0.3,0.0,0.0,0.0,4,EURO2024,limited
+11603.0,Mario Pašalić,785,Croatia,Right Wing,0.0,0.14,1.5,16.0,90.9,7.5,0.0,0.5,0.0,3,EURO2024,limited
+18360.0,Rafael Alexandre Conceição Leão,780,Portugal,Left Wing,0.0,0.02,0.5,27.0,77.2,4.0,2.5,4.5,0.0,4,EURO2024,limited
+40724.0,Florian Wirtz,770,Germany,Right Midfield,0.0,0.11,1.0,17.0,70.6,10.0,1.0,0.0,0.0,7,EURO2024,good
+363986.0,Jovani Francisco Welch Lopez,798,Panama,Right Defensive Midfield,0.0,0.0,0.0,6.5,95.0,5.5,0.0,0.0,0.5,4,Copa2024,limited
+3063.0,Danilo Luiz da Silva,781,Brazil,Right Back,0.0,0.02,0.3,64.8,82.9,5.0,1.0,0.5,1.8,4,Copa2024,limited
+3664.0,Trent Alexander-Arnold,768,England,Right Wing Back,1.0,0.78,1.0,5.0,100.0,0.0,0.0,0.0,0.0,4,EURO2024,limited
+5463.0,Luka Modrić,785,Croatia,Right Center Midfield,0.33,0.43,1.0,53.7,83.2,13.3,1.7,1.0,0.3,4,EURO2024,limited
+9286.0,Antoine Semenyo,4885,Ghana,Right Wing,0.0,0.0,0.0,6.0,50.0,3.0,0.0,0.0,0.0,4,AFCON2023,limited
+16931.0,Lewis Morgan,942,Scotland,Right Center Forward,0.0,0.06,1.0,2.0,50.0,2.0,0.0,0.0,1.0,1,EURO2024,poor
+30193.0,Gedeon Kalulu Kyatengwa,4881,Congo DR,Right Back,0.17,0.14,0.3,47.7,74.6,15.2,2.3,0.3,1.0,6,AFCON2023,good
+66878.0,Ahmed Sayed,774,Egypt,Right Midfield,0.0,0.04,1.0,11.0,81.8,3.0,2.0,1.0,0.0,5,AFCON2023,good
+68757.0,Richard Ofori Antwi,4885,Ghana,Goalkeeper,0.0,0.0,0.0,20.3,64.2,0.7,0.0,0.0,0.0,3,AFCON2023,limited
+70093.0,Gomolemo Grant Kekana,4976,South Africa,Right Center Back,0.0,0.0,0.0,44.8,84.1,6.0,0.0,0.0,0.6,5,AFCON2023,good
+5261.0,Mahmoud Ibrahim Hassan,774,Egypt,Left Wing,0.0,0.05,0.3,19.0,74.4,7.3,1.3,2.0,0.3,6,AFCON2023,good
+7379.0,Edouard Mendy,787,Senegal,Goalkeeper,0.0,0.0,0.0,35.3,80.6,0.5,0.0,0.0,0.0,4,AFCON2023,limited
+8854.0,Wout Faes,782,Belgium,Right Center Back,0.0,0.0,0.0,69.5,87.8,9.8,0.0,0.3,0.8,5,EURO2024,good
+22308.0,Anthony Ralston,942,Scotland,Right Wing Back,0.0,0.0,0.0,30.7,74.0,10.0,1.7,0.7,0.3,3,EURO2024,limited
+23910.0,Youssef Msakni,777,Tunisia,Right Wing,0.0,0.3,2.5,9.5,88.9,2.5,0.5,0.5,0.0,7,AFCON2023,good
+27896.0,Gerardo Daniel Arteaga Zamora,794,Mexico,Left Back,0.33,0.05,1.0,44.7,88.0,9.3,1.7,2.3,0.7,3,Copa2024,limited
+29009.0,Omar Federico Alderete Fernández,3567,Paraguay,Left Center Back,0.33,0.02,1.0,42.7,85.3,5.7,0.0,2.0,1.3,3,Copa2024,limited
+40724.0,Florian Wirtz,770,Germany,Right Wing,0.0,0.01,0.5,14.5,84.5,6.0,1.5,1.5,0.5,7,EURO2024,good
+52218.0,Johan Bakayoko,782,Belgium,Right Wing,0.0,0.13,1.0,10.0,88.1,5.0,0.0,0.0,0.0,3,EURO2024,limited
+68755.0,Mostafa Fathi,774,Egypt,Right Wing,0.0,0.0,0.0,10.0,55.0,5.5,2.0,2.0,0.0,5,AFCON2023,good
+91089.0,José Fajardo Nelson,798,Panama,Center Forward,0.5,0.2,2.0,13.8,76.3,12.3,0.3,1.0,0.0,6,Copa2024,good
+143165.0,Mohamed Chibi,788,Morocco,Left Back,0.0,0.0,0.0,42.5,77.6,7.5,2.0,0.0,1.5,2,AFCON2023,poor
+5691.0,Johan Andrés Mojica Palacio,769,Colombia,Left Wing Back,0.0,0.0,0.0,11.0,72.7,5.0,0.0,1.0,0.0,7,Copa2024,good
+6393.0,Iñaki Williams Arthuer,4885,Ghana,Right Wing,0.0,0.0,0.0,14.0,71.4,10.0,0.0,0.0,1.0,2,AFCON2023,poor
+9481.0,Grant Campbell Hanley,942,Scotland,Center Back,0.0,0.07,0.3,45.7,82.0,4.7,0.0,0.0,0.7,3,EURO2024,limited
+10287.0,İlkay Gündoğan,770,Germany,Right Defensive Midfield,0.0,0.0,0.0,20.0,90.0,8.0,0.0,0.0,0.0,6,EURO2024,good
+26306.0,Adam Fernando Bareiro Gamarra,3567,Paraguay,Center Forward,0.0,0.0,0.0,4.7,38.3,9.0,0.0,0.7,0.0,3,Copa2024,limited
+28413.0,Willy Afonso Semedo Johnson,4924,Cape Verde Islands,Right Back,0.0,0.0,0.0,17.7,66.8,3.7,0.0,1.3,0.7,7,AFCON2023,good
+65719.0,Khuliso Johnson Mudau,4976,South Africa,Right Back,0.0,0.06,0.3,33.7,76.7,8.3,0.5,1.2,1.7,7,AFCON2023,good
+2954.0,Youri Tielemans,782,Belgium,Right Defensive Midfield,0.5,0.05,1.0,34.5,87.4,6.0,0.5,0.0,0.0,3,EURO2024,limited
+3308.0,Kieran Trippier,768,England,Left Back,0.0,0.02,0.3,69.8,89.5,6.0,0.5,0.5,0.5,6,EURO2024,good
+3313.0,Giovani Lo Celso,779,Argentina,Left Midfield,0.0,0.49,1.0,7.0,85.7,4.0,0.0,1.0,0.0,7,Copa2024,good
+3625.0,Sofiane Boufal,788,Morocco,Left Midfield,0.0,0.1,1.3,21.3,79.7,5.3,1.7,3.3,0.7,3,AFCON2023,limited
+7294.0,Yoane Wissa,4881,Congo DR,Center Attacking Midfield,0.0,0.0,0.0,4.0,25.0,3.0,0.0,0.0,0.0,7,AFCON2023,good
+8519.0,Dayotchanculle Upamecano,771,France,Right Center Back,0.0,0.04,0.5,60.5,91.0,8.2,0.0,0.2,1.3,6,EURO2024,good
+28272.0,Ladislav Krejčí,912,Czech Republic,Left Center Back,0.0,0.07,1.7,46.3,82.3,9.3,0.3,0.3,2.0,3,EURO2024,limited
+28825.0,Luis Gerardo Chávez Magallón,794,Mexico,Left Defensive Midfield,0.0,0.0,0.0,17.0,70.6,2.0,1.0,0.0,0.0,4,Copa2024,limited
+68755.0,Mostafa Fathi,774,Egypt,Right Midfield,0.33,0.27,0.7,2.0,13.3,0.7,0.7,0.7,0.0,5,AFCON2023,good
+116587.0,Arda Güler,909,Turkey,Left Defensive Midfield,0.0,0.0,0.0,4.0,100.0,1.0,0.0,0.0,0.0,7,EURO2024,good
+,,779,Argentina,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,poor
+4909.0,Jeremie Boga,3374,Côte d'Ivoire,Left Wing Back,0.0,0.0,0.0,9.0,77.8,2.0,0.0,1.0,0.0,7,AFCON2023,good
+5234.0,Sofyan Amrabat,788,Morocco,Center Defensive Midfield,0.0,0.0,0.0,49.8,93.6,16.8,0.3,0.3,0.3,5,AFCON2023,good
+7801.0,Antonín Barák,912,Czech Republic,Left Defensive Midfield,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,4,EURO2024,limited
+8217.0,Kingsley Coman,771,France,Right Midfield,0.0,0.0,0.0,10.0,90.0,2.0,0.0,0.0,0.0,1,EURO2024,poor
+9286.0,Antoine Semenyo,4885,Ghana,Center Forward,0.0,0.03,0.7,12.7,63.5,16.0,1.0,0.7,0.3,4,AFCON2023,limited
+12169.0,João Maria Lobo Alves Palhinha Gonçalves,780,Portugal,Left Defensive Midfield,0.0,0.07,1.7,38.0,90.9,18.0,0.0,0.3,1.0,5,EURO2024,good
+12306.0,Dodi Lukebakio,782,Belgium,Right Wing,0.0,0.12,3.0,21.0,90.5,10.0,0.0,5.0,0.0,3,EURO2024,limited
+18783.0,Omenuke Mfulu,4881,Congo DR,Right Defensive Midfield,1.0,0.78,1.0,29.0,96.6,11.0,0.0,1.0,2.0,2,AFCON2023,poor
+28723.0,Jorge Andrés Carrascal Guardo,769,Colombia,Left Center Midfield,0.0,0.0,0.0,14.0,85.7,3.5,0.0,0.5,0.0,3,Copa2024,limited
+41542.0,Daniel Vivian Moreno,772,Spain,Right Center Back,0.0,0.02,0.5,54.5,91.2,8.0,0.0,0.0,0.5,2,EURO2024,poor
+132800.0,Kevin Lenini Gonçalves Pereira de Pina,4924,Cape Verde Islands,Left Defensive Midfield,0.0,0.0,0.0,25.0,94.7,5.5,1.0,1.0,0.0,6,AFCON2023,good
+16559.0,Leandro Trossard,782,Belgium,Center Attacking Midfield,0.0,0.1,1.0,6.0,66.7,6.0,0.0,0.0,0.0,5,EURO2024,good
+28657.0,Adrián Andrés Cubas,3567,Paraguay,Center Defensive Midfield,0.0,0.0,0.0,28.0,89.3,21.0,0.0,0.0,1.0,3,Copa2024,limited
+33274.0,Luca de la Torre,1839,United States,Left Center Midfield,0.0,0.0,0.0,8.0,87.5,2.0,0.0,0.0,1.0,1,Copa2024,poor
+70783.0,Omar Kamal Abdel Wahed,774,Egypt,Left Back,1.0,0.78,1.0,10.0,70.0,2.0,0.0,2.0,0.0,3,AFCON2023,limited
+5204.0,Bruno Miguel Borges Fernandes,780,Portugal,Center Attacking Midfield,0.33,0.4,2.3,44.3,71.1,19.0,1.3,0.7,0.7,6,EURO2024,good
+8520.0,Nabil Bentaleb,4898,Algeria,Right Defensive Midfield,0.0,0.05,0.5,38.0,86.9,4.0,0.5,0.0,0.5,3,AFCON2023,limited
+212489.0,Oumar Diakité,3374,Côte d'Ivoire,Right Wing Back,0.33,0.08,0.7,13.0,78.2,7.0,0.3,1.0,0.0,6,AFCON2023,good
+9640.0,Jarrod Bowen,768,England,Left Wing,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4,EURO2024,limited
+10448.0,Adam Ounas,4898,Algeria,Center Attacking Midfield,0.0,0.03,1.0,3.0,66.7,1.0,0.0,1.0,0.0,5,AFCON2023,good
+20687.0,Nicolás Iván González,779,Argentina,Right Center Forward,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7,Copa2024,good
+21026.0,Pape Gueye,787,Senegal,Left Center Midfield,1.0,0.17,2.0,44.0,77.3,6.0,0.0,1.0,0.0,4,AFCON2023,limited
+24087.0,Iddrisu Baba Mohammed,4885,Ghana,Right Defensive Midfield,0.0,0.09,0.7,24.0,76.8,10.7,0.0,0.0,1.0,4,AFCON2023,limited
+24826.0,Simon Bokote Banza,4881,Congo DR,Center Forward,0.0,0.13,1.0,6.5,51.1,11.8,0.3,0.5,0.0,5,AFCON2023,good
+25078.0,Thelonius Bair,1833,Canada,Left Center Forward,0.0,0.0,0.0,3.0,66.7,4.0,0.0,0.0,0.0,1,Copa2024,poor
+27826.0,Ondřej Lingr,912,Czech Republic,Left Midfield,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,4,EURO2024,limited
+39460.0,Nicolas Seiwald,915,Austria,Right Defensive Midfield,0.0,0.01,0.3,51.8,87.5,22.8,0.8,0.3,2.0,5,EURO2024,good
+3017.0,Ibrahim Sangaré,3374,Côte d'Ivoire,Right Center Midfield,0.0,0.12,1.5,13.5,38.9,13.0,0.0,0.0,0.5,7,AFCON2023,good
+3811.0,Islam Slimani,4898,Algeria,Right Center Forward,0.0,0.07,1.0,3.0,100.0,2.0,0.0,0.0,0.0,3,AFCON2023,limited
+12365.0,Alphonso Davies,1833,Canada,Left Midfield,0.0,0.0,0.0,2.0,50.0,2.0,0.0,0.0,0.0,7,Copa2024,good
+16308.0,Leandro Daniel Paredes,779,Argentina,Left Defensive Midfield,0.0,0.02,1.0,59.0,94.9,6.0,0.0,0.0,2.0,5,Copa2024,good
+24778.0,Eduardo Camavinga,771,France,Left Defensive Midfield,0.0,0.0,0.0,7.5,90.0,8.5,0.5,0.0,0.0,6,EURO2024,good
+4506.0,Nampalys Mendy,787,Senegal,Right Center Midfield,0.0,0.05,1.0,10.0,90.0,3.0,0.0,0.0,0.0,2,AFCON2023,poor
+5229.0,Ayoub El Kaabi,788,Morocco,Left Center Forward,0.0,0.57,3.0,1.0,0.0,2.0,0.0,0.0,0.0,4,AFCON2023,limited
+12365.0,Alphonso Davies,1833,Canada,Left Wing Back,0.0,0.0,0.0,37.0,78.4,7.0,0.0,3.0,0.0,7,Copa2024,good
+16275.0,Ikoma Loïs Openda,782,Belgium,Left Center Forward,0.0,0.0,0.0,3.5,45.0,10.0,1.0,0.0,0.5,3,EURO2024,limited
+23558.0,Merih Demiral,909,Turkey,Left Center Back,0.0,0.0,0.0,50.0,90.0,6.0,0.0,0.0,1.0,4,EURO2024,limited
+24243.0,Brenden Aaronson,1839,United States,Right Wing,0.0,0.0,0.0,4.0,75.0,7.0,0.0,0.0,0.0,1,Copa2024,poor
+67974.0,Nkosinathi Sibisi,4976,South Africa,Right Center Back,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,2,AFCON2023,poor
+7023.0,Franck Yannick Kessié,3374,Côte d'Ivoire,Left Defensive Midfield,0.0,0.0,0.0,9.0,88.9,2.0,0.0,1.0,0.0,7,AFCON2023,good
+8778.0,Gernot Trauner,915,Austria,Right Center Back,1.0,0.13,1.0,42.0,97.6,8.0,0.0,0.0,1.0,2,EURO2024,poor
+12293.0,Kaan Ayhan,909,Turkey,Right Center Back,0.0,0.0,0.0,39.5,86.3,7.0,0.5,0.5,0.0,7,EURO2024,good
+12510.0,Ryan Christie,942,Scotland,Center Forward,0.0,0.0,0.0,7.0,71.4,11.0,0.0,0.0,1.0,5,EURO2024,good
+16570.0,Vladimír Coufal,912,Czech Republic,Right Wing Back,0.0,0.0,0.0,50.0,68.4,10.7,4.0,1.7,2.7,3,EURO2024,limited
+28268.0,Exequiel Alejandro Palacios,779,Argentina,Left Defensive Midfield,0.0,0.0,0.0,4.0,75.0,9.0,0.0,1.0,1.0,3,Copa2024,limited
+35690.0,Sebastián Enzo Cáceres Ramos,783,Uruguay,Right Center Back,0.0,0.0,0.0,21.0,85.7,7.0,0.0,0.0,0.0,7,Copa2024,good
+105944.0,Wajdi Kechrida,777,Tunisia,Right Back,0.0,0.01,0.3,46.0,74.5,11.3,2.3,0.3,1.0,3,AFCON2023,limited
+8931.0,Philipp Lienhart,915,Austria,Left Center Back,0.0,0.09,1.0,43.0,88.7,5.0,0.0,0.5,3.5,3,EURO2024,limited
+9195.0,Robert Andrich,770,Germany,Left Center Back,0.0,0.0,0.0,6.0,100.0,4.0,0.0,0.0,1.0,6,EURO2024,good
+13620.0,Éder Gabriel Militão,781,Brazil,Right Center Back,0.0,0.21,0.5,53.0,88.8,7.8,0.0,0.5,2.8,4,Copa2024,limited
+20687.0,Nicolás Iván González,779,Argentina,Left Wing,0.0,0.0,0.0,4.5,33.4,2.0,0.0,0.5,0.5,7,Copa2024,good
+33018.0,Joško Gvardiol,785,Croatia,Left Back,0.0,0.03,1.0,45.0,92.3,11.0,0.5,2.0,1.5,4,EURO2024,limited
+38718.0,Enzo Fernandez,779,Argentina,Left Center Midfield,0.0,0.05,1.0,18.0,88.9,1.0,0.0,0.0,0.0,7,Copa2024,good
+39143.0,Matěj Jurásek,912,Czech Republic,Right Attacking Midfield,0.0,0.04,2.0,11.0,72.7,3.0,2.0,3.0,0.0,3,EURO2024,limited
+75305.0,Guillermo Martínez Ayala,794,Mexico,Center Forward,0.0,0.15,1.0,5.0,70.0,1.5,0.0,0.0,0.0,3,Copa2024,limited
+271988.0,Endrick Felipe Moreira de Sousa,781,Brazil,Left Wing,0.0,0.08,1.0,1.0,0.0,1.0,1.0,0.0,0.0,5,Copa2024,good
+3568.0,Mohamed Naser Elsayed Elneny,774,Egypt,Right Center Midfield,0.0,0.05,1.0,52.0,98.1,6.0,0.0,1.0,1.0,5,AFCON2023,good
+4308.0,Houssem Aouar,4898,Algeria,Left Center Midfield,0.0,0.04,0.5,14.0,81.7,5.5,0.0,0.5,0.0,2,AFCON2023,poor
+8526.0,Weston McKennie,1839,United States,Right Back,0.0,0.0,0.0,10.0,50.0,0.0,0.0,0.0,1.0,7,Copa2024,good
+24730.0,Lucas René Olaza Catrofe,783,Uruguay,Left Back,0.0,0.0,0.0,10.5,85.7,2.5,1.5,0.0,0.0,2,Copa2024,poor
+27886.0,Alexis Mac Allister,779,Argentina,Left Midfield,0.0,0.0,0.0,13.0,88.6,11.0,0.0,0.5,0.5,7,Copa2024,good
+42527.0,Sphephelo S''Miso Sithole,4976,South Africa,Right Defensive Midfield,0.0,0.0,0.0,2.0,50.0,2.0,0.0,0.0,1.0,7,AFCON2023,good
+44703.0,Alistair Johnston,1833,Canada,Right Wing Back,0.0,0.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+75305.0,Guillermo Martínez Ayala,794,Mexico,Left Center Forward,0.0,0.07,1.0,5.0,80.0,3.0,0.0,0.0,0.0,3,Copa2024,limited
+3709.0,Daniel Amartey,4885,Ghana,Right Center Back,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,1,AFCON2023,poor
+5456.0,Mateo Kovačić,785,Croatia,Left Defensive Midfield,0.0,0.12,2.0,51.0,90.2,11.0,0.0,2.0,0.0,4,EURO2024,limited
+12034.0,David Raum,770,Germany,Left Back,0.0,0.01,0.3,34.0,77.5,6.3,2.0,0.7,0.0,3,EURO2024,limited
+27158.0,Luis Fernando Díaz Marulanda,769,Colombia,Left Wing,0.0,0.02,0.5,10.5,91.2,3.0,1.0,1.5,0.0,7,Copa2024,good
+35492.0,Maximiliano Javier Araújo Vilches,783,Uruguay,Left Center Midfield,0.0,0.0,0.0,2.0,100.0,8.0,0.0,0.0,0.0,7,Copa2024,good
+40761.0,Omar Marmoush,774,Egypt,Right Midfield,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,7,AFCON2023,good
+46677.0,Matías David Espinoza Acosta,3567,Paraguay,Left Back,0.0,0.01,0.5,37.5,68.6,14.0,1.0,0.5,2.5,2,Copa2024,poor
+3767.0,Ellyes Joris Skhiri,777,Tunisia,Right Defensive Midfield,0.0,0.03,0.7,31.7,88.6,14.3,0.0,0.3,1.3,5,AFCON2023,good
+4354.0,Phil Foden,768,England,Center Attacking Midfield,0.0,0.18,1.0,19.0,78.9,21.0,1.0,1.0,0.0,7,EURO2024,good
+4412.0,Samuel Moutoussamy,4881,Congo DR,Left Defensive Midfield,0.5,0.43,1.5,28.8,82.1,22.3,0.0,0.3,0.3,7,AFCON2023,good
+4909.0,Jeremie Boga,3374,Côte d'Ivoire,Left Wing,0.0,0.0,0.0,18.0,53.7,2.3,0.7,1.0,0.0,7,AFCON2023,good
+8050.0,Tarik Tissoudali,788,Morocco,Center Forward,0.0,0.72,3.0,2.0,100.0,7.0,0.0,0.0,0.0,1,AFCON2023,poor
+8553.0,Abdou Diallo,787,Senegal,Left Center Back,0.0,0.07,1.0,40.0,75.0,4.0,0.0,0.0,1.0,3,AFCON2023,limited
+13329.0,Silas Katompa Mvumpa,4881,Congo DR,Right Wing,0.0,0.0,0.0,7.0,74.5,12.0,0.5,0.0,0.0,7,AFCON2023,good
+35684.0,Meschak Elia,4881,Congo DR,Right Wing,0.25,0.31,1.0,16.5,55.4,11.5,4.0,2.3,0.8,7,AFCON2023,good
+36659.0,Manuel Ugarte Ribeiro,783,Uruguay,Right Center Back,0.0,0.0,0.0,6.0,100.0,0.0,0.0,1.0,0.0,7,Copa2024,good
+66878.0,Ahmed Sayed,774,Egypt,Left Center Midfield,0.0,0.0,0.0,9.0,77.8,0.0,0.0,0.0,0.0,5,AFCON2023,good
+297356.0,Brian Jephte Bayeye,4881,Congo DR,Right Back,0.0,0.0,0.0,47.0,76.6,12.0,4.0,0.0,2.0,1,AFCON2023,poor
+3017.0,Ibrahim Sangaré,3374,Côte d'Ivoire,Center Defensive Midfield,0.0,0.0,0.3,16.7,93.3,6.0,0.3,0.0,0.3,7,AFCON2023,good
+3308.0,Kieran Trippier,768,England,Left Wing Back,0.0,0.0,0.0,37.0,85.1,10.5,1.0,0.0,0.0,6,EURO2024,good
+5259.0,José María Giménez de Vargas,783,Uruguay,Left Center Back,0.0,0.08,1.0,22.0,70.3,3.5,0.0,0.0,1.0,7,Copa2024,good
+5264.0,Guillermo Varela Olivera,783,Uruguay,Right Wing Back,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,3,Copa2024,limited
+5675.0,Kalidou Koulibaly,787,Senegal,Left Center Back,0.0,0.0,0.0,34.0,86.1,4.0,0.0,0.0,0.0,5,AFCON2023,good
+16001.0,Garry Mendes Rodrigues,4924,Cape Verde Islands,Left Wing,0.0,0.11,2.0,11.0,79.5,11.0,1.0,2.5,0.0,7,AFCON2023,good
+22084.0,Bukayo Saka,768,England,Right Center Midfield,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+23760.0,Derek Cornelius,1833,Canada,Left Center Back,0.0,0.01,0.2,30.5,79.2,6.0,0.0,0.0,1.3,7,Copa2024,good
+26404.0,Guido Rodríguez,779,Argentina,Center Defensive Midfield,0.0,0.0,0.0,17.0,94.1,3.0,0.0,0.0,0.0,1,Copa2024,poor
+28263.0,Gonzalo Ariel Montiel,779,Argentina,Right Wing Back,0.0,0.0,0.0,3.0,100.0,0.0,0.0,0.0,0.0,6,Copa2024,good
+30795.0,Ángel Rodrigo Romero Villamayor,3567,Paraguay,Right Wing,0.0,0.31,1.5,8.0,86.7,2.5,0.5,1.0,0.5,2,Copa2024,poor
+103465.0,Baghdad Bounedjah,4898,Algeria,Left Center Forward,1.0,0.09,1.0,4.0,75.0,1.0,0.0,0.0,0.0,5,AFCON2023,good
+105931.0,Edilson Alberto Monteiro Sanches Borges,4924,Cape Verde Islands,Left Center Back,0.0,0.0,0.0,48.0,83.3,13.0,0.0,0.0,2.0,1,AFCON2023,poor
+5460.0,Andrej Kramarić,785,Croatia,Left Wing,0.33,0.31,1.3,21.0,77.6,6.7,1.7,2.7,0.0,6,EURO2024,good
+9000.0,Eberechi Eze,768,England,Left Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6,EURO2024,good
+21026.0,Pape Gueye,787,Senegal,Center Defensive Midfield,0.0,0.0,0.0,48.5,86.3,8.5,0.5,0.0,0.5,4,AFCON2023,limited
+24778.0,Eduardo Camavinga,771,France,Right Center Midfield,0.0,0.02,1.0,34.0,88.2,14.0,0.0,0.0,0.0,6,EURO2024,good
+29163.0,Josip Juranović,785,Croatia,Right Center Midfield,0.0,0.0,0.0,5.0,60.0,1.0,0.0,0.0,0.0,2,EURO2024,poor
+29367.0,Percy Tau,4976,South Africa,Right Center Forward,0.0,0.0,0.0,5.0,80.0,5.0,0.0,0.0,0.0,7,AFCON2023,good
+38792.0,Yunus Dimoara Musah,1839,United States,Right Center Midfield,0.0,0.0,0.0,19.0,94.7,3.0,1.0,0.0,0.0,3,Copa2024,limited
+40724.0,Florian Wirtz,770,Germany,Left Wing,0.0,0.04,0.7,30.3,88.7,12.3,0.7,2.0,0.0,7,EURO2024,good
+5247.0,Nahitan Michel Nández Acosta,783,Uruguay,Right Back,0.0,0.03,0.2,41.2,65.8,17.6,3.4,1.4,2.0,6,Copa2024,good
+7023.0,Franck Yannick Kessié,3374,Côte d'Ivoire,Center Defensive Midfield,0.0,0.0,0.0,4.0,75.0,4.0,0.0,0.0,0.0,7,AFCON2023,good
+20758.0,Krépin Diatta,787,Senegal,Right Wing Back,0.0,0.0,0.0,37.0,75.7,22.0,0.0,1.0,1.0,5,AFCON2023,good
+67742.0,Emam Ashour Metwally Abdelghany,774,Egypt,Right Center Midfield,0.0,0.01,0.5,4.5,75.0,1.0,0.0,0.0,0.0,7,AFCON2023,good
+87449.0,Damián Josué Bobadilla Benítez,3567,Paraguay,Right Wing,0.0,0.15,3.0,32.0,93.8,19.0,1.0,1.0,0.0,5,Copa2024,good
+3265.0,José Luis Sanmartín Mato,772,Spain,Center Forward,0.0,0.14,3.0,11.0,81.8,12.0,0.0,1.0,0.0,2,EURO2024,poor
+4614.0,Antonee Robinson,1839,United States,Left Back,0.0,0.03,1.0,41.3,71.6,8.7,2.3,1.3,1.3,5,Copa2024,good
+7044.0,Patrik Schick,912,Czech Republic,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,EURO2024,limited
+10040.0,Youcef Atal,4898,Algeria,Right Back,0.0,0.02,1.0,44.0,87.1,7.3,0.7,2.3,1.3,3,AFCON2023,limited
+12169.0,João Maria Lobo Alves Palhinha Gonçalves,780,Portugal,Right Defensive Midfield,0.0,0.0,0.0,68.0,92.6,25.0,0.0,0.0,2.0,5,EURO2024,good
+23307.0,Idrissa Doumbia,3374,Côte d'Ivoire,Center Defensive Midfield,0.0,0.0,0.0,4.0,75.0,0.0,0.0,0.0,0.0,1,AFCON2023,poor
+27473.0,Deiver Andrés Machado Mena,769,Colombia,Left Back,0.0,0.0,0.0,32.0,87.5,6.0,1.0,0.0,1.0,1,Copa2024,poor
+27886.0,Alexis Mac Allister,779,Argentina,Left Center Midfield,0.0,0.0,0.0,10.0,90.0,3.0,0.0,0.0,0.0,7,Copa2024,good
+33395.0,Ransford Königsdörffer,4885,Ghana,Center Attacking Midfield,0.0,0.78,3.0,5.0,100.0,22.0,0.0,1.0,0.0,1,AFCON2023,poor
+4416.0,Max-Alain Gradel,3374,Côte d'Ivoire,Right Wing Back,0.0,0.0,0.0,11.0,81.8,11.0,1.0,0.0,0.0,6,AFCON2023,good
+5641.0,Michael Amir Murillo Bermudez,798,Panama,Right Wing Back,0.25,0.07,1.0,41.0,77.0,7.3,3.0,2.5,1.0,4,Copa2024,limited
+5696.0,Santiago Arias Naranjo,769,Colombia,Right Wing Back,0.0,0.0,0.0,2.0,50.0,2.0,0.0,0.0,0.0,4,Copa2024,limited
+13329.0,Silas Katompa Mvumpa,4881,Congo DR,Left Wing,0.67,0.44,1.0,11.0,71.3,4.7,1.3,1.0,0.3,7,AFCON2023,good
+23301.0,Kenny Rocha Santos,4924,Cape Verde Islands,Right Defensive Midfield,0.0,0.04,0.7,11.7,64.8,6.0,1.0,0.0,0.3,7,AFCON2023,good
+28239.0,Adam Hložek,912,Czech Republic,Right Center Midfield,0.0,0.03,1.0,2.0,100.0,5.0,0.0,1.0,0.0,3,EURO2024,limited
+5264.0,Guillermo Varela Olivera,783,Uruguay,Right Back,0.0,0.0,0.0,4.0,75.0,4.0,0.0,0.0,0.0,3,Copa2024,limited
+8349.0,Deroy Duarte,4924,Cape Verde Islands,Right Center Midfield,0.0,0.05,1.0,22.5,91.7,9.5,0.0,0.0,1.0,3,AFCON2023,limited
+15971.0,Cameron Carter-Vickers,1839,United States,Center Back,0.0,0.0,0.0,4.0,75.0,7.0,0.0,0.0,0.0,1,Copa2024,poor
+16459.0,Cyle Larin,1833,Canada,Left Center Forward,0.0,0.01,0.5,17.0,75.5,17.0,0.5,0.5,0.0,5,Copa2024,good
+28266.0,Rafael Santos Borré Amaury,769,Colombia,Left Center Forward,0.0,0.0,0.0,5.0,60.0,6.0,0.0,0.0,0.0,6,Copa2024,good
+47186.0,Hernesto Ezequiel Caballero Benítez,3567,Paraguay,Center Defensive Midfield,0.0,0.0,0.0,49.0,85.7,8.0,0.0,1.0,1.0,3,Copa2024,limited
+87449.0,Damián Josué Bobadilla Benítez,3567,Paraguay,Left Center Midfield,0.0,0.0,0.0,14.0,96.0,5.0,0.0,0.0,1.0,5,Copa2024,good
+160943.0,Mohamed Amine Tougai,4898,Algeria,Left Center Back,0.0,0.0,0.0,92.0,92.4,6.0,0.0,0.0,0.0,1,AFCON2023,poor
+3477.0,Álvaro Borja Morata Martín,772,Spain,Center Forward,0.14,0.22,2.0,16.0,70.3,18.4,0.3,0.4,0.0,7,EURO2024,good
+9466.0,Che Adams,942,Scotland,Right Center Forward,0.0,0.05,0.5,6.0,77.8,14.5,0.5,0.0,0.5,4,EURO2024,limited
+10290.0,Fabián Cornelio Balbuena González,3567,Paraguay,Right Center Back,0.0,0.1,1.3,39.7,79.6,6.0,0.0,0.0,1.3,3,Copa2024,limited
+23650.0,Jeremy Doku,782,Belgium,Left Midfield,0.0,0.0,0.0,21.0,66.7,27.0,1.0,6.0,0.0,5,EURO2024,good
+26152.0,Jacob Shaffelburg,1833,Canada,Left Wing,0.33,0.07,0.7,16.7,49.6,16.0,3.0,2.3,0.0,7,Copa2024,good
+3675.0,Fodé Ballo Touré,787,Senegal,Left Back,0.0,0.0,0.0,3.0,33.3,2.0,0.0,0.0,0.0,1,AFCON2023,poor
+103465.0,Baghdad Bounedjah,4898,Algeria,Center Forward,0.67,0.54,2.3,9.3,59.2,13.3,0.3,0.7,0.0,5,AFCON2023,good
+136074.0,Karim Konaté,3374,Côte d'Ivoire,Left Wing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,AFCON2023,limited
+,,768,England,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,poor
+3620.0,Scott McTominay,942,Scotland,Center Attacking Midfield,1.0,0.25,4.0,25.0,68.0,24.0,0.0,0.0,1.0,6,EURO2024,good
+4353.0,Aymeric Laporte,772,Spain,Left Center Back,0.0,0.04,0.8,81.5,92.9,4.0,0.3,0.2,0.7,6,EURO2024,good
+6655.0,Fabián Ruiz Peña,772,Spain,Left Defensive Midfield,0.0,0.1,1.8,55.3,91.0,9.0,1.0,1.0,0.5,7,EURO2024,good
+12770.0,Jonathan Osorio,1833,Canada,Left Midfield,0.0,0.0,0.0,24.0,83.3,2.0,1.0,0.0,0.0,6,Copa2024,good
+22128.0,Robin Aime Robert Le Normand,772,Spain,Left Center Back,0.0,0.0,0.0,46.0,93.5,3.0,0.0,0.0,0.0,6,EURO2024,good
+40724.0,Florian Wirtz,770,Germany,Right Center Midfield,1.0,0.12,1.0,8.0,87.5,4.0,0.0,0.0,0.0,7,EURO2024,good
+44225.0,Osman Bukari,4885,Ghana,Left Wing,0.0,0.0,0.0,2.0,50.0,0.0,1.0,0.0,0.0,2,AFCON2023,poor
+5204.0,Bruno Miguel Borges Fernandes,780,Portugal,Right Defensive Midfield,0.0,0.01,1.0,58.0,75.9,7.0,4.0,0.0,0.0,6,EURO2024,good
+17033.0,Mohammed Kudus,4885,Ghana,Right Attacking Midfield,0.0,0.02,1.0,3.0,66.7,1.0,0.0,0.0,0.0,3,AFCON2023,limited
+20572.0,Cristian Gabriel Romero,779,Argentina,Right Center Back,0.0,0.02,0.2,70.8,92.5,9.8,0.0,0.0,1.6,5,Copa2024,good
+24977.0,Christoph Baumgartner,915,Austria,Right Wing,0.0,0.0,0.0,23.0,82.6,15.0,1.0,0.0,0.0,7,EURO2024,good
+2995.0,Ángel Fabián Di María Hernández,779,Argentina,Right Wing,0.0,0.02,1.0,59.0,71.2,10.0,2.0,2.0,0.0,6,Copa2024,good
+3494.0,Davinson Sánchez Mina,769,Colombia,Left Center Back,0.0,0.0,0.0,43.0,86.0,7.0,0.0,0.0,1.0,7,Copa2024,good
+7104.0,Mathías Olivera Miramontes,783,Uruguay,Left Back,0.0,0.0,0.0,9.7,92.1,6.0,0.0,0.0,0.7,7,Copa2024,good
+7829.0,Wout Weghorst,941,Netherlands,Center Forward,0.17,0.06,0.7,5.2,83.1,6.3,0.0,0.3,0.0,6,EURO2024,good
+10349.0,Mehmet Zeki Çelik,909,Turkey,Right Back,0.0,0.12,0.5,25.5,71.3,6.5,2.0,0.0,0.0,3,EURO2024,limited
+11820.0,Kevin Danso,915,Austria,Right Center Back,0.0,0.01,0.3,56.3,89.4,6.0,0.3,0.0,0.7,3,EURO2024,limited
+28263.0,Gonzalo Ariel Montiel,779,Argentina,Right Back,0.2,0.16,0.2,30.2,88.5,4.6,0.4,0.4,0.4,6,Copa2024,good
+41381.0,Anthony Louis Mandréa,4898,Algeria,Goalkeeper,0.0,0.0,0.0,25.7,83.3,0.0,0.0,0.0,0.0,3,AFCON2023,limited
+49007.0,Kwadwo Duah,773,Switzerland,Center Forward,0.33,0.19,1.3,8.0,61.6,8.0,0.3,0.3,0.3,3,EURO2024,limited
+136074.0,Karim Konaté,3374,Côte d'Ivoire,Left Center Forward,0.0,0.41,3.0,8.0,87.5,7.0,0.0,0.0,0.0,4,AFCON2023,limited
+383095.0,Kahiser Lenis Navarro,798,Panama,Right Midfield,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,3,Copa2024,limited
+7797.0,Rodrigo Javier De Paul,779,Argentina,Right Center Midfield,0.0,0.0,0.0,23.0,82.6,5.0,1.0,0.0,0.0,7,Copa2024,good
+20016.0,Kléper Laveran Lima Ferreira,780,Portugal,Center Back,0.0,0.0,0.0,78.0,93.6,6.0,0.0,0.0,1.0,4,EURO2024,limited
+23615.0,Gideon Mensah,4885,Ghana,Left Wing Back,0.0,0.0,0.0,2.0,50.0,4.0,0.0,0.0,0.0,4,AFCON2023,limited
+28227.0,Pavel Šulc,912,Czech Republic,Right Attacking Midfield,0.0,0.0,0.0,3.0,100.0,6.0,0.0,0.0,0.0,2,EURO2024,poor
+66887.0,Hamdi Fathi,774,Egypt,Right Defensive Midfield,0.0,0.0,0.0,9.0,100.0,3.0,0.0,0.0,0.0,7,AFCON2023,good
+3347.0,André Ayew Pelé,4885,Ghana,Center Forward,0.0,0.0,0.0,12.0,75.0,9.0,0.0,0.0,0.0,2,AFCON2023,poor
+5507.0,Nicolás Alejandro Tagliafico,779,Argentina,Left Wing Back,0.0,0.0,0.0,2.0,75.0,1.5,0.0,0.0,0.5,7,Copa2024,good
+5678.0,Jefferson Andrés Lerma Solís,769,Colombia,Left Defensive Midfield,1.0,0.09,2.0,11.0,90.9,8.0,0.0,0.0,0.0,7,Copa2024,good
+8538.0,Waldemar Anton,770,Germany,Left Center Back,0.0,0.0,0.0,20.0,80.0,4.0,0.0,0.0,0.0,2,EURO2024,poor
+8546.0,Niclas Füllkrug,770,Germany,Left Center Forward,0.0,0.0,0.0,5.0,80.0,1.0,0.0,0.0,0.0,7,EURO2024,good
+18242.0,Tim Ream,1839,United States,Left Center Back,0.0,0.0,0.0,44.0,77.4,4.7,0.0,0.0,0.3,3,Copa2024,limited
+21201.0,Ethan Horvath,1839,United States,Goalkeeper,0.0,0.0,0.0,20.0,10.0,0.0,0.0,0.0,0.0,1,Copa2024,poor
+134209.0,Barış Alper Yılmaz,909,Turkey,Center Forward,0.0,0.0,0.0,13.0,84.0,16.5,0.5,1.0,0.5,7,EURO2024,good
+3468.0,Jordan Pickford,768,England,Goalkeeper,0.0,0.0,0.0,43.7,74.4,0.1,0.0,0.0,0.0,7,EURO2024,good
+5258.0,Giorgian Daniel De Arrascaeta Benedetti,783,Uruguay,Center Forward,1.0,0.78,1.0,2.0,50.0,8.0,0.0,1.0,0.0,6,Copa2024,good
+8506.0,Konrad Laimer,915,Austria,Center Attacking Midfield,0.0,0.0,0.0,9.0,77.8,9.0,0.0,0.0,0.0,7,EURO2024,good
+8518.0,Marcel Sabitzer,915,Austria,Left Center Forward,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,1.0,7,EURO2024,good
+9974.0,John McGinn,942,Scotland,Left Center Midfield,0.0,0.0,0.0,7.0,71.4,1.0,0.0,2.0,1.0,4,EURO2024,limited
+10595.0,Raphael Dias Belloli,781,Brazil,Right Midfield,0.0,0.03,1.0,6.0,50.0,2.0,0.0,2.0,1.0,6,Copa2024,good
+22084.0,Bukayo Saka,768,England,Right Wing,0.0,0.01,0.5,24.5,86.7,11.5,2.5,2.5,0.0,7,EURO2024,good
+5206.0,Rúben Santos Gato Alves Dias,780,Portugal,Right Center Back,0.0,0.02,0.5,98.3,93.3,5.5,0.5,0.3,0.3,6,EURO2024,good
+5477.0,Ousmane Dembélé,771,France,Right Wing,0.25,0.29,1.8,35.0,65.2,12.5,5.8,4.8,0.3,5,EURO2024,good
+12625.0,Borna Sosa,785,Croatia,Left Back,0.0,0.0,0.0,2.0,50.0,0.0,1.0,0.0,0.0,1,EURO2024,poor
+26406.0,Jorge Eduardo Sánchez Ramos,794,Mexico,Right Back,0.0,0.05,1.0,54.7,76.1,15.3,2.7,2.3,2.7,3,Copa2024,limited
+28104.0,Anthony Gordon,768,England,Left Wing,0.0,0.0,0.0,3.0,100.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+33297.0,Patrick Wimmer,915,Austria,Right Wing,0.0,0.04,1.0,13.5,69.5,11.0,1.0,2.0,0.5,4,EURO2024,limited
+4256.0,Jonathan Bamba,3374,Côte d'Ivoire,Left Wing,0.0,0.0,0.0,8.7,76.1,1.7,0.0,0.7,0.0,6,AFCON2023,good
+15452.0,Carlos Uriel Antuna Romero,794,Mexico,Right Midfield,0.0,0.04,1.0,20.0,67.2,8.5,3.0,0.0,0.0,3,Copa2024,limited
+34339.0,Giovanni Reyna,1839,United States,Right Midfield,0.0,0.0,0.0,9.0,77.8,4.0,0.0,0.0,0.0,6,Copa2024,good
+36271.0,Roberto Lopes,4924,Cape Verde Islands,Left Center Back,0.0,0.02,0.3,51.3,81.0,9.5,0.0,0.0,0.8,4,AFCON2023,limited
+49689.0,Muhammed Kerem Aktürkoğlu,909,Turkey,Left Midfield,0.0,0.18,2.0,6.0,66.7,2.0,2.0,0.0,0.0,6,EURO2024,good
+3664.0,Trent Alexander-Arnold,768,England,Right Defensive Midfield,0.0,0.05,1.5,44.5,85.4,7.0,2.0,0.5,1.0,4,EURO2024,limited
+5247.0,Nahitan Michel Nández Acosta,783,Uruguay,Right Wing Back,0.0,0.0,0.0,4.0,75.0,2.0,0.0,0.0,0.0,6,Copa2024,good
+5696.0,Santiago Arias Naranjo,769,Colombia,Right Back,0.0,0.01,0.3,21.3,66.7,6.3,0.7,0.0,0.0,4,Copa2024,limited
+18724.0,Sofiane Feghouli,4898,Algeria,Center Attacking Midfield,0.0,0.05,1.0,7.0,100.0,7.0,0.0,0.0,0.0,1,AFCON2023,poor
+27826.0,Ondřej Lingr,912,Czech Republic,Left Attacking Midfield,0.0,0.13,1.5,11.0,79.1,3.0,0.5,0.0,0.0,4,EURO2024,limited
+45190.0,Dan Ndoye,773,Switzerland,Right Attacking Midfield,0.0,0.01,0.5,3.0,87.5,1.5,0.5,0.0,0.0,7,EURO2024,good
+48342.0,Dylan Tavares dos Santos,4924,Cape Verde Islands,Left Back,0.0,0.0,0.0,42.0,92.9,14.0,1.0,4.0,1.0,1,AFCON2023,poor
+49689.0,Muhammed Kerem Aktürkoğlu,909,Turkey,Left Center Forward,0.0,0.0,0.0,6.0,16.7,6.0,0.0,1.0,1.0,6,EURO2024,good
+68749.0,Seifeddine Jaziri,777,Tunisia,Center Forward,0.0,0.0,0.0,7.5,35.7,3.5,1.5,0.0,0.0,2,AFCON2023,poor
+3531.0,Mohamed Salah,774,Egypt,Center Attacking Midfield,0.0,0.05,1.0,32.0,84.4,20.0,1.0,0.0,0.0,4,AFCON2023,limited
+3961.0,N'Golo Kanté,771,France,Left Center Midfield,0.0,0.0,0.0,54.0,90.7,7.0,0.0,0.0,1.0,7,EURO2024,good
+4813.0,Andreas Weimann,915,Austria,Right Wing,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1,EURO2024,poor
+23363.0,Liam Millar,1833,Canada,Left Midfield,0.0,0.0,0.0,2.0,100.0,3.0,0.0,1.0,0.0,7,Copa2024,good
+23650.0,Jeremy Doku,782,Belgium,Left Wing,0.0,0.08,1.3,28.0,86.9,6.0,3.3,6.3,0.3,5,EURO2024,good
+33015.0,Francisco Evanilson de Lima Barbosa,781,Brazil,Center Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,Copa2024,poor
+3493.0,Emre Can,770,Germany,Left Defensive Midfield,0.0,0.0,0.0,2.0,100.0,3.0,0.0,0.0,0.0,5,EURO2024,good
+5243.0,Amine Harit,788,Morocco,Right Center Midfield,0.0,0.0,0.0,8.0,81.3,1.0,0.0,1.0,0.0,4,AFCON2023,limited
+5460.0,Andrej Kramarić,785,Croatia,Right Wing,0.0,0.0,0.0,4.0,50.0,0.0,0.0,0.0,0.0,6,EURO2024,good
+10598.0,Jovane Eduardo Borges Cabral,4924,Cape Verde Islands,Center Forward,0.0,0.13,1.0,10.5,76.8,8.0,0.3,0.3,0.0,7,AFCON2023,good
+18244.0,Grady Diangana,4881,Congo DR,Center Attacking Midfield,0.0,0.11,2.0,22.0,81.8,20.0,0.0,2.0,1.0,2,AFCON2023,poor
+26280.0,Orbelín Pineda Alvarado,794,Mexico,Right Center Midfield,0.0,0.01,1.0,32.0,76.9,16.5,1.0,0.5,0.0,3,Copa2024,limited
+87429.0,Mathías Adalberto Villasanti Rolón,3567,Paraguay,Right Center Midfield,0.0,0.08,1.0,14.5,85.3,12.5,0.0,1.5,0.5,4,Copa2024,limited
+7161.0,Germán Alejandro Pezzella,779,Argentina,Right Center Back,0.0,0.02,1.0,64.0,92.2,4.0,0.0,0.0,1.0,1,Copa2024,poor
+9478.0,Kenneth McLean,942,Scotland,Left Center Midfield,0.0,0.0,0.0,7.0,71.4,6.0,0.0,0.0,0.0,4,EURO2024,limited
+10595.0,Raphael Dias Belloli,781,Brazil,Left Back,0.0,0.0,0.0,8.0,87.5,0.0,0.0,1.0,0.0,6,Copa2024,good
+22097.0,Randal Kolo Muani,771,France,Right Center Forward,0.0,0.12,1.0,17.0,76.5,15.0,0.0,2.0,0.0,7,EURO2024,good
+28729.0,Diego Nicolás De La Cruz Arcosa,783,Uruguay,Right Center Midfield,0.0,0.0,0.0,8.0,87.5,1.0,0.0,0.0,0.0,7,Copa2024,good
+31295.0,Yahia Attiyat allah,788,Morocco,Left Back,0.0,0.0,0.0,31.0,72.0,2.0,1.0,0.5,1.0,2,AFCON2023,poor
+48720.0,João Victor Gomes da Silva,781,Brazil,Right Center Midfield,0.0,0.0,0.0,14.0,85.7,13.0,0.0,1.0,0.0,6,Copa2024,good
+50971.0,Eduardo Antonio Guerrero Lozcano,798,Panama,Left Center Forward,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6,Copa2024,good
+103464.0,Mohamed Youcef Belaïli,4898,Algeria,Left Midfield,0.0,0.0,0.0,30.0,53.3,1.0,5.0,2.0,0.0,4,AFCON2023,limited
+105392.0,Simon Adingra,3374,Côte d'Ivoire,Right Center Midfield,0.0,0.0,0.0,2.0,100.0,3.0,1.0,1.0,0.0,6,AFCON2023,good
+136074.0,Karim Konaté,3374,Côte d'Ivoire,Right Attacking Midfield,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,4,AFCON2023,limited
+151813.0,Kenan Yildiz,909,Turkey,Left Wing,0.0,0.12,2.2,22.0,85.2,8.8,0.2,2.4,0.4,5,EURO2024,good
+6685.0,Mikel Oyarzabal Ugarte,772,Spain,Left Wing,0.0,0.19,1.0,29.0,86.2,13.0,0.0,1.0,0.0,7,EURO2024,good
+6846.0,Andreas Hoelgebaum Pereira,781,Brazil,Left Midfield,0.0,0.0,0.0,5.0,60.0,4.0,0.0,0.0,0.0,5,Copa2024,good
+8673.0,Sébastien Haller,3374,Côte d'Ivoire,Center Forward,0.75,0.47,2.8,15.5,78.1,12.0,0.0,0.3,0.5,4,AFCON2023,limited
+16275.0,Ikoma Loïs Openda,782,Belgium,Center Forward,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3,EURO2024,limited
+16532.0,Daniel Olmo Carvajal,772,Spain,Center Attacking Midfield,0.5,0.17,1.5,36.5,81.9,15.0,1.5,2.0,0.5,7,EURO2024,good
+21582.0,Tijjani Reijnders,941,Netherlands,Left Defensive Midfield,0.0,0.05,0.8,41.8,88.1,7.5,0.3,1.3,0.8,7,EURO2024,good
+78241.0,İsmail Yüksek,909,Turkey,Left Defensive Midfield,0.0,0.02,0.5,29.5,96.2,7.5,0.0,0.0,0.0,4,EURO2024,limited
+102816.0,Mohamed Ali Ben Romdhane,777,Tunisia,Right Defensive Midfield,0.0,0.0,0.0,3.0,100.0,4.0,0.0,0.0,0.0,3,AFCON2023,limited
+143864.0,Fermin Lopez Marin,772,Spain,Left Wing,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2,EURO2024,poor
+286708.0,Kévin Daniel Van Den Kerkhof,4898,Algeria,Right Back,0.0,0.03,1.0,10.5,78.4,2.5,0.5,0.0,0.5,2,AFCON2023,poor
+3604.0,Olivier Giroud,771,France,Right Center Forward,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,4,EURO2024,limited
+5219.0,Romain Saïss,788,Morocco,Left Center Back,0.33,0.14,0.3,57.0,86.6,5.7,0.0,0.0,1.0,3,AFCON2023,limited
+8518.0,Marcel Sabitzer,915,Austria,Center Attacking Midfield,0.0,0.08,2.0,27.0,77.8,12.0,0.0,0.0,0.0,7,EURO2024,good
+32712.0,Jeremie Frimpong,941,Netherlands,Right Midfield,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,4,EURO2024,limited
+81330.0,Robin Hranáč,912,Czech Republic,Right Center Back,0.0,0.0,0.0,3.0,66.7,0.0,0.0,0.0,0.0,4,EURO2024,limited
+99174.0,Kobbie Mainoo,768,England,Left Center Midfield,0.0,0.0,0.0,2.0,100.0,4.0,0.0,0.0,0.0,6,EURO2024,good
+105392.0,Simon Adingra,3374,Côte d'Ivoire,Left Midfield,0.0,0.06,1.0,12.0,83.3,10.0,2.0,1.0,1.0,6,AFCON2023,good
+3811.0,Islam Slimani,4898,Algeria,Left Center Forward,0.0,0.0,0.0,3.0,33.3,0.0,0.0,0.0,0.0,3,AFCON2023,limited
+3961.0,N'Golo Kanté,771,France,Center Defensive Midfield,0.0,0.0,0.0,4.0,100.0,3.0,0.0,2.0,0.0,7,EURO2024,good
+5637.0,Edgar Yoel Bárcenas Herrera,798,Panama,Left Defensive Midfield,0.0,0.0,0.0,2.0,100.0,1.0,0.0,1.0,0.0,7,Copa2024,good
+8212.0,Wendell Nascimento Borges,781,Brazil,Left Back,0.0,0.0,0.0,45.0,81.0,6.5,1.0,1.5,0.5,2,Copa2024,poor
+40485.0,Ryan Isaac Mendes da Graça,4924,Cape Verde Islands,Left Midfield,0.0,0.0,0.0,6.0,66.7,3.0,0.0,0.0,0.0,6,AFCON2023,good
+50436.0,Fabian Rieder,773,Switzerland,Right Attacking Midfield,0.0,0.0,0.3,20.8,65.9,18.5,1.3,0.8,0.3,6,EURO2024,good
+65733.0,Aubrey Maphosa Modiba,4976,South Africa,Left Wing,1.0,0.78,1.0,7.0,85.7,1.0,1.0,0.0,0.0,7,AFCON2023,good
+67728.0,Mahmoud Hamada,774,Egypt,Left Center Midfield,0.0,0.0,0.0,7.0,100.0,2.0,0.0,0.0,0.0,2,AFCON2023,poor
+195989.0,Néstor Rafael Giménez Florentín,3567,Paraguay,Left Back,0.0,0.0,0.0,44.5,93.5,10.0,2.0,0.0,1.5,2,Copa2024,poor
+271988.0,Endrick Felipe Moreira de Sousa,781,Brazil,Center Forward,0.0,0.02,0.5,3.0,37.5,8.0,0.0,2.0,0.0,5,Copa2024,good
+8259.0,Steven Bergwijn,941,Netherlands,Right Wing,0.0,0.01,0.5,25.5,80.6,5.0,0.0,1.5,0.5,2,EURO2024,poor
+29367.0,Percy Tau,4976,South Africa,Right Wing,0.0,0.11,1.7,17.0,83.1,9.3,0.3,0.7,0.0,7,AFCON2023,good
+29367.0,Percy Tau,4976,South Africa,Left Wing,0.0,0.0,0.0,24.0,75.0,9.0,1.0,0.0,0.0,7,AFCON2023,good
+39420.0,Bradley Barcola,771,France,Left Midfield,0.0,0.0,0.0,3.0,66.7,2.0,1.0,1.0,0.0,4,EURO2024,limited
+65726.0,Themba Zwane,4976,South Africa,Right Center Forward,0.0,0.0,0.0,31.0,90.3,16.0,0.0,4.0,0.0,7,AFCON2023,good
+66725.0,Oswin Reagan Appollis,4976,South Africa,Left Wing,0.0,0.0,0.0,6.0,100.0,0.0,0.0,0.0,0.0,2,AFCON2023,poor
+66878.0,Ahmed Sayed,774,Egypt,Right Wing,0.0,0.14,3.0,40.3,76.5,9.7,3.7,1.0,0.7,5,AFCON2023,good
+104181.0,César Augusto Yanis Velasco,798,Panama,Center Attacking Midfield,1.0,0.11,1.0,7.0,71.4,0.0,0.0,0.0,0.0,1,Copa2024,poor
+5570.0,Manuel Neuer,770,Germany,Goalkeeper,0.0,0.0,0.0,28.6,87.8,0.0,0.0,0.0,0.0,5,EURO2024,good
+5633.0,Yannick Ferreira Carrasco,782,Belgium,Right Wing,0.0,0.07,1.0,4.0,100.0,0.0,0.0,0.0,0.0,5,EURO2024,good
+6748.0,Ferrán Torres García,772,Spain,Right Wing,0.2,0.04,0.8,8.2,80.7,6.0,1.2,0.2,0.4,6,EURO2024,good
+6785.0,Yassine Bounou,788,Morocco,Goalkeeper,0.0,0.0,0.0,28.8,79.1,0.3,0.0,0.0,0.0,4,AFCON2023,limited
+7791.0,Seko Fofana,3374,Côte d'Ivoire,Right Center Midfield,0.0,0.01,2.0,19.0,84.2,0.0,1.0,0.0,0.0,7,AFCON2023,good
+16120.0,Richie Laryea,1833,Canada,Right Midfield,0.0,0.0,0.0,8.0,87.5,9.0,0.0,1.0,0.0,7,Copa2024,good
+29484.0,Jan Kuchta,912,Czech Republic,Left Attacking Midfield,0.0,0.0,0.0,2.0,50.0,1.0,0.0,0.0,0.0,3,EURO2024,limited
+136296.0,Bechir Ben Said,777,Tunisia,Goalkeeper,0.0,0.0,0.0,27.3,80.6,0.3,0.0,0.0,0.0,3,AFCON2023,limited
+9974.0,John McGinn,942,Scotland,Right Wing,0.0,0.0,0.0,3.0,100.0,7.0,0.0,0.0,0.0,4,EURO2024,limited
+50442.0,Hamza Rafia,777,Tunisia,Right Wing,0.0,0.0,0.0,46.0,73.9,27.0,2.0,2.0,1.0,2,AFCON2023,poor
+60138.0,Kevin Duvan Castaño Gil,769,Colombia,Left Center Midfield,0.0,0.05,0.5,4.5,100.0,1.5,0.0,0.0,0.0,5,Copa2024,good
+66725.0,Oswin Reagan Appollis,4976,South Africa,Right Wing,1.0,0.78,1.0,8.0,75.0,1.0,0.0,0.0,0.0,2,AFCON2023,poor
+99174.0,Kobbie Mainoo,768,England,Right Defensive Midfield,0.0,0.05,1.0,40.2,88.9,8.6,0.6,1.0,0.8,6,EURO2024,good
+3244.0,John Stones,768,England,Right Center Back,0.0,0.02,0.3,80.0,91.7,3.5,0.0,0.0,0.0,7,EURO2024,good
+3822.0,Ezri Konsa Ngoyo,768,England,Left Wing Back,0.0,0.0,0.0,3.0,66.7,2.0,0.0,0.0,0.0,2,EURO2024,poor
+5474.0,Ivan Perišić,785,Croatia,Left Wing Back,0.0,0.0,0.0,4.0,25.0,3.0,1.0,0.0,0.0,4,EURO2024,limited
+6393.0,Iñaki Williams Arthuer,4885,Ghana,Center Forward,0.0,0.1,1.0,6.0,83.3,3.0,0.0,1.0,0.0,2,AFCON2023,poor
+12555.0,Okay Yokuşlu,909,Turkey,Right Center Back,0.0,0.0,0.0,4.0,75.0,0.0,0.0,0.0,1.0,5,EURO2024,good
+39259.0,Malik Tillman,1839,United States,Left Center Midfield,0.0,0.06,1.0,3.0,100.0,3.0,0.0,1.0,0.0,1,Copa2024,poor
+66716.0,Teboho Mokoena,4976,South Africa,Right Defensive Midfield,0.5,0.46,3.3,63.3,83.0,16.3,1.3,1.3,1.3,7,AFCON2023,good
+3097.0,Pascal Groß,770,Germany,Left Defensive Midfield,0.0,0.0,0.0,13.0,92.3,0.0,0.0,0.0,0.0,2,EURO2024,poor
+6333.0,Miguel Ángel Borja Hernández,769,Colombia,Left Center Forward,0.0,0.06,1.0,5.0,60.0,2.0,0.0,0.0,0.0,2,Copa2024,poor
+18395.0,Vinícius José Paixão de Oliveira Júnior,781,Brazil,Center Forward,0.0,0.0,0.0,2.0,100.0,3.0,0.0,0.0,0.0,4,Copa2024,limited
+18723.0,Yunus Akgün,909,Turkey,Right Wing,0.0,0.0,0.0,17.0,88.2,19.0,2.0,3.0,0.0,1,EURO2024,poor
+24921.0,Martín Zubimendi Ibáñez,772,Spain,Left Wing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,EURO2024,good
+27277.0,Jhon Adolfo Arias Andrade,769,Colombia,Left Center Midfield,0.0,0.04,1.2,42.4,89.9,18.4,0.2,1.4,0.4,6,Copa2024,good
+28567.0,Carlos Eccehomo Cuesta Figueroa,769,Colombia,Left Center Back,0.0,0.06,0.6,49.6,94.2,9.4,0.0,0.0,0.6,5,Copa2024,good
+32985.0,Mojmír Chytil,912,Czech Republic,Right Center Forward,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4,EURO2024,limited
+37274.0,Bart Verbruggen,941,Netherlands,Goalkeeper,0.0,0.0,0.0,35.0,84.3,0.0,0.0,0.0,0.0,6,EURO2024,good
+104179.0,Orlando Mosquera,798,Panama,Goalkeeper,0.0,0.0,0.0,29.5,74.5,0.3,0.0,0.0,0.0,4,Copa2024,limited
+3567.0,Georginio Wijnaldum,941,Netherlands,Center Attacking Midfield,0.0,0.0,0.0,5.0,80.0,4.0,0.0,0.0,0.0,3,EURO2024,limited
+3822.0,Ezri Konsa Ngoyo,768,England,Left Center Back,0.0,0.0,0.0,48.0,95.8,13.0,0.0,0.0,0.0,2,EURO2024,poor
+4412.0,Samuel Moutoussamy,4881,Congo DR,Right Defensive Midfield,0.0,0.0,0.0,5.0,80.0,10.0,0.0,0.0,0.0,7,AFCON2023,good
+20758.0,Krépin Diatta,787,Senegal,Right Back,0.0,0.02,0.5,34.5,60.8,7.5,2.3,1.0,0.8,5,AFCON2023,good
+35492.0,Maximiliano Javier Araújo Vilches,783,Uruguay,Left Wing Back,0.0,0.0,0.0,8.0,75.0,2.0,2.0,0.0,0.0,7,Copa2024,good
+50497.0,Nicolas Jackson,787,Senegal,Center Forward,0.0,0.02,0.3,4.8,58.4,8.5,0.5,0.3,0.0,5,AFCON2023,good
+50498.0,Pape Matar Sarr,787,Senegal,Right Center Midfield,0.0,0.0,0.0,32.0,81.4,18.5,0.0,2.0,1.0,3,AFCON2023,limited
+70682.0,Marwan Attia Fahim Ghallab,774,Egypt,Left Defensive Midfield,0.0,0.02,1.0,27.0,96.3,12.0,0.0,0.0,0.0,4,AFCON2023,limited
+105392.0,Simon Adingra,3374,Côte d'Ivoire,Left Wing Back,0.0,0.04,1.0,7.0,57.1,1.0,2.0,1.0,0.0,6,AFCON2023,good
+2988.0,Memphis Depay,941,Netherlands,Left Wing,0.0,0.07,1.0,2.0,100.0,0.0,0.0,1.0,0.0,7,EURO2024,good
+5202.0,José Ignacio Fernández Iglesias,772,Spain,Right Back,0.0,0.0,0.0,15.0,93.3,2.0,0.0,0.0,0.0,5,EURO2024,good
+5257.0,Mahmoud Abdul Monem Abdelhamid Soliman,774,Egypt,Right Center Forward,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,1,AFCON2023,poor
+5633.0,Yannick Ferreira Carrasco,782,Belgium,Right Midfield,0.0,0.24,2.0,17.0,70.6,17.0,3.0,1.0,0.0,5,EURO2024,good
+5637.0,Edgar Yoel Bárcenas Herrera,798,Panama,Left Wing,0.0,0.11,1.3,30.0,77.3,11.7,2.0,1.0,1.0,7,Copa2024,good
+29163.0,Josip Juranović,785,Croatia,Right Back,0.0,0.0,0.0,58.0,84.5,16.0,7.0,1.0,1.0,2,EURO2024,poor
+39167.0,Xavi Simons,941,Netherlands,Center Attacking Midfield,0.25,0.06,1.0,19.8,84.0,6.8,0.3,1.5,0.8,7,EURO2024,good
+51571.0,Haythem Jouini,777,Tunisia,Center Forward,0.0,0.32,1.5,14.0,57.6,10.5,0.5,0.5,0.5,2,AFCON2023,poor
+179524.0,Carlos Miguel Pereira Fernandes,4924,Cape Verde Islands,Left Center Midfield,0.0,0.0,0.0,9.0,66.7,5.0,0.0,0.0,0.0,2,AFCON2023,poor
+3629.0,Sadio Mané,787,Senegal,Left Midfield,0.67,0.38,1.7,20.7,78.6,13.0,0.0,2.7,1.3,5,AFCON2023,good
+5562.0,Thomas Müller,770,Germany,Left Center Forward,0.0,0.0,0.0,12.0,75.0,4.0,3.0,1.0,0.0,3,EURO2024,limited
+8221.0,Jonathan Tah,770,Germany,Left Center Back,0.0,0.01,0.3,69.3,93.5,7.0,0.0,0.0,1.0,4,EURO2024,limited
+26297.0,Carlos Alberto Rodríguez Gómez,794,Mexico,Right Center Midfield,0.0,0.1,1.0,15.5,80.0,9.0,0.0,0.0,0.0,3,Copa2024,limited
+36710.0,Sergio Rochet Álvarez,783,Uruguay,Goalkeeper,0.0,0.0,0.0,22.7,70.6,0.3,0.0,0.0,0.0,6,Copa2024,good
+39338.0,Lukáš Červ,912,Czech Republic,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+217047.0,Fares Chaïbi,4898,Algeria,Left Defensive Midfield,0.0,0.01,1.0,18.0,77.8,2.0,1.0,0.0,0.0,3,AFCON2023,limited
+2941.0,Ismaïla Sarr,787,Senegal,Right Midfield,0.5,0.09,1.5,10.5,84.2,12.0,1.0,2.5,0.0,4,AFCON2023,limited
+3205.0,Kyle Walker,768,England,Left Back,0.0,0.0,0.0,7.0,100.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+3587.0,Arthur Masuaku,4881,Congo DR,Left Back,0.17,0.16,1.2,65.8,73.2,11.7,3.3,1.5,0.7,6,AFCON2023,good
+6301.0,Youssef En-Nesyri,788,Morocco,Right Center Forward,0.0,0.13,1.0,5.0,60.0,2.0,0.0,0.0,0.0,4,AFCON2023,limited
+11456.0,Lautaro Javier Martínez,779,Argentina,Left Center Forward,0.5,0.43,1.5,5.0,92.9,4.8,0.0,0.5,0.5,6,Copa2024,good
+11748.0,Unai Simón Mendibil,772,Spain,Goalkeeper,0.0,0.0,0.0,41.0,78.5,0.0,0.0,0.0,0.0,6,EURO2024,good
+16531.0,Dominik Livaković,785,Croatia,Goalkeeper,0.0,0.0,0.0,29.7,74.9,0.0,0.0,0.0,0.0,3,EURO2024,limited
+28835.0,Ivica Ivušić,785,Croatia,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+41115.0,Alejandro Baena Rodríguez,772,Spain,Left Wing,0.0,0.0,0.0,4.0,100.0,5.0,0.0,1.0,0.0,2,EURO2024,poor
+66887.0,Hamdi Fathi,774,Egypt,Right Center Midfield,0.0,0.04,0.7,21.3,78.7,12.7,0.0,0.3,0.7,7,AFCON2023,good
+141358.0,Mohamed El Amine Amoura,4898,Algeria,Left Wing,0.0,0.0,0.0,11.5,92.5,5.5,1.5,2.5,0.0,5,AFCON2023,good
+5261.0,Mahmoud Ibrahim Hassan,774,Egypt,Left Center Midfield,0.0,0.02,1.0,4.0,100.0,3.0,0.0,0.0,0.0,6,AFCON2023,good
+5637.0,Edgar Yoel Bárcenas Herrera,798,Panama,Left Midfield,0.0,0.0,0.0,4.0,100.0,2.0,0.0,0.0,0.0,7,Copa2024,good
+8125.0,Denzel Dumfries,941,Netherlands,Right Back,0.0,0.05,0.8,53.2,83.0,10.2,3.2,1.0,0.4,6,EURO2024,good
+11187.0,Stephen Antunes Eustáquio,1833,Canada,Left Center Midfield,0.0,0.0,0.0,2.0,50.0,0.0,0.0,0.0,0.0,6,Copa2024,good
+11396.0,Florian Grillitsch,915,Austria,Left Defensive Midfield,0.0,0.05,1.3,40.8,86.2,9.3,0.5,0.0,1.0,4,EURO2024,limited
+12041.0,João Félix Sequeira,780,Portugal,Left Midfield,0.0,0.87,2.0,7.0,85.7,5.0,0.0,0.0,0.0,2,EURO2024,poor
+24024.0,Tajon Buchanan,1833,Canada,Right Midfield,0.0,0.1,1.0,9.0,100.0,12.0,0.0,1.0,1.0,3,Copa2024,limited
+25104.0,Rodrygo Silva de Goes,781,Brazil,Left Center Forward,0.0,0.0,0.0,7.0,85.7,1.0,0.0,1.0,0.0,5,Copa2024,good
+35690.0,Sebastián Enzo Cáceres Ramos,783,Uruguay,Left Center Back,0.0,0.04,0.5,17.5,61.4,8.0,0.0,0.0,0.3,7,Copa2024,good
+39565.0,Jamal Musiala,770,Germany,Left Midfield,0.0,0.05,1.0,13.0,84.6,4.0,3.0,2.0,0.0,7,EURO2024,good
+39565.0,Jamal Musiala,770,Germany,Left Wing,0.33,0.11,1.0,18.0,85.9,10.7,0.7,2.0,1.3,7,EURO2024,good
+2941.0,Ismaïla Sarr,787,Senegal,Right Wing,0.0,0.42,2.0,20.0,72.3,18.5,1.0,2.0,0.0,4,AFCON2023,limited
+7713.0,Obite Evan Ndicka,3374,Côte d'Ivoire,Left Center Back,0.0,0.07,1.2,61.8,87.3,6.7,0.0,0.0,0.2,7,AFCON2023,good
+16184.0,Luis Fernando Sinisterra Lucumí,769,Colombia,Left Center Forward,0.0,0.0,0.0,8.0,87.5,9.0,0.0,3.0,0.0,3,Copa2024,limited
+34148.0,Carlos Miguel Harvey Cesneros,798,Panama,Center Back,0.0,0.0,0.0,29.0,89.7,4.0,0.0,1.0,1.0,2,Copa2024,poor
+39461.0,Cole Palmer,768,England,Left Attacking Midfield,0.0,0.0,0.0,14.0,85.7,0.0,0.0,2.0,0.0,7,EURO2024,good
+65761.0,Jayden Adams,4976,South Africa,Right Defensive Midfield,0.0,0.0,0.0,5.0,80.0,3.0,0.0,0.0,0.0,3,AFCON2023,limited
+4909.0,Jeremie Boga,3374,Côte d'Ivoire,Right Wing Back,0.0,0.0,0.0,7.0,57.1,1.0,1.0,1.0,0.0,7,AFCON2023,good
+6821.0,Jesús Navas González,772,Spain,Right Back,0.0,0.0,0.0,24.7,79.1,6.7,2.7,0.7,0.7,3,EURO2024,limited
+7197.0,Steven Moreira,4924,Cape Verde Islands,Right Back,0.0,0.01,0.2,44.0,86.8,11.2,0.0,0.4,0.8,5,AFCON2023,good
+8931.0,Philipp Lienhart,915,Austria,Right Center Back,0.0,0.0,0.0,43.0,95.3,3.0,0.0,1.0,1.0,3,EURO2024,limited
+9466.0,Che Adams,942,Scotland,Center Forward,0.0,0.01,0.5,10.0,89.3,10.0,0.5,0.5,0.0,4,EURO2024,limited
+40761.0,Omar Marmoush,774,Egypt,Left Midfield,1.0,0.79,2.0,5.0,60.0,4.0,0.0,0.0,0.0,7,AFCON2023,good
+64607.0,Zakhele Lerato Lepasa,4976,South Africa,Left Center Forward,0.0,0.03,0.5,6.0,90.9,2.0,0.5,0.5,0.0,7,AFCON2023,good
+3531.0,Mohamed Salah,774,Egypt,Right Midfield,1.0,0.82,2.0,6.0,66.7,2.0,1.0,1.0,0.0,4,AFCON2023,limited
+4506.0,Nampalys Mendy,787,Senegal,Left Center Midfield,0.0,0.05,2.0,46.0,87.0,21.0,1.0,0.0,2.0,2,AFCON2023,poor
+4753.0,Aaron Tshibola,4881,Congo DR,Left Defensive Midfield,0.0,0.0,0.0,9.0,66.7,8.0,0.0,0.0,0.0,6,AFCON2023,good
+6196.0,Yerry Fernando Mina González,769,Colombia,Center Back,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2,Copa2024,poor
+8784.0,Romano Schmid,915,Austria,Right Defensive Midfield,0.0,0.0,0.0,8.0,62.5,3.0,0.0,1.0,0.0,4,EURO2024,limited
+25142.0,Bruno Guimarães Rodriguez Moura,781,Brazil,Center Defensive Midfield,0.0,0.0,0.0,17.0,94.1,6.0,0.0,0.0,0.0,7,Copa2024,good
+29484.0,Jan Kuchta,912,Czech Republic,Left Center Forward,0.0,0.0,0.0,9.0,77.8,7.0,0.0,0.0,0.0,3,EURO2024,limited
+65719.0,Khuliso Johnson Mudau,4976,South Africa,Right Wing Back,0.0,0.0,0.0,38.0,78.9,9.0,0.0,2.0,3.0,7,AFCON2023,good
+80484.0,Iliman Ndiaye,787,Senegal,Right Midfield,0.33,0.05,0.3,4.3,50.0,2.7,0.0,1.3,0.0,5,AFCON2023,good
+5463.0,Luka Modrić,785,Croatia,Right Defensive Midfield,0.0,0.08,2.0,64.0,92.2,9.0,1.0,1.0,0.0,4,EURO2024,limited
+7104.0,Mathías Olivera Miramontes,783,Uruguay,Left Wing Back,0.0,0.0,0.0,2.5,58.4,5.0,0.0,0.0,0.0,7,Copa2024,good
+8246.0,Christian Pulisic,1839,United States,Left Wing Back,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,7,Copa2024,good
+10481.0,Aurélien Djani Tchouaméni,771,France,Center Defensive Midfield,0.0,0.08,2.3,66.8,91.9,10.8,0.3,0.0,1.3,6,EURO2024,good
+12758.0,Alejandro Romero Gamarra,3567,Paraguay,Center Attacking Midfield,0.0,0.0,0.0,7.0,71.4,6.0,1.0,0.0,0.0,3,Copa2024,limited
+39460.0,Nicolas Seiwald,915,Austria,Left Defensive Midfield,0.0,0.0,0.0,26.0,92.3,7.0,0.0,0.0,1.0,5,EURO2024,good
+47149.0,Iván Rodrigo Ramírez Segovia,3567,Paraguay,Right Back,0.0,0.0,0.0,13.0,84.6,1.0,2.0,0.0,0.0,1,Copa2024,poor
+48383.0,Abdülkerim Bardakcı,909,Turkey,Left Center Back,0.0,0.06,0.5,54.0,85.1,6.3,0.5,0.3,0.8,4,EURO2024,limited
+102722.0,Siyanda Xulu,4976,South Africa,Center Back,0.0,0.0,0.0,62.0,90.3,6.0,1.0,0.0,1.0,3,AFCON2023,limited
+131243.0,Deniz Undav,770,Germany,Center Attacking Midfield,0.0,0.0,0.0,2.0,50.0,5.0,0.0,0.0,0.0,2,EURO2024,poor
+134272.0,David Jurásek,912,Czech Republic,Left Wing Back,0.0,0.07,2.0,37.5,56.7,12.0,6.0,2.5,0.0,2,EURO2024,poor
+224628.0,Ali Ahmed,1833,Canada,Left Back,0.0,0.0,0.0,10.0,90.0,3.0,0.0,4.0,0.0,4,Copa2024,limited
+392153.0,Lamine Camara,787,Senegal,Left Center Midfield,0.5,0.03,0.5,27.0,76.8,18.0,1.0,0.0,0.0,4,AFCON2023,limited
+3205.0,Kyle Walker,768,England,Right Back,0.0,0.0,0.0,73.7,89.2,9.3,1.7,1.3,0.7,7,EURO2024,good
+6704.0,Theo Bernard François Hernández,771,France,Left Back,0.17,0.17,0.8,65.2,91.4,7.7,2.5,1.8,0.7,6,EURO2024,good
+8526.0,Weston McKennie,1839,United States,Right Defensive Midfield,0.0,0.14,1.0,3.0,66.7,4.0,0.0,1.0,0.0,7,Copa2024,good
+10534.0,Callum McGregor,942,Scotland,Left Defensive Midfield,0.0,0.01,0.3,35.7,92.4,12.0,0.3,0.0,0.0,5,EURO2024,good
+16184.0,Luis Fernando Sinisterra Lucumí,769,Colombia,Right Wing,0.0,0.0,0.0,6.0,83.3,1.0,0.0,0.0,0.0,3,Copa2024,limited
+30486.0,Pedro González López,772,Spain,Right Center Midfield,0.0,0.19,1.5,19.0,44.8,6.5,0.5,1.5,0.5,4,EURO2024,limited
+50442.0,Hamza Rafia,777,Tunisia,Right Midfield,1.0,0.36,1.0,12.0,58.3,20.0,1.0,0.0,0.0,2,AFCON2023,poor
+105936.0,Gilson Benchimol Tavares,4924,Cape Verde Islands,Center Forward,0.2,0.1,1.2,2.4,53.3,5.0,0.0,0.6,0.2,6,AFCON2023,good
+3265.0,José Luis Sanmartín Mato,772,Spain,Left Center Forward,0.0,0.0,0.0,3.0,66.7,3.0,0.0,0.0,0.0,2,EURO2024,poor
+7294.0,Yoane Wissa,4881,Congo DR,Left Midfield,1.0,1.05,6.0,22.0,68.2,4.0,1.0,1.0,0.0,7,AFCON2023,good
+11116.0,Jack Hendry,942,Scotland,Right Center Back,0.0,0.02,0.3,36.7,80.4,7.7,0.0,0.0,1.0,4,EURO2024,limited
+12306.0,Dodi Lukebakio,782,Belgium,Right Wing Back,0.0,0.0,0.0,4.0,50.0,2.0,0.0,0.0,0.0,3,EURO2024,limited
+23785.0,Théo Bongonda Mbul'Ofeko Batombo,4881,Congo DR,Right Wing,0.0,0.05,1.0,16.7,76.9,6.3,0.7,0.3,0.0,5,AFCON2023,good
+3042.0,Mikel Merino Zazón,772,Spain,Center Attacking Midfield,0.0,0.0,0.0,7.0,46.5,1.0,0.0,0.0,0.0,7,EURO2024,good
+3481.0,Serge Aurier,3374,Côte d'Ivoire,Right Back,0.2,0.16,0.4,41.8,77.8,6.8,1.8,1.2,1.2,5,AFCON2023,good
+15582.0,Donyell Malen,941,Netherlands,Right Wing,0.5,0.38,1.5,12.8,56.6,3.3,0.8,3.0,0.8,6,EURO2024,good
+32915.0,Ismail Jakobs,787,Senegal,Left Wing Back,0.0,0.07,1.0,41.0,61.0,34.0,3.0,1.0,4.0,5,AFCON2023,good
+34339.0,Giovanni Reyna,1839,United States,Left Center Midfield,0.0,0.02,0.3,15.7,87.0,4.3,0.7,1.0,0.0,6,Copa2024,good
+114832.0,Zeno Debast,782,Belgium,Left Center Back,0.0,0.0,0.0,97.0,90.7,8.0,0.0,0.0,1.0,2,EURO2024,poor
+7797.0,Rodrigo Javier De Paul,779,Argentina,Right Wing,0.0,0.0,0.0,2.0,50.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+10534.0,Callum McGregor,942,Scotland,Center Defensive Midfield,0.0,0.05,1.0,3.5,50.0,3.0,0.0,0.0,0.5,5,EURO2024,good
+16120.0,Richie Laryea,1833,Canada,Right Back,0.0,0.0,0.0,8.0,87.5,2.0,0.0,0.0,1.0,7,Copa2024,good
+24977.0,Christoph Baumgartner,915,Austria,Left Attacking Midfield,0.0,0.53,3.0,7.0,14.3,3.0,2.0,2.0,1.0,7,EURO2024,good
+43072.0,Jean-Philippe Krasso,3374,Côte d'Ivoire,Left Back,0.0,0.0,0.0,1.0,100.0,0.0,0.0,1.0,0.0,7,AFCON2023,good
+45557.0,Logan Costa,4924,Cape Verde Islands,Right Center Back,0.0,0.0,0.0,59.4,82.1,6.2,0.6,0.2,1.6,5,AFCON2023,good
+133038.0,João Paulo Moreira Fernandes,4924,Cape Verde Islands,Left Midfield,0.0,0.0,0.0,7.0,85.7,4.0,0.0,0.0,0.0,5,AFCON2023,good
+389291.0,Fiston Kalala Mayele,4881,Congo DR,Right Center Forward,0.0,0.0,0.0,2.0,0.0,8.0,0.0,0.0,0.0,5,AFCON2023,good
+10595.0,Raphael Dias Belloli,781,Brazil,Right Wing,0.33,0.27,2.3,30.0,64.9,11.3,2.7,2.7,0.3,6,Copa2024,good
+10826.0,Mert Müldür,909,Turkey,Right Back,0.5,0.23,1.5,51.0,84.5,3.5,0.5,2.0,0.0,5,EURO2024,good
+10955.0,Harry Kane,768,England,Center Forward,0.33,0.4,2.7,14.8,63.0,11.5,0.7,0.2,0.0,7,EURO2024,good
+15582.0,Donyell Malen,941,Netherlands,Left Wing,0.0,0.0,0.0,2.0,100.0,0.0,0.0,0.0,0.0,6,EURO2024,good
+17033.0,Mohammed Kudus,4885,Ghana,Center Attacking Midfield,1.0,0.19,4.0,25.0,84.0,8.0,1.0,4.0,0.0,3,AFCON2023,limited
+21026.0,Pape Gueye,787,Senegal,Right Center Midfield,0.0,0.0,0.0,4.0,100.0,2.0,0.0,0.0,0.0,4,AFCON2023,limited
+24024.0,Tajon Buchanan,1833,Canada,Right Wing Back,0.0,0.0,0.0,8.0,62.5,4.0,1.0,0.0,0.0,3,Copa2024,limited
+26375.0,Roberto Carlos Alvarado Hernández,794,Mexico,Right Wing,0.0,0.0,0.0,5.0,20.0,4.0,1.0,0.0,0.0,1,Copa2024,poor
+36706.0,Cristian Gonzalo Olivera Ibarra,783,Uruguay,Right Midfield,0.0,0.0,0.0,7.0,71.4,11.0,0.0,0.0,0.0,5,Copa2024,good
+70464.0,Mohanad Mostafa Lasheen,774,Egypt,Right Defensive Midfield,0.0,0.0,0.0,3.0,66.7,4.0,0.0,0.0,0.0,1,AFCON2023,poor
+133189.0,Luc Rollet De Fougerolles,1833,Canada,Right Center Back,0.0,0.06,1.0,16.0,87.5,10.0,0.0,0.0,0.0,1,Copa2024,poor
+223971.0,José Ángel Córdoba Chambers,798,Panama,Center Back,0.0,0.01,0.3,43.3,85.9,4.5,0.0,0.0,0.5,6,Copa2024,good
+13329.0,Silas Katompa Mvumpa,4881,Congo DR,Left Midfield,0.0,0.0,0.0,1.0,100.0,8.0,0.0,0.0,0.0,7,AFCON2023,good
+28415.0,Charles Pickel,4881,Congo DR,Left Defensive Midfield,0.0,0.0,0.0,7.0,95.5,2.0,0.0,0.0,0.0,7,AFCON2023,good
+29989.0,Yusuf Yazıcı,909,Turkey,Center Forward,0.0,0.08,0.5,4.5,77.5,5.0,0.0,0.0,0.0,3,EURO2024,limited
+49337.0,Josip Stanišić,785,Croatia,Right Back,0.0,0.11,0.5,65.0,83.0,13.0,1.0,1.5,1.5,3,EURO2024,limited
+66887.0,Hamdi Fathi,774,Egypt,Left Center Midfield,0.0,0.05,2.0,32.0,93.8,11.0,1.0,1.0,1.0,7,AFCON2023,good
+2954.0,Youri Tielemans,782,Belgium,Left Defensive Midfield,0.0,0.06,2.0,48.0,85.4,5.0,2.0,0.0,1.0,3,EURO2024,limited
+3009.0,Kylian Mbappé Lottin,771,France,Left Center Forward,0.0,0.07,1.0,13.5,42.6,3.5,0.0,1.0,0.0,7,EURO2024,good
+4354.0,Phil Foden,768,England,Left Wing,0.0,0.03,0.5,24.0,86.2,9.0,3.0,0.5,0.5,7,EURO2024,good
+6846.0,Andreas Hoelgebaum Pereira,781,Brazil,Left Center Midfield,0.0,0.0,0.0,7.0,17.9,6.5,0.0,0.0,0.0,5,Copa2024,good
+9000.0,Eberechi Eze,768,England,Left Attacking Midfield,0.0,0.0,0.0,4.0,100.0,0.0,0.0,0.0,0.0,6,EURO2024,good
+16308.0,Leandro Daniel Paredes,779,Argentina,Right Defensive Midfield,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,5,Copa2024,good
+29399.0,Conor Gallagher,768,England,Left Defensive Midfield,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,6,EURO2024,good
+3193.0,Bernardo Mota Veiga de Carvalho e Silva,780,Portugal,Center Attacking Midfield,0.5,0.42,1.0,29.5,97.3,6.5,0.0,1.0,0.0,7,EURO2024,good
+5202.0,José Ignacio Fernández Iglesias,772,Spain,Left Center Back,0.0,0.0,0.0,57.0,94.7,3.0,0.0,1.0,1.0,5,EURO2024,good
+5264.0,Guillermo Varela Olivera,783,Uruguay,Right Center Back,0.0,0.0,0.0,13.0,92.3,5.0,0.0,0.0,0.0,3,Copa2024,limited
+10540.0,Kieran Tierney,942,Scotland,Left Center Back,0.0,0.0,0.0,46.0,75.5,10.0,2.0,0.0,0.0,2,EURO2024,poor
+23758.0,Maxime Crépeau,1833,Canada,Goalkeeper,0.0,0.0,0.0,29.4,71.0,0.2,0.0,0.0,0.0,5,Copa2024,good
+30442.0,Altay Bayındır,909,Turkey,Goalkeeper,0.0,0.0,0.0,35.0,80.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+38792.0,Yunus Dimoara Musah,1839,United States,Left Center Midfield,0.0,0.0,0.0,12.0,83.3,8.0,0.0,1.0,0.0,3,Copa2024,limited
+39624.0,Francisco Fernandes Conceição,780,Portugal,Right Midfield,0.0,0.02,1.0,33.0,81.8,10.0,3.0,2.0,0.0,6,EURO2024,good
+3089.0,Kevin De Bruyne,782,Belgium,Left Defensive Midfield,0.0,0.02,0.5,31.5,78.2,8.0,0.5,0.5,0.0,7,EURO2024,good
+3500.0,Granit Xhaka,773,Switzerland,Left Defensive Midfield,0.0,0.03,0.8,81.2,89.7,13.8,0.0,0.4,0.6,5,EURO2024,good
+5246.0,Luis Alberto Suárez Díaz,783,Uruguay,Center Forward,0.67,0.55,1.7,6.7,68.2,2.0,0.0,0.3,0.0,4,Copa2024,limited
+16028.0,José Diogo Dalot Teixeira,780,Portugal,Right Center Back,0.0,0.02,1.0,32.0,100.0,1.0,0.0,0.0,0.0,3,EURO2024,limited
+16532.0,Daniel Olmo Carvajal,772,Spain,Right Wing,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7,EURO2024,good
+25142.0,Bruno Guimarães Rodriguez Moura,781,Brazil,Right Defensive Midfield,0.0,0.03,0.5,38.5,92.2,11.0,0.0,0.5,0.5,7,Copa2024,good
+26301.0,Ernesto Alexis Vega Rojas,794,Mexico,Left Midfield,0.0,0.0,0.0,5.0,60.0,1.0,0.0,0.0,0.0,2,Copa2024,poor
+27768.0,Lisandro Martínez,779,Argentina,Left Center Back,0.2,0.12,1.0,64.6,91.8,6.2,0.2,0.4,1.4,6,Copa2024,good
+149576.0,Semih Kılıçsoy,909,Turkey,Center Attacking Midfield,0.0,0.11,1.0,1.0,100.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+4870.0,Tomáš Souček,912,Czech Republic,Center Defensive Midfield,0.5,0.06,0.5,14.5,67.3,11.0,0.5,0.0,0.5,6,EURO2024,good
+10448.0,Adam Ounas,4898,Algeria,Left Wing,0.0,0.0,0.0,19.0,57.9,3.0,4.0,4.0,0.0,5,AFCON2023,good
+12365.0,Alphonso Davies,1833,Canada,Left Back,0.25,0.41,1.3,33.8,77.1,8.8,1.3,3.5,1.3,7,Copa2024,good
+16120.0,Richie Laryea,1833,Canada,Left Back,0.0,0.0,0.5,19.0,88.9,9.0,0.0,1.0,0.5,7,Copa2024,good
+21226.0,Tomáš Chorý,912,Czech Republic,Left Center Forward,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3,EURO2024,limited
+49395.0,Richard Rios Montoya,769,Colombia,Right Center Midfield,0.2,0.03,1.4,33.2,80.7,16.8,1.4,3.4,1.4,7,Copa2024,good
+50503.0,Sayfallah Ltaief,777,Tunisia,Right Wing,0.0,0.0,0.0,11.0,45.5,3.0,3.0,1.0,0.0,4,AFCON2023,limited
+3026.0,Adrien Rabiot,771,France,Left Midfield,0.0,0.19,1.0,65.0,95.4,6.0,2.0,2.0,0.0,5,EURO2024,good
+10002.0,Scott McKenna,942,Scotland,Left Center Back,0.0,0.03,0.7,30.3,80.0,3.7,0.0,0.0,0.7,3,EURO2024,limited
+46046.0,Matěj Kovář,912,Czech Republic,Goalkeeper,0.0,0.0,0.0,18.0,44.4,0.0,0.0,0.0,0.0,1,EURO2024,poor
+46258.0,Azzedine Ounahi,788,Morocco,Right Defensive Midfield,0.0,0.0,0.0,16.0,87.5,1.0,2.0,0.0,0.0,5,AFCON2023,good
+46258.0,Azzedine Ounahi,788,Morocco,Right Center Midfield,0.25,0.12,1.8,50.3,90.4,9.0,1.3,3.0,0.0,5,AFCON2023,good
+50498.0,Pape Matar Sarr,787,Senegal,Right Defensive Midfield,1.0,0.8,2.0,46.0,84.8,29.0,0.0,2.0,2.0,3,AFCON2023,limited
+4354.0,Phil Foden,768,England,Left Attacking Midfield,0.0,0.0,0.0,4.0,50.0,2.0,0.0,0.0,0.0,7,EURO2024,good
+12758.0,Alejandro Romero Gamarra,3567,Paraguay,Right Wing,0.0,0.0,0.0,4.0,75.0,5.0,0.0,1.0,0.0,3,Copa2024,limited
+24977.0,Christoph Baumgartner,915,Austria,Right Attacking Midfield,0.0,0.0,0.0,11.0,45.5,8.0,2.0,1.0,0.0,7,EURO2024,good
+34639.0,Vitor Machado Ferreira,780,Portugal,Left Defensive Midfield,0.0,0.27,2.0,107.0,90.7,9.0,0.0,1.0,0.0,4,EURO2024,limited
+41092.0,Nuno Mendes,780,Portugal,Left Back,0.33,0.31,0.7,91.7,89.4,12.0,3.3,5.0,2.0,5,EURO2024,good
+41266.0,Chris Richards,1839,United States,Left Center Back,0.0,0.0,0.0,3.0,66.7,2.0,0.0,0.0,0.0,4,Copa2024,limited
+42527.0,Sphephelo S''Miso Sithole,4976,South Africa,Left Defensive Midfield,0.0,0.05,0.8,45.3,82.4,17.0,0.2,1.5,0.5,7,AFCON2023,good
+6574.0,Douglas Luiz Soares de Paulo,781,Brazil,Center Defensive Midfield,0.0,0.0,0.0,1.0,100.0,2.0,0.0,0.0,0.0,4,Copa2024,limited
+23454.0,Petr Ševčík,912,Czech Republic,Right Attacking Midfield,0.0,0.11,1.0,3.0,66.7,1.0,0.0,0.0,0.0,3,EURO2024,limited
+36706.0,Cristian Gonzalo Olivera Ibarra,783,Uruguay,Right Wing Back,0.0,0.0,0.0,6.0,83.3,0.0,1.0,0.0,0.0,5,Copa2024,good
+48335.0,Mohamed Zeki Amdouni,773,Switzerland,Center Forward,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5,EURO2024,good
+,,1833,Canada,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,poor
+3450.0,Jordan Ayew,4885,Ghana,Left Wing,0.67,0.53,1.0,24.7,77.0,21.0,2.3,2.7,0.7,4,AFCON2023,limited
+3604.0,Olivier Giroud,771,France,Center Forward,0.0,0.05,0.7,4.3,61.9,3.3,0.0,0.0,0.0,4,EURO2024,limited
+5547.0,Alisson Ramsés Becker,781,Brazil,Goalkeeper,0.0,0.0,0.0,33.3,90.5,0.0,0.0,0.0,0.0,4,Copa2024,limited
+6685.0,Mikel Oyarzabal Ugarte,772,Spain,Right Center Forward,0.0,0.06,2.0,10.0,90.0,5.0,0.0,0.0,0.0,7,EURO2024,good
+8966.0,Kai Havertz,770,Germany,Right Center Forward,0.0,0.04,1.0,3.0,33.3,2.0,1.0,1.0,0.0,7,EURO2024,good
+23640.0,Jonathan David,1833,Canada,Center Attacking Midfield,0.33,0.45,1.7,22.3,82.9,17.0,0.3,1.0,0.0,7,Copa2024,good
+25104.0,Rodrygo Silva de Goes,781,Brazil,Center Forward,0.0,0.32,3.0,31.5,77.9,17.0,1.5,1.5,1.0,5,Copa2024,good
+33126.0,Israel Reyes Romero,794,Mexico,Right Center Back,0.0,0.0,0.0,34.0,100.0,4.0,0.0,0.0,0.0,1,Copa2024,poor
+35242.0,Maximilian Beier,770,Germany,Left Wing,0.0,0.0,0.0,4.0,75.0,2.0,0.0,1.0,0.0,2,EURO2024,poor
+36706.0,Cristian Gonzalo Olivera Ibarra,783,Uruguay,Right Wing,0.0,0.0,0.0,3.0,66.7,2.0,0.0,0.0,0.0,5,Copa2024,good
+38169.0,Lawrence Shankland,942,Scotland,Center Forward,0.0,0.0,0.0,1.0,50.0,6.5,0.0,0.0,0.0,4,EURO2024,limited
+39490.0,Luka Sučić,785,Croatia,Right Center Midfield,0.0,0.0,0.0,23.0,91.3,10.0,0.0,0.0,0.0,3,EURO2024,limited
+67974.0,Nkosinathi Sibisi,4976,South Africa,Left Center Back,1.0,0.78,1.0,76.0,90.8,8.0,0.0,0.0,1.0,2,AFCON2023,poor
+3814.0,Riyad Mahrez,4898,Algeria,Right Wing,0.0,0.02,0.3,22.3,79.1,5.0,1.7,1.0,0.3,4,AFCON2023,limited
+30714.0,Jude Bellingham,768,England,Left Defensive Midfield,0.0,0.0,0.0,9.0,100.0,1.0,0.0,1.0,0.0,7,EURO2024,good
+32450.0,Montassar Omar Talbi,777,Tunisia,Left Center Back,0.0,0.01,0.3,48.3,87.6,8.0,0.0,0.0,0.7,3,AFCON2023,limited
+41115.0,Alejandro Baena Rodríguez,772,Spain,Center Attacking Midfield,0.0,0.0,0.0,8.0,87.5,13.0,0.0,0.0,0.0,2,EURO2024,poor
+12555.0,Okay Yokuşlu,909,Turkey,Right Defensive Midfield,0.0,0.0,0.0,5.0,100.0,3.0,0.0,0.0,0.0,5,EURO2024,good
+26301.0,Ernesto Alexis Vega Rojas,794,Mexico,Right Center Midfield,0.0,0.0,0.0,20.0,65.0,1.0,0.0,1.0,0.0,2,Copa2024,poor
+32015.0,Hichem Boudaoui,4898,Algeria,Right Center Midfield,0.0,0.07,2.0,21.0,95.2,4.0,0.0,1.0,0.0,2,AFCON2023,poor
+39624.0,Francisco Fernandes Conceição,780,Portugal,Left Wing,0.0,0.0,0.0,9.0,100.0,0.0,0.0,1.0,0.0,6,EURO2024,good
+49337.0,Josip Stanišić,785,Croatia,Right Wing Back,0.0,0.0,0.0,4.0,50.0,2.0,0.0,0.0,0.0,3,EURO2024,limited
+64607.0,Zakhele Lerato Lepasa,4976,South Africa,Center Forward,0.25,0.39,0.5,4.0,55.4,2.8,0.5,0.0,0.0,7,AFCON2023,good
+5243.0,Amine Harit,788,Morocco,Right Wing,0.0,0.0,0.0,5.0,100.0,1.0,0.0,0.0,0.0,4,AFCON2023,limited
+9929.0,Diogo José Teixeira da Silva,780,Portugal,Left Wing,0.0,0.07,1.0,7.0,57.1,6.0,1.0,3.0,0.0,4,EURO2024,limited
+13315.0,Philipp Mwene,915,Austria,Left Back,0.0,0.0,0.0,36.3,85.6,9.0,3.0,1.0,0.3,3,EURO2024,limited
+15503.0,Jerdy Schouten,941,Netherlands,Center Defensive Midfield,0.0,0.0,0.0,11.0,63.6,6.0,0.0,0.0,1.0,7,EURO2024,good
+18639.0,Mathieu Choiniere,1833,Canada,Left Defensive Midfield,0.5,0.39,0.5,36.5,89.6,10.5,1.5,0.5,0.5,2,Copa2024,poor
+26152.0,Jacob Shaffelburg,1833,Canada,Right Midfield,0.0,0.02,1.0,4.0,75.0,10.0,1.0,2.0,0.0,7,Copa2024,good
+27702.0,Éderson José dos Santos Lourenço da Silva,781,Brazil,Right Defensive Midfield,0.0,0.0,0.0,14.0,92.9,8.0,0.0,1.0,0.0,1,Copa2024,poor
+28034.0,Lukáš Provod,912,Czech Republic,Right Center Midfield,0.0,0.0,0.0,18.0,72.2,10.0,0.0,1.0,1.0,5,EURO2024,good
+39420.0,Bradley Barcola,771,France,Left Wing,0.33,0.29,1.0,10.0,90.4,6.3,0.7,1.7,0.3,4,EURO2024,limited
+196109.0,Ousmane Diomande,3374,Côte d'Ivoire,Right Center Back,0.0,0.01,0.5,54.0,91.1,6.5,0.5,0.0,0.0,3,AFCON2023,limited
+3013.0,Nicolas Pépé,3374,Côte d'Ivoire,Center Forward,0.0,0.01,0.5,15.0,54.2,2.5,3.0,2.5,0.5,6,AFCON2023,good
+3557.0,Naïm Sliti,777,Tunisia,Center Attacking Midfield,0.0,0.01,1.0,11.0,72.7,5.0,2.0,0.0,0.0,2,AFCON2023,poor
+34339.0,Giovanni Reyna,1839,United States,Left Wing,0.0,0.0,0.0,23.0,73.9,13.0,1.0,4.0,0.0,6,Copa2024,good
+64629.0,Thabang Amod Monare,4976,South Africa,Right Defensive Midfield,0.5,0.39,0.5,12.5,88.4,1.5,0.0,0.0,1.0,4,AFCON2023,limited
+217047.0,Fares Chaïbi,4898,Algeria,Center Attacking Midfield,0.0,0.0,0.0,2.0,100.0,0.0,0.0,0.0,0.0,3,AFCON2023,limited
+363986.0,Jovani Francisco Welch Lopez,798,Panama,Left Defensive Midfield,0.0,0.02,1.5,35.0,92.9,17.0,0.0,1.5,1.0,4,Copa2024,limited
+3620.0,Scott McTominay,942,Scotland,Right Center Midfield,0.0,0.0,0.0,5.5,85.0,4.5,0.5,0.0,0.0,6,EURO2024,good
+8773.0,Marin Pongracic,785,Croatia,Left Center Back,0.0,0.0,0.0,61.5,90.2,13.5,0.0,0.5,1.5,3,EURO2024,limited
+131243.0,Deniz Undav,770,Germany,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,EURO2024,poor
+2988.0,Memphis Depay,941,Netherlands,Center Forward,0.0,0.24,1.8,21.5,62.7,9.5,0.8,1.0,0.3,7,EURO2024,good
+11456.0,Lautaro Javier Martínez,779,Argentina,Center Forward,1.5,0.59,2.5,9.5,72.9,10.5,0.0,2.5,0.0,6,Copa2024,good
+13329.0,Silas Katompa Mvumpa,4881,Congo DR,Right Midfield,0.0,0.3,1.0,3.0,66.7,4.0,0.0,2.0,1.0,7,AFCON2023,good
+13621.0,Danilo Luís Hélio Pereira,780,Portugal,Center Back,0.0,0.23,1.0,88.0,96.6,2.0,0.0,0.0,1.0,1,EURO2024,poor
+16001.0,Garry Mendes Rodrigues,4924,Cape Verde Islands,Right Wing,0.0,0.0,0.0,4.0,100.0,4.0,1.0,2.0,0.0,7,AFCON2023,good
+23615.0,Gideon Mensah,4885,Ghana,Left Back,0.0,0.0,0.0,47.3,77.3,14.0,1.7,0.7,1.7,4,AFCON2023,limited
+29976.0,Gabriel Teodoro Martinelli Silva,781,Brazil,Left Midfield,0.5,0.39,0.5,7.5,75.0,1.5,0.0,1.0,0.0,2,Copa2024,poor
+30486.0,Pedro González López,772,Spain,Center Attacking Midfield,0.0,0.23,1.5,27.0,93.3,24.0,0.0,0.5,0.5,4,EURO2024,limited
+32015.0,Hichem Boudaoui,4898,Algeria,Right Defensive Midfield,0.0,0.06,1.0,7.0,100.0,4.0,0.0,0.0,1.0,2,AFCON2023,poor
+33401.0,Amine Adli,788,Morocco,Right Midfield,0.0,0.17,1.0,13.7,85.6,5.7,1.0,0.0,0.0,5,AFCON2023,good
+224628.0,Ali Ahmed,1833,Canada,Right Wing,0.0,0.03,0.5,17.0,67.3,10.0,1.5,0.5,1.0,4,Copa2024,limited
+3347.0,André Ayew Pelé,4885,Ghana,Center Attacking Midfield,0.0,0.0,0.0,10.0,80.0,6.0,0.0,2.0,0.0,2,AFCON2023,poor
+4354.0,Phil Foden,768,England,Right Defensive Midfield,0.0,0.0,0.0,11.0,45.5,2.0,2.0,0.0,0.0,7,EURO2024,good
+8950.0,Orel Mangala,782,Belgium,Right Defensive Midfield,0.0,0.0,0.0,10.0,94.8,4.5,0.0,0.0,0.0,5,EURO2024,good
+18783.0,Omenuke Mfulu,4881,Congo DR,Left Defensive Midfield,0.0,0.0,0.0,5.0,80.0,1.0,1.0,0.0,0.0,2,AFCON2023,poor
+23256.0,Pedro Lomba Neto,780,Portugal,Left Wing Back,0.0,0.0,0.0,34.0,44.7,6.0,3.5,2.5,0.0,3,EURO2024,limited
+36706.0,Cristian Gonzalo Olivera Ibarra,783,Uruguay,Left Wing,0.0,0.0,0.0,9.5,68.0,10.0,2.0,0.5,0.0,5,Copa2024,good
+39565.0,Jamal Musiala,770,Germany,Left Center Midfield,0.0,0.06,1.0,3.0,66.7,2.0,1.0,0.0,0.0,7,EURO2024,good
+44305.0,César Rodolfo Blackman Camarena,798,Panama,Right Wing,0.33,0.06,1.3,17.7,80.4,10.0,0.7,1.0,0.0,5,Copa2024,good
+133003.0,Mihlali Samson Mayambela,4976,South Africa,Right Wing,0.0,0.17,1.0,9.0,83.4,5.0,0.5,0.5,0.0,7,AFCON2023,good
+179524.0,Carlos Miguel Pereira Fernandes,4924,Cape Verde Islands,Right Defensive Midfield,0.0,0.0,0.0,9.0,77.8,2.0,0.0,0.0,1.0,2,AFCON2023,poor
+20687.0,Nicolás Iván González,779,Argentina,Left Midfield,0.0,0.17,1.3,19.5,67.7,6.3,0.8,1.0,0.8,7,Copa2024,good
+27277.0,Jhon Adolfo Arias Andrade,769,Colombia,Right Wing,0.0,0.03,1.0,16.0,100.0,9.0,0.0,0.0,1.0,6,Copa2024,good
+28729.0,Diego Nicolás De La Cruz Arcosa,783,Uruguay,Center Attacking Midfield,0.0,0.04,1.0,29.3,69.9,12.7,2.0,0.3,0.3,7,Copa2024,good
+52129.0,Alejandro Garnacho Ferreyra,779,Argentina,Left Wing,0.0,0.12,2.0,22.0,81.8,8.0,0.0,3.0,1.0,1,Copa2024,poor
+3629.0,Sadio Mané,787,Senegal,Left Wing,0.0,0.2,1.0,39.5,74.9,17.0,4.0,3.0,1.0,5,AFCON2023,good
+7294.0,Yoane Wissa,4881,Congo DR,Right Wing,1.0,1.03,2.0,5.0,80.0,0.0,0.0,0.0,0.0,7,AFCON2023,good
+8246.0,Christian Pulisic,1839,United States,Left Center Midfield,0.0,0.0,0.0,13.0,53.8,10.0,1.0,0.0,0.0,7,Copa2024,good
+35432.0,Abdiel Armando Ayarza Cocanegra,798,Panama,Left Defensive Midfield,0.0,0.0,0.0,1.0,50.0,2.5,0.0,0.0,0.0,5,Copa2024,good
+39167.0,Xavi Simons,941,Netherlands,Right Wing,0.0,0.03,0.5,23.0,85.3,2.5,0.0,0.5,0.0,7,EURO2024,good
+3684.0,Cheikhou Kouyaté,787,Senegal,Center Defensive Midfield,0.0,0.0,0.0,9.0,88.9,6.0,0.0,0.0,0.0,1,AFCON2023,poor
+12407.0,Maximilian Mittelstädt,770,Germany,Left Back,0.0,0.04,1.3,55.3,84.5,8.3,5.0,0.5,0.5,4,EURO2024,limited
+16532.0,Daniel Olmo Carvajal,772,Spain,Left Midfield,0.0,0.0,0.0,10.0,80.0,2.0,1.0,3.0,0.0,7,EURO2024,good
+22212.0,Orkun Kökçü,909,Turkey,Left Defensive Midfield,0.0,0.0,0.0,26.5,36.8,7.0,1.0,1.0,0.5,7,EURO2024,good
+22379.0,Angus Gunn,942,Scotland,Goalkeeper,0.0,0.0,0.0,38.3,59.4,0.0,0.0,0.0,0.0,3,EURO2024,limited
+30714.0,Jude Bellingham,768,England,Left Wing,0.0,0.06,1.0,27.0,74.1,23.0,1.0,2.0,0.0,7,EURO2024,good
+31067.0,Billy Gilmour,942,Scotland,Right Defensive Midfield,0.0,0.04,1.0,50.5,85.5,14.0,0.0,1.0,0.0,3,EURO2024,limited
+32122.0,João Lucas de Souza Cardoso,1839,United States,Left Defensive Midfield,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,4,Copa2024,limited
+38345.0,Ramiz Larbi Zerrouki,4898,Algeria,Center Defensive Midfield,0.0,0.0,0.0,32.5,85.9,7.5,0.0,0.5,1.5,5,AFCON2023,good
+42106.0,Gonçalo Bernardo Inácio,780,Portugal,Left Center Back,0.0,0.02,0.5,74.5,83.7,11.0,0.5,2.0,0.5,2,EURO2024,poor
+6655.0,Fabián Ruiz Peña,772,Spain,Left Center Midfield,0.33,0.22,3.0,54.0,92.5,8.7,0.7,1.7,0.3,7,EURO2024,good
+8309.0,Michael Gregoritsch,915,Austria,Center Forward,0.0,0.0,0.0,5.3,50.9,7.3,0.3,0.0,0.0,5,EURO2024,good
+9085.0,Salih Özcan,909,Turkey,Right Center Midfield,0.0,0.0,0.0,7.0,71.4,8.0,0.0,0.0,1.0,5,EURO2024,good
+9478.0,Kenneth McLean,942,Scotland,Left Wing Back,0.0,0.0,0.0,7.0,71.4,1.0,0.0,0.0,0.0,4,EURO2024,limited
+12496.0,Christian Kouamé,3374,Côte d'Ivoire,Center Attacking Midfield,1.0,0.78,1.0,8.0,37.5,7.0,1.0,0.0,0.0,5,AFCON2023,good
+34339.0,Giovanni Reyna,1839,United States,Center Defensive Midfield,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,6,Copa2024,good
+65732.0,Mothobi Mvala,4976,South Africa,Left Center Back,0.33,0.26,0.3,50.3,85.3,8.3,0.0,0.0,1.7,6,AFCON2023,good
+6648.0,Aïssa Mandi,4898,Algeria,Right Center Back,0.0,0.16,1.0,71.0,94.3,2.7,0.0,0.0,0.0,3,AFCON2023,limited
+20750.0,Cody Mathès Gakpo,941,Netherlands,Left Midfield,0.0,0.07,1.0,0.0,0.0,1.0,0.0,0.0,0.0,7,EURO2024,good
+29201.0,Nahuel Molina Lucero,779,Argentina,Right Wing Back,0.0,0.0,0.0,4.0,35.7,0.5,0.5,0.0,0.5,7,Copa2024,good
+6846.0,Andreas Hoelgebaum Pereira,781,Brazil,Left Defensive Midfield,1.0,0.78,1.0,2.0,100.0,1.0,0.0,0.0,0.0,5,Copa2024,good
+10826.0,Mert Müldür,909,Turkey,Right Wing Back,0.0,0.0,0.0,23.0,72.9,10.0,0.7,0.7,1.7,5,EURO2024,good
+12555.0,Okay Yokuşlu,909,Turkey,Center Defensive Midfield,0.0,0.0,0.0,4.5,100.0,2.5,0.0,0.0,0.0,5,EURO2024,good
+12751.0,Tyler Adams,1839,United States,Left Defensive Midfield,0.0,0.0,0.0,8.0,75.0,2.0,0.0,0.0,1.0,5,Copa2024,good
+16559.0,Leandro Trossard,782,Belgium,Left Wing,0.0,0.07,2.0,13.0,61.5,7.0,1.0,0.0,0.0,5,EURO2024,good
+69563.0,Mohamed Abdelmonem,774,Egypt,Left Center Back,0.25,0.24,1.5,71.3,93.7,7.3,0.0,0.5,1.3,4,AFCON2023,limited
+70783.0,Omar Kamal Abdel Wahed,774,Egypt,Right Back,0.0,0.0,0.0,40.5,77.8,11.0,3.0,2.0,0.0,3,AFCON2023,limited
+3943.0,Declan Rice,768,England,Center Defensive Midfield,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7,EURO2024,good
+5691.0,Johan Andrés Mojica Palacio,769,Colombia,Left Back,0.0,0.01,0.2,52.5,79.3,8.2,2.3,0.7,1.2,7,Copa2024,good
+11603.0,Mario Pašalić,785,Croatia,Left Wing,0.0,0.0,0.0,10.0,70.0,5.0,1.0,1.0,0.0,3,EURO2024,limited
+31053.0,Santiago Tomás Giménez,794,Mexico,Center Forward,0.0,0.34,2.3,11.0,67.3,12.3,0.0,1.3,0.0,4,Copa2024,limited
+116587.0,Arda Güler,909,Turkey,Right Wing,0.0,0.05,2.0,41.0,82.9,16.0,1.0,3.0,2.0,7,EURO2024,good
+143864.0,Fermin Lopez Marin,772,Spain,Center Attacking Midfield,0.0,0.04,2.0,10.0,90.0,10.0,0.0,3.0,0.0,2,EURO2024,poor
+3313.0,Giovani Lo Celso,779,Argentina,Left Center Midfield,0.0,0.05,0.5,16.0,94.0,4.0,0.0,0.0,0.0,7,Copa2024,good
+4614.0,Antonee Robinson,1839,United States,Left Center Back,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5,Copa2024,good
+8506.0,Konrad Laimer,915,Austria,Right Wing,0.0,0.0,0.0,11.5,81.6,9.0,0.0,0.0,0.0,7,EURO2024,good
+10285.0,Stuart Armstrong,942,Scotland,Left Center Midfield,0.0,0.0,0.0,7.0,57.1,2.0,2.0,1.0,0.0,2,EURO2024,poor
+30357.0,Uğurcan Çakır,909,Turkey,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,EURO2024,poor
+40485.0,Ryan Isaac Mendes da Graça,4924,Cape Verde Islands,Right Wing,0.33,0.38,1.3,24.3,56.5,11.7,2.7,3.0,0.7,6,AFCON2023,good
+40761.0,Omar Marmoush,774,Egypt,Left Wing,0.0,0.03,1.3,12.7,61.2,7.3,0.7,4.7,0.3,7,AFCON2023,good
+44703.0,Alistair Johnston,1833,Canada,Right Back,0.0,0.0,0.2,44.2,76.5,14.4,0.8,0.4,1.4,7,Copa2024,good
+212489.0,Oumar Diakité,3374,Côte d'Ivoire,Right Wing,0.0,0.05,0.5,17.5,70.9,9.5,2.5,3.5,1.0,6,AFCON2023,good
+3289.0,Romelu Lukaku Menama,782,Belgium,Center Forward,0.0,0.57,3.3,14.3,74.9,3.3,0.3,1.0,0.3,5,EURO2024,good
+3325.0,Marko Arnautović,915,Austria,Center Forward,0.25,0.31,0.5,12.0,65.0,13.0,0.5,0.5,0.0,5,EURO2024,good
+16546.0,Joseph Paintsil,4885,Ghana,Right Wing,0.0,0.1,0.3,7.7,54.5,10.3,0.7,2.0,0.0,3,AFCON2023,limited
+24977.0,Christoph Baumgartner,915,Austria,Center Attacking Midfield,0.33,0.12,1.0,13.0,69.4,15.3,0.0,2.7,0.3,7,EURO2024,good
+3655.0,Andrew Robertson,942,Scotland,Left Wing Back,0.0,0.0,0.0,40.7,76.2,10.3,2.0,0.3,0.7,3,EURO2024,limited
+5651.0,Yassine Meriah,777,Tunisia,Right Center Back,0.0,0.1,0.7,57.7,82.4,9.3,0.0,0.3,1.3,3,AFCON2023,limited
+6846.0,Andreas Hoelgebaum Pereira,781,Brazil,Center Attacking Midfield,0.0,0.04,1.0,2.0,0.0,6.0,0.0,0.0,0.0,5,Copa2024,good
+10598.0,Jovane Eduardo Borges Cabral,4924,Cape Verde Islands,Left Midfield,0.0,0.03,1.0,23.0,87.0,13.0,1.0,3.0,0.0,7,AFCON2023,good
+26543.0,Derlis Alberto González Galeano,3567,Paraguay,Left Center Midfield,0.0,0.0,0.0,3.0,66.7,3.0,0.0,0.0,0.0,1,Copa2024,poor
+65853.0,Evidence Makgopa,4976,South Africa,Right Center Forward,0.5,0.12,1.0,7.0,64.3,4.0,0.0,0.5,0.5,7,AFCON2023,good
+389291.0,Fiston Kalala Mayele,4881,Congo DR,Center Forward,0.0,0.28,1.5,9.0,88.8,12.0,0.0,0.0,0.0,5,AFCON2023,good
+3042.0,Mikel Merino Zazón,772,Spain,Left Defensive Midfield,0.33,0.11,1.0,32.0,86.7,11.3,0.3,0.0,0.7,7,EURO2024,good
+5261.0,Mahmoud Ibrahim Hassan,774,Egypt,Left Midfield,0.5,0.14,2.0,13.0,85.9,3.5,1.0,1.0,0.5,6,AFCON2023,good
+8966.0,Kai Havertz,770,Germany,Center Forward,0.5,0.82,3.0,14.0,79.2,8.0,0.0,0.0,0.0,7,EURO2024,good
+12496.0,Christian Kouamé,3374,Côte d'Ivoire,Right Wing,0.0,0.25,2.0,15.0,60.0,6.0,2.0,2.0,0.0,5,AFCON2023,good
+12770.0,Jonathan Osorio,1833,Canada,Right Defensive Midfield,0.0,0.0,0.0,25.8,82.9,12.0,0.3,0.3,0.3,6,Copa2024,good
+28040.0,Jindřich Staněk,912,Czech Republic,Goalkeeper,0.0,0.0,0.0,24.7,71.3,0.0,0.0,0.0,0.0,3,EURO2024,limited
+113279.0,Freddy Elías Góndola Smith,798,Panama,Left Center Midfield,0.0,0.0,0.0,2.0,50.0,1.0,0.0,0.0,0.0,5,Copa2024,good
+3226.0,Bassem Srarfi,777,Tunisia,Right Midfield,0.0,0.0,0.0,3.0,33.3,3.0,1.0,0.0,0.0,2,AFCON2023,poor
+6374.0,Nélson Cabral Semedo,780,Portugal,Right Wing Back,0.0,0.23,2.0,17.0,94.1,2.0,0.0,2.0,0.0,4,EURO2024,limited
+8246.0,Christian Pulisic,1839,United States,Left Wing,0.5,0.11,2.0,26.0,86.3,6.0,1.5,1.5,0.0,7,Copa2024,good
+12496.0,Christian Kouamé,3374,Côte d'Ivoire,Left Wing,0.0,0.35,2.0,15.0,73.3,12.0,0.0,0.0,0.0,5,AFCON2023,good
+20016.0,Kléper Laveran Lima Ferreira,780,Portugal,Left Center Back,0.0,0.02,0.3,108.3,94.0,10.3,0.0,0.7,2.0,4,EURO2024,limited
+33281.0,Joshua Zirkzee,941,Netherlands,Center Attacking Midfield,0.0,0.0,0.0,2.0,50.0,2.0,0.0,0.0,0.0,2,EURO2024,poor
+65853.0,Evidence Makgopa,4976,South Africa,Center Forward,0.0,0.35,2.0,18.0,73.1,16.3,1.0,0.8,0.0,7,AFCON2023,good
+4909.0,Jeremie Boga,3374,Côte d'Ivoire,Center Forward,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,7,AFCON2023,good
+5574.0,Toni Kroos,770,Germany,Center Defensive Midfield,0.0,0.0,0.0,10.0,90.0,5.0,1.0,0.0,0.0,6,EURO2024,good
+8211.0,Benjamin Henrichs,770,Germany,Left Back,0.0,0.0,0.0,3.0,100.0,0.0,0.0,0.0,0.0,2,EURO2024,poor
+8950.0,Orel Mangala,782,Belgium,Left Defensive Midfield,0.0,0.0,0.0,16.0,98.1,2.7,0.0,0.3,1.0,5,EURO2024,good
+11990.0,Youssouf Fofana,771,France,Center Defensive Midfield,0.0,0.02,1.0,10.0,70.0,1.0,0.0,0.0,0.0,3,EURO2024,limited
+12603.0,Miguel Ángel Almirón Rejala,3567,Paraguay,Right Wing,0.0,0.0,0.0,9.5,65.9,12.5,0.5,1.0,0.5,3,Copa2024,limited
+36830.0,Joseph Scally,1839,United States,Right Wing Back,0.0,0.0,0.0,11.0,54.5,0.0,0.0,2.0,0.0,4,Copa2024,limited
+39490.0,Luka Sučić,785,Croatia,Right Wing,0.0,0.02,1.0,37.0,91.9,15.0,1.0,1.0,0.0,3,EURO2024,limited
+3382.0,Luke Shaw,768,England,Left Wing Back,0.0,0.0,0.0,36.0,86.1,4.0,1.0,0.0,1.0,3,EURO2024,limited
+10481.0,Aurélien Djani Tchouaméni,771,France,Left Defensive Midfield,0.0,0.1,3.0,107.0,96.3,13.0,1.0,0.0,1.0,6,EURO2024,good
+23828.0,Kamal Miller,1833,Canada,Left Center Back,0.0,0.0,0.0,15.5,37.1,3.0,0.0,0.0,0.5,2,Copa2024,poor
+27767.0,Matías Nicolás Rojas Romero,3567,Paraguay,Center Attacking Midfield,0.0,0.02,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1,Copa2024,poor
+35375.0,Julián Andrés Quiñones Quiñones,794,Mexico,Left Midfield,0.0,0.07,2.0,29.5,68.2,8.0,3.5,2.5,0.5,3,Copa2024,limited
+5237.0,Hakim Ziyech,788,Morocco,Right Midfield,0.33,0.1,2.3,39.7,76.7,7.3,3.3,2.0,1.0,3,AFCON2023,limited
+5562.0,Thomas Müller,770,Germany,Left Wing,0.0,0.0,0.0,12.0,66.7,1.0,2.0,0.0,0.0,3,EURO2024,limited
+8966.0,Kai Havertz,770,Germany,Right Wing,0.0,0.19,1.0,6.0,83.3,0.0,0.0,0.0,0.0,7,EURO2024,good
+18516.0,Habibou Mouhamadou Diallo,787,Senegal,Center Forward,0.5,0.41,1.3,11.5,82.5,20.0,0.0,0.3,1.3,4,AFCON2023,limited
+26152.0,Jacob Shaffelburg,1833,Canada,Left Midfield,0.0,0.05,1.0,9.5,18.8,7.5,2.0,0.5,0.0,7,Copa2024,good
+28413.0,Willy Afonso Semedo Johnson,4924,Cape Verde Islands,Right Wing,0.0,1.01,2.0,12.0,66.7,8.0,0.0,2.0,0.0,7,AFCON2023,good
+32122.0,João Lucas de Souza Cardoso,1839,United States,Center Defensive Midfield,0.0,0.0,0.0,12.5,74.7,10.0,0.0,0.0,0.0,4,Copa2024,limited
+40485.0,Ryan Isaac Mendes da Graça,4924,Cape Verde Islands,Right Midfield,0.5,0.15,1.0,33.5,83.6,8.5,1.0,3.0,0.0,6,AFCON2023,good
+64629.0,Thabang Amod Monare,4976,South Africa,Left Defensive Midfield,0.0,0.0,0.0,3.0,87.5,1.0,0.0,0.0,1.0,4,AFCON2023,limited
+87449.0,Damián Josué Bobadilla Benítez,3567,Paraguay,Right Defensive Midfield,0.0,0.02,1.0,25.0,80.0,19.0,0.0,0.0,0.0,5,Copa2024,good
+143854.0,António João Pereira Albuquerque Tavares Silva,780,Portugal,Right Center Back,0.0,0.09,0.5,34.0,93.7,3.0,0.0,0.0,0.0,2,EURO2024,poor
+2995.0,Ángel Fabián Di María Hernández,779,Argentina,Right Midfield,0.0,0.11,0.8,23.8,76.6,9.5,1.3,3.5,0.0,6,Copa2024,good
+3205.0,Kyle Walker,768,England,Right Center Back,0.0,0.0,0.0,57.0,82.9,8.0,0.7,0.7,1.3,7,EURO2024,good
+7023.0,Franck Yannick Kessié,3374,Côte d'Ivoire,Right Defensive Midfield,2.0,1.64,4.0,19.0,78.9,9.0,0.0,1.0,0.0,7,AFCON2023,good
+12751.0,Tyler Adams,1839,United States,Center Defensive Midfield,0.0,0.0,0.0,24.7,73.5,10.3,0.0,0.3,0.0,5,Copa2024,good
+35690.0,Sebastián Enzo Cáceres Ramos,783,Uruguay,Center Back,0.0,0.0,0.0,7.0,71.4,2.0,0.0,0.0,0.0,7,Copa2024,good
+39461.0,Cole Palmer,768,England,Right Wing,0.0,0.02,0.5,20.5,77.8,1.5,2.5,1.0,0.0,7,EURO2024,good
+39624.0,Francisco Fernandes Conceição,780,Portugal,Left Wing Back,0.0,0.0,0.0,15.0,80.0,4.0,2.0,0.0,0.0,6,EURO2024,good
+50968.0,Erickson Patrick Correia Andrade,4924,Cape Verde Islands,Left Center Midfield,0.0,0.0,0.0,29.0,72.4,15.0,0.0,0.0,0.0,4,AFCON2023,limited
+196109.0,Ousmane Diomande,3374,Côte d'Ivoire,Center Back,0.0,0.0,0.0,16.0,87.5,3.0,0.0,0.0,0.0,3,AFCON2023,limited
+8116.0,Václav Černý,912,Czech Republic,Right Attacking Midfield,0.0,0.56,2.0,34.0,76.5,6.0,2.0,2.0,1.0,1,EURO2024,poor
+29201.0,Nahuel Molina Lucero,779,Argentina,Right Back,0.0,0.03,0.2,36.8,74.7,7.2,0.4,1.0,0.6,7,Copa2024,good
+33281.0,Joshua Zirkzee,941,Netherlands,Right Back,0.0,0.0,0.0,1.0,100.0,0.0,0.0,0.0,0.0,2,EURO2024,poor
+33401.0,Amine Adli,788,Morocco,Left Midfield,0.0,0.0,0.0,2.0,50.0,3.0,0.0,0.0,0.0,5,AFCON2023,good
+65750.0,Terrence Mashego,4976,South Africa,Left Back,0.0,0.0,0.0,5.0,80.0,4.0,0.0,0.0,1.0,2,AFCON2023,poor
+224628.0,Ali Ahmed,1833,Canada,Right Midfield,0.0,0.0,0.0,9.0,88.9,3.0,1.0,0.0,0.0,4,Copa2024,limited
+3961.0,N'Golo Kanté,771,France,Right Center Midfield,0.0,0.04,0.8,39.0,89.7,17.0,0.0,0.5,1.0,7,EURO2024,good
+4354.0,Phil Foden,768,England,Right Attacking Midfield,0.0,0.13,2.0,58.5,89.1,22.0,1.5,3.5,0.0,7,EURO2024,good
+5260.0,Rodrigo Bentancur Colmán,783,Uruguay,Left Defensive Midfield,0.0,0.0,0.0,2.0,100.0,4.0,0.0,1.0,0.0,7,Copa2024,good
+9195.0,Robert Andrich,770,Germany,Right Defensive Midfield,0.0,0.06,1.4,45.6,88.0,12.2,0.6,0.0,0.2,6,EURO2024,good
+35441.0,David Doudera,912,Czech Republic,Left Wing Back,0.0,0.0,0.0,25.0,72.0,16.0,1.0,2.0,1.0,2,EURO2024,poor
+4870.0,Tomáš Souček,912,Czech Republic,Left Defensive Midfield,0.0,0.07,1.0,6.0,100.0,5.0,0.0,0.0,1.0,6,EURO2024,good
+6773.0,Federico Santiago Valverde Dipetta,783,Uruguay,Right Center Midfield,0.67,0.55,2.0,28.7,84.1,9.7,0.0,0.7,0.0,7,Copa2024,good
+8240.0,Koen Casteels,782,Belgium,Goalkeeper,0.0,0.0,0.0,36.0,81.1,0.0,0.0,0.0,0.0,4,EURO2024,limited
+23363.0,Liam Millar,1833,Canada,Right Center Midfield,0.0,0.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+23454.0,Petr Ševčík,912,Czech Republic,Right Midfield,0.0,0.0,0.0,2.0,50.0,0.0,0.0,0.0,0.0,3,EURO2024,limited
+33297.0,Patrick Wimmer,915,Austria,Right Midfield,0.0,0.0,0.0,7.0,71.4,5.0,0.0,0.0,0.0,4,EURO2024,limited
+35690.0,Sebastián Enzo Cáceres Ramos,783,Uruguay,Right Back,0.0,0.0,0.0,16.0,68.8,11.0,1.0,0.0,0.0,7,Copa2024,good
+41092.0,Nuno Mendes,780,Portugal,Left Wing Back,0.0,0.05,1.0,17.0,94.1,9.0,0.0,3.0,0.0,5,EURO2024,good
+49395.0,Richard Rios Montoya,769,Colombia,Right Midfield,0.0,0.0,0.0,3.0,66.7,2.0,0.0,2.0,0.0,7,Copa2024,good
+202037.0,Thapelo Maseko,4976,South Africa,Left Midfield,0.0,0.0,0.5,12.0,65.0,13.5,1.5,3.0,0.5,5,AFCON2023,good
+217047.0,Fares Chaïbi,4898,Algeria,Right Center Midfield,0.0,0.1,2.0,49.0,75.5,12.0,2.0,0.0,0.0,3,AFCON2023,limited
+383250.0,Moise Bombito,1833,Canada,Center Back,0.0,0.0,0.0,9.0,100.0,1.0,0.0,0.0,0.0,7,Copa2024,good
+3359.0,Jean Michaël Seri,3374,Côte d'Ivoire,Left Defensive Midfield,0.0,0.0,0.0,74.0,85.1,18.0,0.0,2.0,1.0,4,AFCON2023,limited
+5538.0,Denis Lemi Zakaria Lako Lado,773,Switzerland,Right Attacking Midfield,0.0,0.0,0.0,7.0,100.0,7.0,0.0,0.0,0.0,1,EURO2024,poor
+6574.0,Douglas Luiz Soares de Paulo,781,Brazil,Right Defensive Midfield,0.0,0.78,1.0,7.0,100.0,0.0,0.0,0.0,0.0,4,Copa2024,limited
+8309.0,Michael Gregoritsch,915,Austria,Left Center Forward,1.0,0.82,4.0,9.0,33.3,5.0,0.0,0.0,0.0,5,EURO2024,good
+24118.0,Nico Schlotterbeck,770,Germany,Substitute,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,EURO2024,limited
+28914.0,Lovro Majer,785,Croatia,Left Center Midfield,0.0,0.0,0.0,19.0,94.7,9.0,0.0,0.0,0.0,5,EURO2024,good
+30693.0,Majeed Ashimeru,4885,Ghana,Left Defensive Midfield,0.0,0.04,1.0,33.0,78.8,15.0,0.0,0.0,2.0,3,AFCON2023,limited
