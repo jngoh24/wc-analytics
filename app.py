@@ -20,6 +20,9 @@ st.set_page_config(
 
 inject_css()
 
+with st.sidebar:
+    st.markdown("## ⚽ wc-analytics")
+
 # ── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## ⚽ wc-analytics")
