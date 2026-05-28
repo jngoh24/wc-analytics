@@ -1,194 +1,202 @@
 """
-GradientSports-inspired hybrid theme for the wc-analytics Streamlit dashboard.
-Dark header/nav + light body for data readability.
+Athletic-inspired theme for wc-analytics — matches the HSR dashboard exactly.
+Source Serif 4 + Inter + JetBrains Mono · #f7f7f5 background · white cards
 """
 
-ACCENT   = "#4ade9a"
-DARK_BG  = "#0d0d0d"
-DARK_CARD= "#1a1a1a"
-DARK_BORDER = "#2a2a2a"
-DARK_TEXT= "#ffffff"
-DARK_MUTED = "#888888"
-POSITIVE = "#16a34a"
-NEGATIVE = "#dc2626"
+# Plot theme constants
+PLOT_BG    = "#ffffff"
+PAPER_BG   = "#f7f7f5"
+GRID_COLOR = "#eeeeec"
+TEXT_COLOR = "#666666"
+ACCENT     = "#1a6b3c"
+BLUE       = "#1a4b8c"
+RED        = "#c0392b"
+AMBER      = "#b7791f"
+GREEN      = "#1a6b3c"
+POSITIVE   = "#1a6b3c"
+NEGATIVE   = "#c0392b"
+
+PLOT_LAYOUT = dict(
+    paper_bgcolor=PAPER_BG,
+    plot_bgcolor=PLOT_BG,
+    font=dict(family="Inter, sans-serif", size=12, color=TEXT_COLOR),
+    margin=dict(l=0, r=0, t=10, b=10),
+    xaxis=dict(showgrid=True, gridcolor=GRID_COLOR, linecolor=GRID_COLOR),
+    yaxis=dict(showgrid=True, gridcolor=GRID_COLOR, linecolor=GRID_COLOR),
+)
 
 CSS = """
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
-* { font-family: 'Inter', sans-serif; }
+html, body, [class*="css"] {
+    font-family: 'Inter', system-ui, sans-serif;
+    color: #1a1a1a;
+}
+.stApp { background-color: #f7f7f5; }
+
+/* ── Sidebar ── */
+section[data-testid="stSidebar"] {
+    background-color: #ffffff;
+    border-right: 1px solid #e5e5e3;
+}
+section[data-testid="stSidebar"] * { color: #1a1a1a !important; }
+
+/* ── Hide Streamlit chrome ── */
 #MainMenu, footer, header { visibility: hidden; }
-.block-container { padding-top: 0 !important; max-width: 1200px; }
-[data-testid="stSidebar"] { background: #0d0d0d; }
-[data-testid="stSidebar"] * { color: #ccc !important; }
+.block-container { padding-top: 1rem !important; max-width: 1200px; }
 
-.gs-header {
-    background: #0d0d0d;
-    padding: 14px 0px;
-    display: flex;
-    align-items: center;
-    gap: 28px;
-    margin-bottom: 0;
-    border-bottom: 0.5px solid #2a2a2a;
+/* ── Headers ── */
+h1 {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: 600; font-size: 28px; color: #111111;
+    letter-spacing: -0.01em; line-height: 1.2;
 }
-.gs-logo {
-    font-size: 15px;
-    font-weight: 600;
-    color: #4ade9a;
-    letter-spacing: -0.3px;
-    margin-right: auto;
+h2, h3, h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600; color: #111111; letter-spacing: -0.01em;
 }
-.gs-nav-item {
-    font-size: 13px;
-    color: #888;
-    padding-bottom: 2px;
+h3 { font-size: 16px; }
+h4 { font-size: 14px; font-weight: 500; color: #444; }
+
+/* ── Metric cards ── */
+[data-testid="metric-container"] {
+    background-color: #ffffff;
+    border: 1px solid #e5e5e3;
+    border-radius: 4px;
+    padding: 16px 20px;
+    box-shadow: none;
 }
-.gs-nav-active {
-    font-size: 13px;
-    color: white;
-    border-bottom: 1.5px solid #4ade9a;
-    padding-bottom: 2px;
+[data-testid="metric-container"] label {
+    font-size: 11px; font-weight: 500; color: #888 !important;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    font-family: 'Inter', sans-serif;
 }
-.gs-hero {
-    background: #111;
-    padding: 20px 0px 24px;
-    margin-bottom: 1.5rem;
-    border-bottom: 0.5px solid #2a2a2a;
+[data-testid="metric-container"] [data-testid="stMetricValue"] {
+    font-size: 26px; font-weight: 600; color: #111 !important;
+    font-family: 'Source Serif 4', serif;
 }
-.gs-hero-title {
-    font-size: 20px;
-    font-weight: 600;
-    color: #fff;
-    margin: 0 0 4px;
+
+/* ── Tabs ── */
+.stTabs [data-baseweb="tab-list"] {
+    background-color: transparent;
+    border-bottom: 2px solid #e5e5e3;
+    gap: 0; padding-bottom: 0;
 }
-.gs-hero-sub {
-    font-size: 12px;
-    color: #888;
-    margin: 0 0 16px;
+.stTabs [data-baseweb="tab"] {
+    background-color: transparent; color: #888;
+    font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 500;
+    padding: 8px 20px; border-radius: 0;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
 }
-.gs-kpi-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+.stTabs [aria-selected="true"] {
+    background-color: transparent !important;
+    color: #111 !important;
+    border-bottom: 2px solid #111 !important;
 }
-.gs-kpi {
-    background: #1a1a1a;
-    border-radius: 8px;
-    padding: 12px 14px;
-    border: 0.5px solid #2a2a2a;
+
+/* ── Selectbox / inputs ── */
+[data-baseweb="select"] { border-radius: 4px !important; }
+[data-testid="stSelectbox"] label,
+[data-testid="stMultiSelect"] label {
+    font-size: 12px; font-weight: 500; color: #444 !important;
+    text-transform: uppercase; letter-spacing: 0.05em;
 }
-.gs-kpi-label {
-    font-size: 10px;
-    color: #555;
-    margin: 0 0 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+
+/* ── Buttons ── */
+.stButton > button {
+    background-color: #111; color: #fff;
+    border: none; border-radius: 4px;
+    font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 500;
+    padding: 8px 20px;
 }
-.gs-kpi-value {
-    font-size: 22px;
-    font-weight: 600;
-    color: #fff;
-    margin: 0;
+.stButton > button:hover { background-color: #333; }
+
+/* ── Utility classes ── */
+.eyebrow {
+    font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600;
+    color: #888; text-transform: uppercase; letter-spacing: 0.08em;
 }
-.gs-kpi-sub { font-size: 11px; color: #4ade9a; margin-top: 2px; }
-.gs-kpi-sub-neg { font-size: 11px; color: #f87171; margin-top: 2px; }
-.gs-source { font-size: 11px; color: #9ca3af; margin-top: 8px; }
-.gs-source span { color: #4ade9a; }
-.delta-pos { color: #16a34a; font-weight: 500; }
-.delta-neg { color: #dc2626; font-weight: 500; }
-.section-title {
-    font-size: 15px;
-    font-weight: 600;
-    color: #111;
-    margin: 1.5rem 0 0.75rem;
-    padding-bottom: 6px;
-    border-bottom: 2px solid #4ade9a;
-    display: inline-block;
+.kicker {
+    font-family: 'Source Serif 4', serif;
+    font-size: 13px; font-style: italic; color: #555;
 }
-.badge-tracking {
-    background: #f0fdf4; color: #15803d;
-    border: 0.5px solid #bbf7d0;
-    padding: 2px 8px; border-radius: 4px; font-size: 11px;
+.threshold-badge {
+    display: inline-block; background: #111; color: #fff;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px; padding: 3px 10px;
+    border-radius: 3px; letter-spacing: 0.02em;
 }
-.badge-event {
-    background: #eff6ff; color: #1d4ed8;
-    border: 0.5px solid #bfdbfe;
-    padding: 2px 8px; border-radius: 4px; font-size: 11px;
+.gained-badge {
+    display: inline-block; background: #e8f5e9; color: #2e7d32;
+    font-size: 11px; font-weight: 600; padding: 2px 8px;
+    border-radius: 3px; font-family: 'Inter', sans-serif;
 }
-.badge-none {
-    background: #f9fafb; color: #9ca3af;
-    border: 0.5px solid #e5e7eb;
-    padding: 2px 8px; border-radius: 4px; font-size: 11px;
+.lost-badge {
+    display: inline-block; background: #fce4e4; color: #c62828;
+    font-size: 11px; font-weight: 600; padding: 2px 8px;
+    border-radius: 3px; font-family: 'Inter', sans-serif;
 }
-.gs-data-table {
-    width: 100%; border-collapse: collapse;
-    font-size: 13px; font-family: Inter, sans-serif;
+.section-divider {
+    border: none; border-top: 1px solid #e5e5e3; margin: 1.5rem 0;
 }
-.gs-data-table th {
-    background: #f9fafb; color: #6b7280; font-weight: 500;
-    padding: 8px 10px; text-align: left;
-    border-bottom: 1px solid #e5e7eb;
-    font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px;
-    white-space: nowrap;
+.data-source {
+    font-family: 'Inter', sans-serif; font-size: 11px; color: #aaa;
+    margin-top: 8px;
 }
-.gs-data-table td {
-    padding: 8px 10px; border-bottom: 0.5px solid #f3f4f6;
-    color: #111; white-space: nowrap;
-}
-.gs-data-table tr:hover td { background: #f9fafb; }
-.gs-data-table tr:last-child td { border-bottom: none; }
 </style>
 """
 
 
-def render_header(active: str = "Leaderboard"):
+def inject_css():
+    """Inject the Athletic theme CSS. Call at top of every page."""
     import streamlit as st
-    pages = [
-        ("Leaderboard", "Leaderboard"),
-        ("Team", "Team"),
-        ("Player", "Player"),
-        ("Predicted", "Predicted"),
-    ]
-    nav_links = "".join(
-        f'<span class="{"gs-nav-active" if label == active else "gs-nav-item"}">{label}</span>'
-        for _, label in pages
-    )
-    # Inject CSS separately first
     st.markdown(CSS, unsafe_allow_html=True)
-    # Then inject header HTML separately
-    st.markdown(f"""
-    <div class="gs-header">
-        <span class="gs-logo">● wc-analytics</span>
-        {nav_links}
-    </div>
-    """, unsafe_allow_html=True)
 
-def hero(title: str, subtitle: str, kpis: list):
+
+def page_header(title: str, subtitle: str = ""):
+    """Render an Athletic-style page header with Source Serif 4."""
     import streamlit as st
-    kpi_html = "".join(f"""
-        <div class="gs-kpi">
-            <p class="gs-kpi-label">{k['label']}</p>
-            <p class="gs-kpi-value">{k['value']}</p>
-            <p class="{'gs-kpi-sub-neg' if k.get('negative') else 'gs-kpi-sub'}">{k.get('sub', '')}</p>
-        </div>
-    """ for k in kpis)
-    st.markdown(f"""
-    <div class="gs-hero">
-        <p class="gs-hero-title">{title}</p>
-        <p class="gs-hero-sub">{subtitle}</p>
-        <div class="gs-kpi-grid">{kpi_html}</div>
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown(CSS, unsafe_allow_html=True)
+    st.markdown(f"# {title}")
+    if subtitle:
+        st.markdown(f'<p class="kicker">{subtitle}</p>', unsafe_allow_html=True)
+    st.markdown('<hr class="section-divider">', unsafe_allow_html=True)
+
+
+def kpi_row(kpis: list):
+    """
+    Render a row of KPI metrics using st.metric (styled by CSS above).
+    kpis: list of dicts with keys: label, value, delta (optional)
+    """
+    import streamlit as st
+    cols = st.columns(len(kpis))
+    for col, k in zip(cols, kpis):
+        with col:
+            st.metric(
+                label=k["label"],
+                value=k["value"],
+                delta=k.get("delta"),
+            )
 
 
 def source_note(tracking: bool = True, event: bool = True):
+    """Render data source attribution."""
     import streamlit as st
     parts = []
     if tracking:
-        parts.append("Tracking data via <span>GradientSports</span>")
+        parts.append("GradientSports tracking data")
     if event:
-        parts.append("Events via <span>StatsBomb</span> open data")
+        parts.append("StatsBomb open data")
     st.markdown(
-        f'<p class="gs-source">{"  ·  ".join(parts)}</p>',
+        f'<p class="data-source">Data: {"  ·  ".join(parts)}</p>',
         unsafe_allow_html=True
     )
+
+
+def plotly_base(height: int = 400, **overrides) -> dict:
+    """Return a base Plotly layout dict matching the Athletic theme."""
+    layout = {**PLOT_LAYOUT, "height": height}
+    layout.update(overrides)
+    return layout
