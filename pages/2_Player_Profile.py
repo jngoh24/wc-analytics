@@ -140,7 +140,7 @@ with tab1:
             yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
             font=dict(family="Inter, sans-serif", size=12),
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     # Position comparison
     st.markdown("**How this player compares to position peers**")
@@ -169,7 +169,7 @@ with tab1:
             yaxis=dict(showgrid=True, gridcolor="#f3f4f6", title="Players"),
             font=dict(family="Inter, sans-serif", size=12),
         )
-        st.plotly_chart(fig2, use_container_width=True)
+        st.plotly_chart(fig2, width="stretch")
 
     source_note(tracking=True, event=False)
 
@@ -213,6 +213,6 @@ with tab2:
                 yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                 font=dict(family="Inter, sans-serif", size=12),
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
     source_note(tracking=True, event=sb_available)
