@@ -20,8 +20,12 @@ st.set_page_config(
 
 inject_css()
 
-with st.sidebar:
-    st.markdown("## ⚽ wc-analytics")
+page = st.radio(
+    "",
+    ["🏆 Leaderboard", "🔍 Team Deep Dive", "👤 Player Profile", "🔮 WC26 Predicted"],
+    horizontal=True,
+    label_visibility="collapsed"
+)
 
 # ── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
