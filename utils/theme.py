@@ -143,18 +143,25 @@ CSS = """
 
 def render_header(active: str = "Leaderboard"):
     import streamlit as st
-    pages = ["Leaderboard", "Team", "Player", "Predicted"]
+    pages = [
+        ("Leaderboard", "Leaderboard"),
+        ("Team", "Team"),
+        ("Player", "Player"),
+        ("Predicted", "Predicted"),
+    ]
     nav_links = "".join(
-        f'<span class="{"gs-nav-active" if p == active else "gs-nav-item"}">{p}</span>'
-        for p in pages
+        f'<span class="{"gs-nav-active" if label == active else "gs-nav-item"}">{label}</span>'
+        for _, label in pages
     )
-    st.markdown(CSS + f"""
+    # Inject CSS separately first
+    st.markdown(CSS, unsafe_allow_html=True)
+    # Then inject header HTML separately
+    st.markdown(f"""
     <div class="gs-header">
         <span class="gs-logo">● wc-analytics</span>
         {nav_links}
     </div>
     """, unsafe_allow_html=True)
-
 
 def hero(title: str, subtitle: str, kpis: list):
     import streamlit as st
