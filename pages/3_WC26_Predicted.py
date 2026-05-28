@@ -111,7 +111,7 @@ if stat_col in predicted.columns:
         showlegend=False,
         font=dict(family="Inter, sans-serif", size=12),
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Full table
     st.markdown('<p class="section-title">Full Predicted Stats Table</p>', unsafe_allow_html=True)
