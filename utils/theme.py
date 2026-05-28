@@ -128,17 +128,19 @@ CSS = f"""
 def render_header(active: str = "Leaderboard"):
     import streamlit as st
     pages = [
-        ("", "Leaderboard"),
-        ("Team_Deep_Dive", "Team"),
-        ("Player_Profile", "Player"),
-        ("WC26_Predicted", "Predicted"),
+        ("Leaderboard", "Leaderboard"),
+        ("Team", "Team"),
+        ("Player", "Player"),
+        ("Predicted", "Predicted"),
     ]
     nav_links = "".join(
         f'<span class="{"gs-nav-active" if label == active else "gs-nav-item"}">{label}</span>'
         for _, label in pages
     )
+    # Inject CSS separately first
+    st.markdown(CSS, unsafe_allow_html=True)
+    # Then inject header HTML separately
     st.markdown(f"""
-    {CSS}
     <div class="gs-header">
         <span class="gs-logo">● wc-analytics</span>
         {nav_links}
