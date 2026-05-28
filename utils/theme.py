@@ -3,144 +3,152 @@ GradientSports-inspired hybrid theme for the wc-analytics Streamlit dashboard.
 Dark header/nav + light body for data readability.
 """
 
-ACCENT       = "#4ade9a"
-ACCENT_DARK  = "#16a34a"
-DARK_BG      = "#0d0d0d"
-DARK_CARD    = "#1a1a1a"
-DARK_BORDER  = "#2a2a2a"
-DARK_TEXT    = "#ffffff"
-DARK_MUTED   = "#888888"
-POSITIVE     = "#16a34a"
-NEGATIVE     = "#dc2626"
+ACCENT   = "#4ade9a"
+DARK_BG  = "#0d0d0d"
+DARK_CARD= "#1a1a1a"
+DARK_BORDER = "#2a2a2a"
+DARK_TEXT= "#ffffff"
+DARK_MUTED = "#888888"
+POSITIVE = "#16a34a"
+NEGATIVE = "#dc2626"
 
-CSS = f"""
+CSS = """
 <style>
-#MainMenu, footer, header {{ visibility: hidden; }}
-.block-container {{ padding-top: 0 !important; max-width: 1200px; }}
-[data-testid="stSidebar"] {{ background: {DARK_BG}; }}
-[data-testid="stSidebar"] * {{ color: #ccc !important; }}
-[data-testid="stSidebarNav"] {{ display: none; }}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
-.gs-header {{
-    background: {DARK_BG};
-    padding: 14px 28px;
+* { font-family: 'Inter', sans-serif; }
+#MainMenu, footer, header { visibility: hidden; }
+.block-container { padding-top: 0 !important; max-width: 1200px; }
+[data-testid="stSidebar"] { background: #0d0d0d; }
+[data-testid="stSidebar"] * { color: #ccc !important; }
+
+.gs-header {
+    background: #0d0d0d;
+    padding: 14px 0px;
     display: flex;
     align-items: center;
     gap: 28px;
-    margin: -1rem -1rem 0 -1rem;
-    border-bottom: 0.5px solid {DARK_BORDER};
-}}
-.gs-logo {{
+    margin-bottom: 0;
+    border-bottom: 0.5px solid #2a2a2a;
+}
+.gs-logo {
     font-size: 15px;
     font-weight: 600;
-    color: {ACCENT};
+    color: #4ade9a;
     letter-spacing: -0.3px;
     margin-right: auto;
-}}
-.gs-nav-item {{
+}
+.gs-nav-item {
     font-size: 13px;
-    color: {DARK_MUTED};
-    text-decoration: none;
+    color: #888;
     padding-bottom: 2px;
-}}
-.gs-nav-active {{
+}
+.gs-nav-active {
     font-size: 13px;
     color: white;
-    text-decoration: none;
-    border-bottom: 1.5px solid {ACCENT};
+    border-bottom: 1.5px solid #4ade9a;
     padding-bottom: 2px;
-}}
-.gs-hero {{
+}
+.gs-hero {
     background: #111;
-    padding: 20px 28px 24px;
-    margin: 0 -1rem 1.5rem -1rem;
-    border-bottom: 0.5px solid {DARK_BORDER};
-}}
-.gs-hero-title {{
+    padding: 20px 0px 24px;
+    margin-bottom: 1.5rem;
+    border-bottom: 0.5px solid #2a2a2a;
+}
+.gs-hero-title {
     font-size: 20px;
     font-weight: 600;
-    color: {DARK_TEXT};
+    color: #fff;
     margin: 0 0 4px;
-}}
-.gs-hero-sub {{
+}
+.gs-hero-sub {
     font-size: 12px;
-    color: {DARK_MUTED};
+    color: #888;
     margin: 0 0 16px;
-}}
-.gs-kpi-grid {{
+}
+.gs-kpi-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
-}}
-.gs-kpi {{
-    background: {DARK_CARD};
+}
+.gs-kpi {
+    background: #1a1a1a;
     border-radius: 8px;
     padding: 12px 14px;
-    border: 0.5px solid {DARK_BORDER};
-}}
-.gs-kpi-label {{
+    border: 0.5px solid #2a2a2a;
+}
+.gs-kpi-label {
     font-size: 10px;
     color: #555;
     margin: 0 0 4px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-}}
-.gs-kpi-value {{
+}
+.gs-kpi-value {
     font-size: 22px;
     font-weight: 600;
-    color: {DARK_TEXT};
+    color: #fff;
     margin: 0;
-}}
-.gs-kpi-sub {{ font-size: 11px; color: {ACCENT}; margin-top: 2px; }}
-.gs-kpi-sub-neg {{ font-size: 11px; color: #f87171; margin-top: 2px; }}
-.gs-source {{ font-size: 11px; color: #9ca3af; margin-top: 8px; }}
-.gs-source span {{ color: {ACCENT}; }}
-.delta-pos {{ color: {POSITIVE}; font-weight: 500; }}
-.delta-neg {{ color: {NEGATIVE}; font-weight: 500; }}
-.section-title {{
+}
+.gs-kpi-sub { font-size: 11px; color: #4ade9a; margin-top: 2px; }
+.gs-kpi-sub-neg { font-size: 11px; color: #f87171; margin-top: 2px; }
+.gs-source { font-size: 11px; color: #9ca3af; margin-top: 8px; }
+.gs-source span { color: #4ade9a; }
+.delta-pos { color: #16a34a; font-weight: 500; }
+.delta-neg { color: #dc2626; font-weight: 500; }
+.section-title {
     font-size: 15px;
     font-weight: 600;
     color: #111;
     margin: 1.5rem 0 0.75rem;
     padding-bottom: 6px;
-    border-bottom: 2px solid {ACCENT};
+    border-bottom: 2px solid #4ade9a;
     display: inline-block;
-}}
-.badge-tracking {{
+}
+.badge-tracking {
     background: #f0fdf4; color: #15803d;
     border: 0.5px solid #bbf7d0;
     padding: 2px 8px; border-radius: 4px; font-size: 11px;
-}}
-.badge-event {{
+}
+.badge-event {
     background: #eff6ff; color: #1d4ed8;
     border: 0.5px solid #bfdbfe;
     padding: 2px 8px; border-radius: 4px; font-size: 11px;
-}}
-.badge-none {{
+}
+.badge-none {
     background: #f9fafb; color: #9ca3af;
     border: 0.5px solid #e5e7eb;
     padding: 2px 8px; border-radius: 4px; font-size: 11px;
-}}
+}
+.gs-data-table {
+    width: 100%; border-collapse: collapse;
+    font-size: 13px; font-family: Inter, sans-serif;
+}
+.gs-data-table th {
+    background: #f9fafb; color: #6b7280; font-weight: 500;
+    padding: 8px 10px; text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px;
+    white-space: nowrap;
+}
+.gs-data-table td {
+    padding: 8px 10px; border-bottom: 0.5px solid #f3f4f6;
+    color: #111; white-space: nowrap;
+}
+.gs-data-table tr:hover td { background: #f9fafb; }
+.gs-data-table tr:last-child td { border-bottom: none; }
 </style>
 """
 
 
 def render_header(active: str = "Leaderboard"):
     import streamlit as st
-    pages = [
-        ("Leaderboard", "Leaderboard"),
-        ("Team", "Team"),
-        ("Player", "Player"),
-        ("Predicted", "Predicted"),
-    ]
+    pages = ["Leaderboard", "Team", "Player", "Predicted"]
     nav_links = "".join(
-        f'<span class="{"gs-nav-active" if label == active else "gs-nav-item"}">{label}</span>'
-        for _, label in pages
+        f'<span class="{"gs-nav-active" if p == active else "gs-nav-item"}">{p}</span>'
+        for p in pages
     )
-    # Inject CSS separately first
-    st.markdown(CSS, unsafe_allow_html=True)
-    # Then inject header HTML separately
-    st.markdown(f"""
+    st.markdown(CSS + f"""
     <div class="gs-header">
         <span class="gs-logo">● wc-analytics</span>
         {nav_links}
