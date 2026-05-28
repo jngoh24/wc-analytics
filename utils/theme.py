@@ -21,8 +21,6 @@ PLOT_LAYOUT = dict(
     plot_bgcolor=PLOT_BG,
     font=dict(family="Inter, sans-serif", size=12, color=TEXT_COLOR),
     margin=dict(l=0, r=0, t=10, b=10),
-    xaxis=dict(showgrid=True, gridcolor=GRID_COLOR, linecolor=GRID_COLOR),
-    yaxis=dict(showgrid=True, gridcolor=GRID_COLOR, linecolor=GRID_COLOR),
 )
 
 CSS = """
