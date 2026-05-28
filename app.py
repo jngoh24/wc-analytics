@@ -29,18 +29,18 @@ meta = load_match_metadata()
 
 # ── Tournament KPIs ─────────────────────────────────────────────────────────
 total_goals   = int(lb["total_goals"].sum()) if "total_goals" in lb.columns else 0
-total_xg      = round(lb["total_xg"].sum(), 1) if "total_xg" in lb.columns else 0
+avg_xg        = round(lb["xg_per_game"].mean(), 2) if "xg_per_game" in lb.columns else 0
 avg_hsr       = round(lb["rel_hsr_runs_per_game"].mean(), 1) if "rel_hsr_runs_per_game" in lb.columns else 0
-max_speed     = round(lb["avg_max_speed_kmh"].max(), 1) if "avg_max_speed_kmh" in lb.columns else 0
+avg_hsr_dist  = round(lb["rel_hsr_dist_m_per_game"].mean(), 0) if "rel_hsr_dist_m_per_game" in lb.columns else 0
 
 hero(
     title="FIFA World Cup 2022 · Team Leaderboard",
     subtitle="GradientSports tracking + StatsBomb event data · 64 matches · 32 teams",
     kpis=[
-        {"label": "Total Goals",    "value": total_goals,  "sub": f"{total_goals/64:.2f} per game"},
-        {"label": "Total xG",       "value": total_xg,     "sub": "StatsBomb model"},
-        {"label": "Avg Rel. HSR/G", "value": avg_hsr,      "sub": "≥80% vMax · ≥1 sec"},
-        {"label": "Peak Speed",     "value": f"{max_speed} km/h", "sub": "GradientSports tracking"},
+        {"label": "Total Goals",      "value": total_goals,       "sub": f"{total_goals/64:.2f} per game"},
+        {"label": "Avg xG / Game",    "value": avg_xg,            "sub": "StatsBomb model"},
+        {"label": "Avg Rel. HSR/G",   "value": avg_hsr,           "sub": "≥80% vMax · ≥1 sec"},
+        {"label": "Avg HSR Dist/G",   "value": f"{int(avg_hsr_dist)} m", "sub": "GradientSports tracking"},
     ]
 )
 
