@@ -232,9 +232,15 @@ if "rel_hsr_runs_per_game" in lb.columns and "abs_hsr_runs_per_game" in lb.colum
         selector=dict(mode="markers+text"),
     )
     fig2.update_layout(
-        **plotly_base(height=480),
-        coloraxis_showscale=False,
-    )
+    height=480,
+    paper_bgcolor="#f7f7f5",
+    plot_bgcolor="#ffffff",
+    font=dict(family="Inter, sans-serif", size=12, color="#666666"),
+    margin=dict(l=0, r=0, t=10, b=10),
+    xaxis=dict(showgrid=True, gridcolor="#eeeeec"),
+    yaxis=dict(showgrid=True, gridcolor="#eeeeec"),
+    coloraxis_showscale=False,
+)
     st.plotly_chart(fig2, width="stretch")
 
 source_note()
