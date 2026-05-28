@@ -23,15 +23,15 @@ st.set_page_config(
 
 inject_css()
 
-with st.sidebar:
-    st.markdown("## ⚽ wc-analytics")
-    st.markdown("---")
-    st.page_link("app.py",                        label="🏆 Leaderboard")
-    st.page_link("pages/1_Team_Deep_Dive.py",     label="🔍 Team Deep Dive")
-    st.page_link("pages/2_Player_Profile.py",     label="👤 Player Profile")
-    st.page_link("pages/3_WC26_Predicted.py",     label="🔮 WC26 Predicted")
-    st.markdown("---")
-    st.caption("GradientSports tracking · StatsBomb open data")
+# with st.sidebar:
+#     st.markdown("## ⚽ wc-analytics")
+#     st.markdown("---")
+#     st.page_link("app.py",                        label="🏆 Leaderboard")
+#     st.page_link("pages/1_Team_Deep_Dive.py",     label="🔍 Team Deep Dive")
+#     st.page_link("pages/2_Player_Profile.py",     label="👤 Player Profile")
+#     st.page_link("pages/3_WC26_Predicted.py",     label="🔮 WC26 Predicted")
+#     st.markdown("---")
+#     st.caption("GradientSports tracking · StatsBomb open data")
 
 # ── Load data ─────────────────────────────────────────────────────────────────
 lb        = load_team_leaderboard()
