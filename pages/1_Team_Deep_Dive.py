@@ -117,7 +117,7 @@ with tab1:
                     yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                     font=dict(family="Inter, sans-serif", size=12),
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
 
 # ── TAB 2: Physical ───────────────────────────────────────────────────────────
 with tab2:
@@ -165,7 +165,7 @@ with tab2:
                 yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                 font=dict(family="Inter, sans-serif", size=12),
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
     source_note(tracking=True, event=False)
 
@@ -208,7 +208,7 @@ with tab3:
                 yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                 font=dict(family="Inter, sans-serif", size=12),
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
         # Possession + pass completion per match
         col1, col2 = st.columns(2)
@@ -226,7 +226,7 @@ with tab3:
                     xaxis=dict(showgrid=False), yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                     font=dict(family="Inter, sans-serif", size=12),
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
         with col2:
             if "pressures" in team_matches_sb.columns:
                 st.markdown("**Pressures per match**")
@@ -240,7 +240,7 @@ with tab3:
                     xaxis=dict(showgrid=False), yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                     font=dict(family="Inter, sans-serif", size=12),
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
 
     source_note(tracking=False, event=True)
 
@@ -320,6 +320,6 @@ with tab4:
                     yaxis=dict(showgrid=True, gridcolor="#f3f4f6"),
                     font=dict(family="Inter, sans-serif", size=12),
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
 
     source_note(tracking=False, event=True)
