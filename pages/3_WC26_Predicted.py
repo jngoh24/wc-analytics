@@ -117,11 +117,15 @@ if stat_col in predicted.columns:
     )
     fig.update_traces(texttemplate="%{x:.2f}", textposition="outside")
     fig.update_layout(
-        **plotly_base(height=max(300, pred_n * 34)),
-        xaxis=dict(showgrid=True, gridcolor="#eeeeec", title=""),
-        yaxis=dict(title="", categoryorder="total ascending"),
-        showlegend=False,
-    )
+    height=max(300, pred_n * 34),
+    paper_bgcolor="#f7f7f5",
+    plot_bgcolor="#ffffff",
+    font=dict(family="Inter, sans-serif", size=12, color="#666666"),
+    margin=dict(l=0, r=60, t=10, b=10),
+    xaxis=dict(showgrid=True, gridcolor="#eeeeec", title=""),
+    yaxis=dict(title="", categoryorder="total ascending"),
+    showlegend=False,
+)
     st.plotly_chart(fig, width="stretch")
 
     # Table
